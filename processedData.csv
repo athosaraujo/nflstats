@@ -1,0 +1,1632 @@
+playerName,age,hometown,college,team,number,height,weight,experience,id
+"Walton, L.T.",25.0,"Detroit , MI",Central Michigan,Pittsburgh Steelers,96,195.58,138.35,3rd season,l.t.walton/2552444
+"Coleman, Kurt",29.0,"Dayton , OH",Ohio State,Carolina Panthers,20,180.34,90.72,8th season,kurtcoleman/494261
+"Carrie, T.J.",26.0,"Rodeo , CA",Ohio U.,Oakland Raiders,38,182.88,92.99,4th season,t.j.carrie/2550164
+"Johnson, Trumaine",27.0,"Stockton , CA",Montana,Los Angeles Rams,22,187.96,94.35,6th season,trumainejohnson/2532877
+"Beadles, Zane",30.0,"Casper , WY",Utah,San Francisco 49ers,68,193.04,138.35,8th season,zanebeadles/496980
+"Savage, Tom",27.0,"Clifton Heights , PA",Pittsburgh,Houston Texans,3,193.04,104.33,4th season,tomsavage/2543640
+"Tunsil, Laremy",22.0,"Harvey , LA",Mississippi,Miami Dolphins,67,195.58,143.34,2nd season,laremytunsil/2555201
+"Riley, Perry",29.0,"Atlanta , GA",LSU,Oakland Raiders,54,182.88,108.86,8th season,perryriley/496949
+"Blackmon, Will",32.0,"Providence , RI",Boston College,Washington Redskins,41,182.88,96.16,11th season,willblackmon/2495809
+"Jackson, Malik",27.0,"Los Angeles , CA",Tennessee,Jacksonville Jaguars,90,195.58,136.08,6th season,malikjackson/2532873
+"Fulton, Zach",25.0,"Matteson , IL",Tennessee,Kansas City Chiefs,73,195.58,143.34,4th season,zachfulton/2543862
+"Tate, Brandon",29.0,"Burlington , NC",North Carolina,Buffalo Bills,15,185.42,88.45,9th season,brandontate/81306
+"Liuget, Corey",27.0,"Miami , FL",Illinois,Los Angeles Chargers,94,187.96,136.08,7th season,coreyliuget/2495483
+"Herzlich, Mark",29.0,"Kirkwood , MO",Boston College,New York Giants,44,193.04,111.58,7th season,markherzlich/2495164
+"Johnson, T.J.",26.0,"Moncks Corner , SC",South Carolina,Cincinnati Bengals,60,193.04,136.08,4th season,t.j.johnson/2540251
+"Lewan, Taylor",25.0,"Scottsdale , AZ",Michigan,Tennessee Titans,77,200.66,140.16,4th season,taylorlewan/2550132
+"Chung, Patrick",29.0,Kingston Jamaica,Oregon,New England Patriots,23,180.34,97.52,9th season,patrickchung/71251
+"Drake, Kenyan",23.0,"Powder Springs , GA",Alabama,Miami Dolphins,32,185.42,97.98,2nd season,kenyandrake/2555230
+"Rollins, Quinten",24.0,"Canton , OH",Miami (Ohio),Green Bay Packers,24,180.34,88.45,3rd season,quintenrollins/2552263
+"Fant, George",24.0,"Cincinnati , OH",Western Kentucky,Seattle Seahawks,74,195.58,134.26,2nd season,georgefant/2556524
+"Tripp, Jordan",26.0,"Missoula , MT",Montana,Green Bay Packers,58,193.04,110.68,4th season,jordantripp/2550147
+"Showers, Jameill",25.0,"Alpine , TX",Texas-El Paso,Dallas Cowboys,7,187.96,104.33,1st season,jameillshowers/2553600
+"Perry, Joshua",23.0,"Nashville , TN",Ohio State,Los Angeles Chargers,53,193.04,114.76,2nd season,joshuaperry/2555326
+"Janikowski, Sebastian",39.0,Walbrzych Poland,Florida State,Oakland Raiders,11,185.42,120.2,18th season,sebastianjanikowski/2504257
+"Wetzel, John",25.0,"Pittsburgh , PA",Boston College,Arizona Cardinals,73,200.66,148.78,2nd season,johnwetzel/2539207
+"Dray, Jim",30.0,"New Milford , NJ",Stanford,San Francisco 49ers,49,195.58,115.67,8th season,jimdray/497226
+"Sorensen, Daniel",27.0,"Riverside , CA",Brigham Young,Kansas City Chiefs,49,187.96,94.35,4th season,danielsorensen/2550257
+"Ikard, Gabe",26.0,"Nichols Hills , OK",Oklahoma,Cleveland Browns,60,193.04,137.89,4th season,gabeikard/2550487
+"Randall, Damarious",24.0,"Pensacola , FL",Arizona State,Green Bay Packers,23,180.34,88.9,3rd season,damariousrandall/2552389
+"Jones, Abry",25.0,"Fort Gordon , GA",Georgia,Jacksonville Jaguars,95,193.04,144.24,5th season,abryjones/2539230
+"Lewis, Alex",25.0,"Phoenix , AZ",Nebraska,Baltimore Ravens,72,198.12,142.88,2nd season,alexlewis/2555353
+"Smith, Daryl",35.0,"Albany , GA",Georgia Tech,Tampa Bay Buccaneers,51,187.96,113.4,14th season,darylsmith/2506029
+"Richardson, Daryl",27.0,"Vernon , TX",Abilene Christian,Jacksonville Jaguars,38,180.34,88.9,4th season,darylrichardson/2534789
+"Robinson, Trevor",27.0,"Kearney , NE",Notre Dame,Atlanta Falcons,60,195.58,136.08,5th season,trevorrobinson/2535842
+"Hudson, Rodney",27.0,"Mobile , AL",Florida State,Oakland Raiders,61,187.96,136.08,7th season,rodneyhudson/2495171
+"Gillmore, Crockett",25.0,"Amarillo , TX",Colorado State,Baltimore Ravens,80,198.12,117.93,4th season,crockettgillmore/2543794
+"Byrd, Damiere",24.0,"Camden , NJ",South Carolina,Carolina Panthers,18,175.26,81.65,2nd season,damierebyrd/2553499
+"Westerman, Christian",24.0,"Chandler , AZ",Arizona State,Cincinnati Bengals,63,190.5,136.08,2nd season,christianwesterman/2555131
+"Cooper, Amari",22.0,"Miami , FL",Alabama,Oakland Raiders,89,185.42,95.25,3rd season,amaricooper/2552487
+"Glanton, Adarius",26.0,"Bartow , FL",Florida Atlantic,Tampa Bay Buccaneers,53,185.42,104.33,4th season,adariusglanton/2550565
+"Purdum, Tanner",32.0,"Enid , OK",Baker,New York Jets,46,190.5,122.47,8th season,tannerpurdum/2507549
+"Flowers, Marquis",25.0,"Independence , MO",Arizona,Cincinnati Bengals,53,190.5,111.13,4th season,marquisflowers/2549896
+"Urschel, John",25.0,"Winnipeg , Manitoba",Penn State,Baltimore Ravens,64,190.5,136.08,4th season,johnurschel/2543845
+"Hood, Ziggy",30.0,"Amarillo , TX",Missouri,Washington Redskins,90,190.5,138.35,9th season,ziggyhood/2507780
+"Whitehead, Tahir",27.0,"Jersey City , NJ",Temple,Detroit Lions,59,187.96,109.32,6th season,tahirwhitehead/2532986
+"Brown, Ryan",22.0,"Marrero , LA",Mississippi State,Cincinnati Bengals,76,198.12,121.11,1st season,ryanbrown/2556483
+"Bromley, Jay",25.0,"New York , NY",Syracuse,New York Giants,96,190.5,138.8,4th season,jaybromley/2543860
+"Odhiambo, Rees",24.0,Nairobi Kenya,Boise State,Seattle Seahawks,70,193.04,142.88,2nd season,reesodhiambo/2555142
+"Washington, Dwayne",23.0,"Claremont , CA",Washington,Detroit Lions,36,185.42,101.15,2nd season,dwaynewashington/2556118
+"Davis, Todd",25.0,"Inglewood , CA",Sacramento State,Denver Broncos,51,185.42,104.33,4th season,todddavis/2550930
+"Porter, Tracy",30.0,"Port Allen , LA",Indiana,Chicago Bears,21,180.34,90.72,10th season,tracyporter/2507471
+"Graham, Jimmy",30.0,"Goldsboro , NC",Miami (Fla.),Seattle Seahawks,88,200.66,120.2,8th season,jimmygraham/497236
+"Smith, Antonio",35.0,"Oklahoma City , OK",Oklahoma State,Houston Texans,94,190.5,131.54,14th season,antoniosmith/2505988
+"Fairbairn, Ka'imi",23.0,"Kailua , HI",UCLA,Houston Texans,7,182.88,83.91,2nd season,ka'imifairbairn/2556521
+"Mitchell, Mike",29.0,"Fort Thomas , KY",Ohio U.,Pittsburgh Steelers,23,185.42,100.24,9th season,mikemitchell/238227
+"Carroo, Leonte",23.0,"Plainfield , NJ",Rutgers,Miami Dolphins,88,182.88,98.43,2nd season,leontecarroo/2555215
+"Wright, K.J.",27.0,"Memphis , TN",Mississippi State,Seattle Seahawks,50,193.04,111.58,7th season,k.j.wright/2495252
+"Chester, Chris",34.0,"Tustin , CA",Oklahoma,Atlanta Falcons,65,190.5,137.44,12th season,chrischester/2495819
+"Tamme, Jacob",32.0,"Lexington , KY",Kentucky,Atlanta Falcons,83,190.5,104.33,10th season,jacobtamme/324
+"Tulloch, Stephen",32.0,"Miami , FL",North Carolina State,Philadelphia Eagles,50,180.34,111.13,12th season,stephentulloch/2506921
+"Dunbar, Quinton",24.0,"Miami , FL",Florida,Washington Redskins,47,187.96,92.08,3rd season,quintondunbar/2553796
+"Rodgers-Cromartie, Dominique",31.0,"Bradenton , FL",Tennessee State,New York Giants,41,187.96,87.54,10th season,dominiquerodgers-cromartie/306
+"Fowler, Dante",22.0,"St. Petersburg , FL",Florida,Jacksonville Jaguars,56,187.96,113.4,3rd season,dantefowler/2553431
+"Drescher, Justin",29.0,"Colorado Springs , CO",Colorado,New Orleans Saints,47,185.42,106.59,8th season,justindrescher/2513195
+"McLeod, Rodney",26.0,"Clinton , MD",Virginia,Philadelphia Eagles,23,177.8,88.45,6th season,rodneymcleod/2534832
+"Brock, Tramaine",28.0,"Gulfport , MS",Belhaven College,San Francisco 49ers,26,177.8,89.36,8th season,tramainebrock/2507917
+"Cox, Fletcher",26.0,"Yazoo City , MS",Mississippi State,Philadelphia Eagles,91,193.04,140.61,6th season,fletchercox/2533051
+"Edelman, Julian",31.0,"Redwood City , CA",Kent State,New England Patriots,11,177.8,90.72,9th season,julianedelman/238498
+"Gilmore, Stephon",26.0,"Rock Hill , SC",South Carolina,New England Patriots,24,185.42,86.18,6th season,stephongilmore/2533062
+"Williamson, Andrew",24.0,Germany,Vanderbilt,Indianapolis Colts,36,185.42,96.16,2nd season,andrewwilliamson/2556402
+"Pierre-Louis, Kevin",25.0,"Norwalk , CT",Boston College,Seattle Seahawks,58,182.88,104.33,4th season,kevinpierre-louis/2543563
+"Foster, Mason",28.0,"Seaside , CA",Washington,Washington Redskins,54,185.42,113.4,7th season,masonfoster/2495281
+"Bucannon, Deone",24.0,"Oakland , CA",Washington State,Arizona Cardinals,20,185.42,95.71,4th season,deonebucannon/2543769
+"Rowe, Eric",24.0,"Cleveland , OH",Utah,New England Patriots,25,185.42,92.99,3rd season,ericrowe/2552255
+"O'Donnell, Pat",26.0,"Lake Worth , FL",Miami (Fla.),Chicago Bears,16,193.04,98.43,4th season,pato'donnell/2543611
+"Kush, Eric",27.0,"Canonsburg , PA",California (PA),Chicago Bears,64,193.04,141.97,4th season,erickush/2541312
+"Williams, Brandon",28.0,"Kirkwood , MO",Missouri Southern State,Baltimore Ravens,98,185.42,154.22,5th season,brandonwilliams/2541302
+"Penny, Elijhaa",23.0,"Los Angeles , CA",Idaho,Arizona Cardinals,35,187.96,106.14,1st season,elijhaapenny/2556762
+"Rivers, Derek",23.0,"Augusta , ME",Youngstown State,New England Patriots,95,193.04,113.4,Rookie,derekrivers/2558040
+"Miller, Harlan",22.0,"Hammond , LA",Southeastern Louisiana,Arizona Cardinals,34,182.88,82.55,1st season,harlanmiller/2555174
+"Cook, Connor",24.0,"Cleveland , OH",Michigan State,Oakland Raiders,8,193.04,98.43,2nd season,connorcook/2555332
+"Funchess, Devin",23.0,"Farmington Hills , MI",Michigan,Carolina Panthers,17,193.04,102.06,3rd season,devinfunchess/2552458
+"Crowder, Jamison",23.0,"Monroe , NC",Duke,Washington Redskins,80,172.72,82.55,3rd season,jamisoncrowder/2552415
+"Spadola, Ryan",26.0,"Herndon , VA",Lehigh,Detroit Lions,18,185.42,92.99,3rd season,ryanspadola/2540268
+"Valentine, Vincent",23.0,"Madison , IL",Nebraska,New England Patriots,99,187.96,145.15,2nd season,vincentvalentine/2555517
+"Line, Zach",27.0,"Royal Oak , MI",Southern Methodist,Minnesota Vikings,48,185.42,105.69,5th season,zachline/2539303
+"Theus, John",23.0,"Glen St. Mary , FL",Georgia,San Francisco 49ers,71,198.12,137.44,2nd season,johntheus/2555198
+"Vitale, Danny",23.0,"Wheaton , IL",Northwestern,Cleveland Browns,40,185.42,108.41,2nd season,dannyvitale/2555218
+"Miller, Braxton",24.0,"Springfield , OH",Ohio State,Houston Texans,13,185.42,92.99,2nd season,braxtonmiller/2555348
+"Abdullah, Ameer",23.0,"Mobile , AL",Nebraska,Detroit Lions,21,175.26,92.08,3rd season,ameerabdullah/2552374
+"Green, A.J.",28.0,"Ridgeville , SC",Georgia,Cincinnati Bengals,18,193.04,95.25,7th season,a.j.green/2495450
+"Johnson, Rashad",31.0,"Sulligent , AL",Alabama,Tennessee Titans,25,180.34,92.53,9th season,rashadjohnson/71353
+"Clowney, Jadeveon",24.0,"Rock Hill , SC",South Carolina,Houston Texans,90,195.58,122.47,4th season,jadeveonclowney/2543456
+"McClain, Rolando",27.0,"Athens , AL",Alabama,Dallas Cowboys,55,193.04,115.67,6th season,rolandomcclain/496941
+"Myers, Jason",26.0,"Chula Vista , CA",Marist,Jacksonville Jaguars,2,177.8,88.45,3rd season,jasonmyers/2553112
+"Omameh, Patrick",27.0,"Columbus , OH",Michigan,Jacksonville Jaguars,77,193.04,143.34,5th season,patrickomameh/2539259
+"Forrest, Josh",25.0,"Paducah , KY",Kentucky,Los Angeles Rams,59,190.5,112.94,2nd season,joshforrest/2555167
+"Bodine, Russell",24.0,"Woodbridge , VA",North Carolina,Cincinnati Bengals,61,190.5,139.71,4th season,russellbodine/2543622
+"Witzmann, Bryan",26.0,"New Brighton , MN",South Dakota State,Kansas City Chiefs,70,200.66,145.15,2nd season,bryanwitzmann/2550606
+"Williams, Xavier",25.0,"Grandview , MO",Northern Iowa,Arizona Cardinals,94,187.96,140.16,3rd season,xavierwilliams/2553764
+"Dangerfield, Jordan",26.0,"Elmont , NY",Towson,Pittsburgh Steelers,37,177.8,90.26,2nd season,jordandangerfield/2541696
+"Judon, Matt",24.0,"Pontiac , MI",Grand Valley State,Baltimore Ravens,91,190.5,124.74,2nd season,mattjudon/2555505
+"Crabtree, Michael",29.0,"Dallas , TX",Texas Tech,Oakland Raiders,15,185.42,97.52,9th season,michaelcrabtree/71269
+"Bell, Le'Veon",25.0,"Columbus , OH",Michigan State,Pittsburgh Steelers,26,185.42,102.06,5th season,le'veonbell/2540175
+"Jenkins, Jarvis",29.0,"Clemson , SC",Clemson,Kansas City Chiefs,94,193.04,136.08,7th season,jarvisjenkins/2495178
+"Mewhort, Jack",25.0,"Toledo , OH",Ohio State,Indianapolis Colts,75,198.12,141.52,4th season,jackmewhort/2543744
+"Koyack, Ben",24.0,"Oil City , PA",Notre Dame,Jacksonville Jaguars,83,195.58,122.02,2nd season,benkoyack/2552396
+"Byrd, Jairus",30.0,"San Diego , CA",Oregon,New Orleans Saints,31,177.8,92.08,9th season,jairusbyrd/79899
+"Long, Spencer",26.0,"Omaha , NE",Nebraska,Washington Redskins,61,195.58,146.96,4th season,spencerlong/2550140
+"Allen, Javorius",25.0,"Tallahassee , FL",USC,Baltimore Ravens,37,182.88,100.7,3rd season,javoriusallen/2552631
+"Grymes, Aaron",26.0,"Seattle , WA",Idaho,Philadelphia Eagles,38,180.34,83.91,1st season,aarongrymes/2555574
+"Cooks, Brandin",23.0,"Stockton , CA",Oregon State,New England Patriots,14,177.8,85.73,4th season,brandincooks/2543498
+"Marpet, Ali",24.0,"Carmel , NY",Hobart,Tampa Bay Buccaneers,74,193.04,139.25,3rd season,alimarpet/2552332
+"Andrews, Josh",25.0,"Los Angeles , CA",Oregon State,Philadelphia Eagles,68,187.96,141.07,3rd season,joshandrews/2550277
+"Daniels, Mike",28.0,"Stratford , NJ",Iowa,Green Bay Packers,76,182.88,140.61,6th season,mikedaniels/2532826
+"Palepoi, Tenny",26.0,"Salt Lake City , UT",Utah,Los Angeles Chargers,95,185.42,135.17,4th season,tennypalepoi/2550460
+"Hargreaves, Vernon",22.0,"Manchester , CT",Florida,Tampa Bay Buccaneers,28,177.8,92.53,2nd season,vernonhargreaves/2555299
+"Bryant, Dez",28.0,"Galveston Co. , TX",Oklahoma State,Dallas Cowboys,88,187.96,99.79,8th season,dezbryant/497278
+"Darr, Matt",24.0,"Bakersfield , CA",Tennessee,Miami Dolphins,4,185.42,97.07,3rd season,mattdarr/2553642
+"Allen, Antonio",28.0,"Ocala , FL",South Carolina,New York Jets,39,185.42,95.25,6th season,antonioallen/2532786
+"Ertz, Zach",26.0,"Orange , CA",Stanford,Philadelphia Eagles,86,195.58,113.4,5th season,zachertz/2540158
+"Henry, Hunter",22.0,"Little Rock , AR",Arkansas,Los Angeles Chargers,86,195.58,113.4,2nd season,hunterhenry/2555341
+"Williams, Damien",25.0,"San Diego , CA",Oklahoma,Miami Dolphins,26,180.34,103.42,4th season,damienwilliams/2550512
+"Gaines, E.J.",25.0,"Lees Summit , MO",Missouri,Los Angeles Rams,33,177.8,86.18,4th season,e.j.gaines/2543823
+"Glenn, Cordy",27.0,"Atlanta , GA",Georgia,Buffalo Bills,77,198.12,156.49,6th season,cordyglenn/2532849
+"Murphy, Kyle",23.0,"Mission Viejo , CA",Stanford,Green Bay Packers,68,198.12,138.35,2nd season,kylemurphy/2555200
+"Jones, Reshad",29.0,"Atlanta , GA",Georgia,Miami Dolphins,20,185.42,97.07,8th season,reshadjones/496739
+"Jones, Chris",22.0,"Houston , MS",Mississippi State,Kansas City Chiefs,95,195.58,140.61,2nd season,chrisjones/2556369
+"Upshaw, Courtney",27.0,"Eufaula , AL",Alabama,Atlanta Falcons,91,187.96,123.38,6th season,courtneyupshaw/2532964
+"Harris, Josh",28.0,"Carrollton , GA",Auburn,Atlanta Falcons,47,185.42,101.6,6th season,joshharris/2533554
+"Jansen, J.J.",31.0,"Phoenix , AZ",Notre Dame,Carolina Panthers,44,187.96,108.86,10th season,j.j.jansen/2507412
+"Williams, Teddy",28.0,"Tyler , TX",Texas-San Antonio,Carolina Panthers,21,185.42,95.25,6th season,teddywilliams/2508077
+"Thomas, Joe",32.0,"Brookfield , WI",Wisconsin,Cleveland Browns,73,198.12,141.52,11th season,joethomas/2507162
+"Sambrailo, Ty",25.0,"Watsonville , CA",Colorado State,Denver Broncos,74,195.58,142.88,3rd season,tysambrailo/2552366
+"McLendon, Steve",31.0,"Ozark , AL",Troy,New York Jets,99,190.5,140.61,8th season,stevemclendon/2507590
+"Niklas, Troy",24.0,"Fullerton , CA",Notre Dame,Arizona Cardinals,87,198.12,122.47,4th season,troyniklas/2543628
+"Armstead, Terron",25.0,"East St. Louis , IL",Arkansas-Pine Bluff,New Orleans Saints,72,195.58,137.89,5th season,terronarmstead/2540228
+"Armstrong, Ray-Ray",26.0,"Sanford , FL",Miami (Fla.),San Francisco 49ers,54,190.5,99.79,5th season,ray-rayarmstrong/2541792
+"Johnson, Derrick",34.0,"Waco , TX",Texas,Kansas City Chiefs,56,190.5,109.77,13th season,derrickjohnson/2506353
+"Parry, David",25.0,"Carrollton , TX",Stanford,Indianapolis Colts,54,187.96,140.61,3rd season,davidparry/2552438
+"Keyes, Josh",24.0,"Philmont , NY",Boston College,Atlanta Falcons,52,187.96,101.15,3rd season,joshkeyes/2553719
+"Abdul-Quddus, Isa",27.0,"Newark , NJ",Fordham,Miami Dolphins,24,185.42,88.9,7th season,isaabdul-quddus/2530658
+"Chekwa, Chimdi",29.0,"Marrero , LA",Ohio State,Miami Dolphins,38,182.88,86.18,5th season,chimdichekwa/2495138
+"Smith, Donovan",23.0,"Hempstead , NY",Penn State,Tampa Bay Buccaneers,76,198.12,153.31,3rd season,donovansmith/2552460
+"Young, Willie",31.0,"Riviera Beach , FL",North Carolina State,Chicago Bears,97,193.04,117.03,8th season,willieyoung/2508063
+"Hopkins, Trey",24.0,"Houston , TX",Texas,Cincinnati Bengals,66,190.5,140.61,2nd season,treyhopkins/2550208
+"Braunecker, Ben",23.0,"Jasper , IN",Harvard,Chicago Bears,84,193.04,115.67,2nd season,benbraunecker/2556478
+"Fackrell, Kyler",25.0,"Logan , UT",Utah State,Green Bay Packers,51,195.58,111.13,2nd season,kylerfackrell/2555340
+"Prosch, Jay",24.0,"Saraland , AL",Auburn,Houston Texans,45,185.42,115.67,4th season,jayprosch/2543695
+"Collins, Jamie",27.0,"Mccall Creek , MS",Southern Mississippi,Cleveland Browns,51,190.5,113.4,5th season,jamiecollins/2539311
+"Karras, Ted",24.0,"Chicago , IL",Illinois,New England Patriots,75,193.04,138.35,2nd season,tedkarras/2555145
+"Hyde, Carlos",26.0,"Cincinnati , OH",Ohio State,San Francisco 49ers,28,182.88,106.59,4th season,carloshyde/2543743
+"Smith, Jacquies",27.0,"Dallas , TX",Missouri,Tampa Bay Buccaneers,56,187.96,117.93,4th season,jacquiessmith/2533005
+"Weddle, Eric",32.0,"Fontana , CA",Utah,Baltimore Ravens,32,180.34,88.45,11th season,ericweddle/2495775
+"Barnes, T.J.",26.0,"Montgomery , AL",Georgia Tech,Kansas City Chiefs,77,200.66,165.11,3rd season,t.j.barnes/2540276
+"Fairley, Nick",29.0,"Mobile , AL",Auburn,New Orleans Saints,90,193.04,139.71,7th season,nickfairley/2495479
+"Jenkins, Janoris",28.0,"Pahokee , FL",North Alabama,New York Giants,20,177.8,89.81,6th season,janorisjenkins/2532875
+"Flowers, Brandon",31.0,"Delray Beach , FL",Virginia Tech,Los Angeles Chargers,24,175.26,84.82,10th season,brandonflowers/754
+"Stanford, Julian",26.0,"Bloomfield , CT",Wagner,New York Jets,51,185.42,104.33,4th season,julianstanford/2535867
+"Moore, Chris",23.0,"Orlando , FL",Cincinnati,Baltimore Ravens,10,185.42,90.72,2nd season,chrismoore/2555209
+"Davis, Cody",28.0,"Stephenville , TX",Texas Tech,Los Angeles Rams,38,185.42,93.44,5th season,codydavis/2541135
+"Spriggs, Jason",23.0,"Country Club Hills , IL",Indiana,Green Bay Packers,78,198.12,136.53,2nd season,jasonspriggs/2555197
+"Bosa, Joey",21.0,"Miami , FL",Ohio State,Los Angeles Chargers,99,195.58,127.01,2nd season,joeybosa/2555249
+"Robinson, Corey",25.0,"Havelock , NC",South Carolina,Detroit Lions,70,200.66,143.79,3rd season,coreyrobinson/2552356
+"Colquitt, Dustin",35.0,"Knoxville , TN",Tennessee,Kansas City Chiefs,2,190.5,95.25,13th season,dustincolquitt/2506438
+"Wood, Eric",31.0,"Cincinnati , OH",Louisville,Buffalo Bills,70,193.04,140.61,9th season,ericwood/71523
+"Mathews, Ricardo",29.0,"Jacksonville , FL",Cincinnati,Pittsburgh Steelers,90,190.5,136.08,8th season,ricardomathews/1037901
+"Aikens, Walt",25.0,"Charlotte , NC",Liberty,Miami Dolphins,35,185.42,98.88,4th season,waltaikens/2543724
+"Shazier, Ryan",24.0,"Lauderdale Lakes , FL",Ohio State,Pittsburgh Steelers,50,185.42,104.33,4th season,ryanshazier/2543486
+"Tialavea, D.J.",25.0,"West Jordan , UT",Utah State,Atlanta Falcons,86,193.04,117.93,3rd season,d.j.tialavea/2550406
+"Martin, Zack",26.0,"Indianapolis , IN",Notre Dame,Dallas Cowboys,70,193.04,140.61,4th season,zackmartin/2543480
+"Freeman, Jerrell",31.0,"Waco , TX",Mary Hardin-Baylor,Chicago Bears,50,182.88,107.05,6th season,jerrellfreeman/2514414
+"Sitton, Josh",30.0,"Jacksonville , FL",Central Florida,Chicago Bears,71,190.5,144.24,10th season,joshsitton/4485
+"Artis-Payne, Cameron",26.0,"Chester , PA",Auburn,Carolina Panthers,34,177.8,99.79,3rd season,cameronartis-payne/2552375
+"Turbin, Robert",27.0,"Oakland , CA",Utah State,Indianapolis Colts,33,177.8,102.06,6th season,robertturbin/2533460
+"Palardy, Michael",24.0,"Margate , FL",Tennessee,Carolina Panthers,5,180.34,86.64,2nd season,michaelpalardy/2550770
+"Thomas, Demaryius",29.0,"Montrose , GA",Georgia Tech,Denver Broncos,88,190.5,103.87,8th season,demaryiusthomas/497328
+"Huber, Kevin",31.0,"Cincinnati , OH",Cincinnati,Cincinnati Bengals,10,185.42,95.71,9th season,kevinhuber/71333
+"Barnidge, Gary",31.0,"Bowling Green , KY",Louisville,Cleveland Browns,82,198.12,113.4,10th season,garybarnidge/1060
+"Bush, Deon",23.0,"Miami , FL",Miami (Fla.),Chicago Bears,26,182.88,90.72,2nd season,deonbush/2555155
+"Scherff, Brandon",25.0,"Denison , IA",Iowa,Washington Redskins,75,195.58,146.51,3rd season,brandonscherff/2552032
+"Orakpo, Brian",30.0,"Houston , TX",Texas,Tennessee Titans,98,193.04,116.57,9th season,brianorakpo/71423
+"Pulley, Spencer",24.0,"Memphis , TN",Vanderbilt,Los Angeles Chargers,73,193.04,139.71,2nd season,spencerpulley/2556821
+"Watts, Craig",25.0,"Sumter , SC",West Texas A&M,New York Jets,62,190.5,151.95,1st season,craigwatts/2550664
+"Allen, Ricardo",25.0,"Dayton Beach , FL",Purdue,Atlanta Falcons,37,175.26,84.37,3rd season,ricardoallen/2543850
+"Cole, Trent",34.0,"Xenia , OH",Cincinnati,Indianapolis Colts,58,190.5,122.47,13th season,trentcole/2506482
+"Thorpe, Neiko",27.0,"Southfield , MI",Auburn,Seattle Seahawks,27,185.42,90.72,5th season,neikothorpe/2534846
+"McCoy, Colt",30.0,"Hobbs , NM",Texas,Washington Redskins,16,185.42,97.52,8th season,coltmccoy/497123
+"Jones, Chandler",27.0,"Rochester , NY",Syracuse,Arizona Cardinals,55,195.58,120.2,6th season,chandlerjones/2533538
+"Davis, Carl",25.0,"Detroit , MI",Iowa,Baltimore Ravens,94,195.58,148.32,3rd season,carldavis/2552280
+"Gilchrist, Marcus",28.0,"High Point , NC",Clemson,New York Jets,21,177.8,89.81,7th season,marcusgilchrist/2495153
+"Frazier, Kavon",22.0,"Grand Rapids , MI",Central Michigan,Dallas Cowboys,35,182.88,98.43,2nd season,kavonfrazier/2555536
+"Stinson, Ed",27.0,"Homestead , FL",Alabama,Arizona Cardinals,91,193.04,130.18,4th season,edstinson/2543688
+"Lotulelei, Star",27.0,Tonga,Utah,Carolina Panthers,98,187.96,142.88,5th season,starlotulelei/2539329
+"Golson, Senquez",23.0,"Pascagoula , MS",Mississippi,Pittsburgh Steelers,27,175.26,79.83,3rd season,senquezgolson/2552264
+"Watkins, Jaylen",25.0,"Fort Myers , FL",Florida,Philadelphia Eagles,26,180.34,88.0,3rd season,jaylenwatkins/2543707
+"Williams, Darrell",23.0,Jamaica,South Florida,Los Angeles Rams,63,193.04,136.53,3rd season,darrellwilliams/2553748
+"McCown, Luke",35.0,"Jacksonville , TX",Louisiana Tech,New Orleans Saints,7,193.04,98.43,14th season,lukemccown/2506053
+"Walford, Clive",25.0,"Clewiston , FL",Miami (Fla.),Oakland Raiders,88,193.04,113.4,3rd season,clivewalford/2552397
+"Brees, Drew",38.0,"Austin , TX",Purdue,New Orleans Saints,9,182.88,94.8,17th season,drewbrees/2504775
+"Bryant, Corbin",29.0,"Chicago , IL",Northwestern,Buffalo Bills,97,193.04,136.08,5th season,corbinbryant/2531031
+"Coleman, Tevin",24.0,"Atlanta , GA",Indiana,Atlanta Falcons,26,185.42,95.25,3rd season,tevincoleman/2552453
+"Darkwa, Orleans",25.0,"Nashville , TN",Tulane,New York Giants,26,182.88,97.52,4th season,orleansdarkwa/2550481
+"Rivers, Philip",35.0,"Decatur , AL",North Carolina State,Los Angeles Chargers,17,195.58,103.42,14th season,philiprivers/2506121
+"McDonald, Vance",26.0,"Beaumont , TX",Rice,San Francisco 49ers,89,193.04,121.11,5th season,vancemcdonald/2540215
+"Collins, Landon",23.0,"New Orleans , LA",Alabama,New York Giants,21,182.88,102.06,3rd season,landoncollins/2552454
+"Lanier, Anthony",24.0,"Savannah , GA",Alabama A&M,Washington Redskins,72,198.12,127.91,2nd season,anthonylanier/2556416
+"Snead, Willie",24.0,"Winter Park , FL",Ball State,New Orleans Saints,83,180.34,88.45,3rd season,williesnead/2550256
+"Burton, Trey",25.0,"Venice , FL",Florida,Philadelphia Eagles,47,190.5,106.59,4th season,treyburton/2550284
+"King, Akeem",24.0,"Visalia , CA",San Jose State,Atlanta Falcons,25,185.42,96.16,3rd season,akeemking/2553456
+"Hilton, T.Y.",27.0,"Miami , FL",Florida International,Indianapolis Colts,13,175.26,81.65,6th season,t.y.hilton/2532865
+"Sample, James",24.0,"Sacramento , CA",Louisville,Jacksonville Jaguars,23,187.96,97.52,3rd season,jamessample/2552696
+"Gronkowski, Rob",28.0,"Amherst , NY",Arizona,New England Patriots,87,198.12,120.2,8th season,robgronkowski/497240
+"Raymond, Kalif",22.0,"Lawrenceville , GA",Holy Cross,Denver Broncos,19,175.26,72.57,1st season,kalifraymond/2556661
+"Kearse, Jermaine",27.0,"Lakewood , WA",Washington,Seattle Seahawks,15,185.42,94.8,6th season,jermainekearse/2532887
+"Bush, Reggie",32.0,"San Diego , CA",USC,Buffalo Bills,22,182.88,92.99,12th season,reggiebush/2506874
+"Greene, Rashad",24.0,"Albany , GA",Florida State,Jacksonville Jaguars,13,180.34,86.18,3rd season,rashadgreene/2552425
+"Sanders, Emmanuel",30.0,"Bellville , TX",Southern Methodist,Denver Broncos,10,180.34,81.65,8th season,emmanuelsanders/497322
+"Harper, Roman",34.0,"Prattville , AL",Alabama,New Orleans Saints,41,185.42,92.99,12th season,romanharper/2506893
+"Grasu, Hroniss",25.0,"Los Angeles , CA",Oregon,Chicago Bears,55,190.5,137.44,3rd season,hronissgrasu/2552245
+"Mebane, Brandon",32.0,"Los Angeles , CA",California,Los Angeles Chargers,92,185.42,141.07,11th season,brandonmebane/2495677
+"Dumervil, Elvis",33.0,"Miami , FL",Louisville,Baltimore Ravens,58,180.34,113.4,12th season,elvisdumervil/2495832
+"Amaro, Jace",24.0,"Plano , TX",Texas Tech,Tennessee Titans,88,195.58,120.2,4th season,jaceamaro/2543481
+"Ogletree, Alec",25.0,"Newnan , GA",Georgia,Los Angeles Rams,52,187.96,111.13,5th season,alecogletree/2540143
+"Smith, Steve",38.0,"Los Angeles , CA",Utah,Baltimore Ravens,89,175.26,88.45,17th season,stevesmith/2504595
+"Tapper, Charles",24.0,"Baltimore , MD",Oklahoma,Dallas Cowboys,99,187.96,122.92,2nd season,charlestapper/2555245
+"Golston, Kedric",34.0,"Tyrone , GA",Georgia,Washington Redskins,64,193.04,149.69,12th season,kedricgolston/2506964
+"King, Brandon",23.0,"Alabaster , AL",Auburn,New England Patriots,36,187.96,99.79,3rd season,brandonking/2553665
+"Henry, Derrick",22.0,"Yulee , FL",Alabama,Tennessee Titans,22,187.96,112.04,2nd season,derrickhenry/2556075
+"Nzeocha, Mark",27.0,Neusitz Germany,Wyoming,Dallas Cowboys,53,190.5,108.41,3rd season,marknzeocha/2552684
+"Dixon, Travell",26.0,"Miami , FL",Washington,Carolina Panthers,30,185.42,95.25,1st season,travelldixon/2553875
+"Kelly, Dennis",27.0,"Chicago Heights , IL",Purdue,Tennessee Titans,71,203.2,145.6,6th season,denniskelly/2535131
+"Villanueva, Alejandro",28.0,"Meridian , MS",Army,Pittsburgh Steelers,78,205.74,145.15,3rd season,alejandrovillanueva/2550130
+"Johnson, Lane",27.0,"Cleveland , TX",Oklahoma,Philadelphia Eagles,65,198.12,143.79,5th season,lanejohnson/2539286
+"Doctson, Josh",24.0,"Birmingham , AL",Texas Christian,Washington Redskins,18,187.96,93.44,2nd season,joshdoctson/2555343
+"Colquitt, Britton",32.0,"Knoxville , TN",Tennessee,Cleveland Browns,4,187.96,92.99,8th season,brittoncolquitt/71259
+"Rawls, Thomas",23.0,"Flint , MI",Central Michigan,Seattle Seahawks,34,175.26,97.52,3rd season,thomasrawls/2553733
+"Thomas, Josh",28.0,"Cedar Hill , TX",Buffalo,Dallas Cowboys,26,180.34,88.9,7th season,joshthomas/2508121
+"Winters, Brian",25.0,"Hudson , OH",Kent State,New York Jets,67,193.04,145.15,5th season,brianwinters/2539247
+"Carson, Tra",24.0,"Newboston , TX",Texas A&M,Cincinnati Bengals,39,180.34,102.97,1st season,tracarson/2556493
+"Chancellor, Kam",29.0,"Norfolk , VA",Virginia Tech,Seattle Seahawks,31,190.5,102.06,8th season,kamchancellor/494257
+"Urbik, Kraig",31.0,"Chicago , IL",Wisconsin,Miami Dolphins,60,195.58,151.5,9th season,kraigurbik/71495
+"Mauti, Michael",27.0,"New Orleans , LA",Penn State,New Orleans Saints,56,187.96,110.22,5th season,michaelmauti/2539294
+"Mostert, Raheem",25.0,"Daytona Beach , FL",Purdue,San Francisco 49ers,31,177.8,89.36,2nd season,raheemmostert/2553728
+"Ebner, Nate",28.0,"Columbus , OH",Ohio State,New England Patriots,43,182.88,99.79,6th season,nateebner/2535132
+"Moore, Kellen",27.0,"Prosser , WA",Boise State,Dallas Cowboys,17,182.88,90.72,6th season,kellenmoore/2532917
+"Floyd, Sharrif",26.0,"Philadephia , PA",Florida,Minnesota Vikings,73,190.5,141.07,5th season,sharriffloyd/2540150
+"Smith, Antone",31.0,"Pahokee , FL",Florida State,Tampa Bay Buccaneers,30,175.26,87.09,8th season,antonesmith/89798
+"Mangold, Nick",33.0,"Centerville , OH",Ohio State,New York Jets,74,193.04,139.25,12th season,nickmangold/2495891
+"Moses, Morgan",26.0,"Richmond , VA",Virginia,Washington Redskins,76,198.12,151.95,4th season,morganmoses/2543489
+"Ijalana, Ben",27.0,"New Brunswick , NJ",Villanova,New York Jets,71,193.04,146.06,7th season,benijalana/2495174
+"Perkins, Paul",22.0,"Mesa , AZ",UCLA,New York Giants,28,177.8,94.35,2nd season,paulperkins/2555460
+"Develin, James",28.0,"West Chester , PA",Brown,New England Patriots,46,190.5,115.67,5th season,jamesdevelin/2508101
+"Callahan, Bryce",25.0,"Moscow , ID",Rice,Chicago Bears,37,175.26,86.64,3rd season,brycecallahan/2553500
+"Rhodes, Xavier",26.0,"Miami Gardens , FL",Florida State,Minnesota Vikings,29,185.42,98.88,5th season,xavierrhodes/2540155
+"Verrett, Jason",25.0,"Fairfield , CA",Texas Christian,Los Angeles Chargers,22,177.8,85.28,4th season,jasonverrett/2543493
+"Gary, Shamiel",27.0,"Tulsa , OK",Oklahoma State,Buffalo Bills,37,182.88,98.43,2nd season,shamielgary/2550292
+"Shorts, Cecil",29.0,"Kent , OH",Mount Union,Tampa Bay Buccaneers,10,182.88,91.63,7th season,cecilshorts/2495341
+"Jones, Taiwan",28.0,"San Francisco , CA",Eastern Washington,Oakland Raiders,22,182.88,88.45,7th season,taiwanjones/2495467
+"Johnson, David",25.0,"Memphis , TN",Northern Iowa,Arizona Cardinals,31,185.42,101.6,3rd season,davidjohnson/2553435
+"Williams, Mario",32.0,"Richlands , NC",North Carolina State,Miami Dolphins,94,198.12,136.08,12th season,mariowilliams/2495982
+"Jackson, Asa",27.0,"Sacramento , CA",Cal Poly-S.L.O.,Detroit Lions,30,177.8,83.01,4th season,asajackson/2532872
+"Sims, Charles",26.0,"Houston , TX",West Virginia,Tampa Bay Buccaneers,34,182.88,95.71,4th season,charlessims/2543770
+"Newman, Terence",38.0,"Salina , KS",Kansas State,Minnesota Vikings,23,177.8,89.36,15th season,terencenewman/2505552
+"Valles, Hakeem",24.0,"Burlington , NJ",Monmouth (N.J.),Arizona Cardinals,89,195.58,117.93,2nd season,hakeemvalles/2556453
+"Prescott, Dak",23.0,"Sulphur , LA",Mississippi State,Dallas Cowboys,4,187.96,102.51,2nd season,dakprescott/2555260
+"Condo, Jon",35.0,"Philipsburg , PA",Maryland,Oakland Raiders,59,190.5,108.86,11th season,joncondo/2506223
+"Grugier-Hill, Kamu",23.0,"Honolulu , HI",Eastern Illinois,Philadelphia Eagles,54,187.96,99.79,2nd season,kamugrugier-hill/2556363
+"Miller, Lamar",26.0,"Miami , FL",Miami (Fla.),Houston Texans,26,177.8,99.79,6th season,lamarmiller/2533034
+"Smith, Ryan",23.0,Augsburg Germany,North Carolina Central,Tampa Bay Buccaneers,29,180.34,85.73,2nd season,ryansmith/2555552
+"Clady, Ryan",30.0,"Long Beach , CA",Boise State,New York Jets,78,198.12,142.88,10th season,ryanclady/746
+"Iupati, Mike",30.0,American Samoa,Idaho,Arizona Cardinals,76,195.58,150.14,8th season,mikeiupati/497016
+"Billings, Andrew",22.0,"Waco , TX",Baylor,Cincinnati Bengals,75,185.42,141.07,2nd season,andrewbillings/2555267
+"Mariani, Marc",30.0,"Havre , MT",Montana,Tennessee Titans,87,185.42,86.18,8th season,marcmariani/1037885
+"Exum, Antone",26.0,"Richmond , VA",Virginia Tech,Minnesota Vikings,32,182.88,99.34,4th season,antoneexum/2543680
+"Crosby, Mason",32.0,"Lubbock , TX",Colorado,Green Bay Packers,2,185.42,93.89,11th season,masoncrosby/2507232
+"Jones-Quartey, Harold",23.0,"Columbus , OH",Findlay,Chicago Bears,29,180.34,95.25,3rd season,haroldjones-quartey/2553897
+"Toler, Greg",32.0,"Washington , DC",St. Paul's (VA),Washington Redskins,20,182.88,81.65,9th season,gregtoler/237680
+"Holmes, Tyrone",23.0,"Klamath Falls , OR",Montana,Cleveland Browns,91,187.96,114.76,2nd season,tyroneholmes/2556126
+"Griffen, Everson",29.0,"Avondale , AZ",USC,Minnesota Vikings,97,190.5,123.83,8th season,eversongriffen/496790
+"McGill, Keith",28.0,"La Mirada , CA",Utah,Oakland Raiders,39,190.5,95.25,4th season,keithmcgill/2543762
+"McRoberts, Paul",24.0,"St. Louis , MO",Southeast Missouri State,Los Angeles Rams,8,187.96,90.72,1st season,paulmcroberts/2556615
+"Martinez, Blake",23.0,"Tucson , AZ",Stanford,Green Bay Packers,50,187.96,107.5,2nd season,blakemartinez/2555161
+"Burley, Marcus",26.0,"Richmond , VA",Delaware,Cleveland Browns,26,177.8,86.18,4th season,marcusburley/2541688
+"McGill, T.Y.",24.0,"Jesup , GA",North Carolina State,Indianapolis Colts,99,182.88,140.61,3rd season,t.y.mcgill/2553911
+"Tuitt, Stephon",24.0,"Miami , FL",Notre Dame,Pittsburgh Steelers,91,198.12,137.44,4th season,stephontuitt/2543483
+"McCoil, Dexter",25.0,"Metairie , LA",Tulsa,Los Angeles Chargers,23,193.04,99.79,2nd season,dextermccoil/2555569
+"McClellin, Shea",27.0,"Caldwell , ID",Boise State,New England Patriots,58,190.5,113.4,6th season,sheamcclellin/2532907
+"Glasgow, Graham",24.0,"Philadelphia , PA",Michigan,Detroit Lions,60,198.12,139.71,2nd season,grahamglasgow/2555182
+"Boehringer, Moritz",23.0,Germany,Unknown,Minnesota Vikings,81,193.04,102.06,1st season,moritzboehringer/2556261
+"Jones, Donnie",36.0,"Baton Rouge , LA",LSU,Philadelphia Eagles,8,187.96,100.24,14th season,donniejones/2505889
+"Tomlinson, Eric",25.0,"Oklahoma City , OK",Texas-El Paso,New York Jets,83,198.12,119.29,2nd season,erictomlinson/2553744
+"Gachkar, Andrew",28.0,"Cheraw , SC",Missouri,Dallas Cowboys,52,187.96,101.6,7th season,andrewgachkar/2499275
+"Porter, Sean",26.0,"Randolph Afb , TX",Texas A&M,Jacksonville Jaguars,53,185.42,109.77,4th season,seanporter/2539321
+"Klug, Karl",29.0,"La Crosse , WI",Iowa,Tennessee Titans,97,190.5,126.1,7th season,karlklug/2495300
+"Mayowa, Benson",25.0,"Los Angeles , CA",Idaho,Dallas Cowboys,93,190.5,108.86,5th season,bensonmayowa/2542009
+"Jones, Deion",22.0,"New Orleans , LA",LSU,Atlanta Falcons,45,185.42,100.7,2nd season,deionjones/2555162
+"Abdesmad, Mehdi",25.0,"Montreal , Quebec",Boston College,Tennessee Titans,68,198.12,128.82,1st season,mehdiabdesmad/2556718
+"Langford, Kendall",31.0,"Petersburg , VA",Hampton,Indianapolis Colts,90,198.12,138.35,10th season,kendalllangford/270
+"Swoope, Erik",25.0,"Los Angeles , CA",Miami (Fla.),Indianapolis Colts,86,195.58,116.57,2nd season,erikswoope/2550405
+"Powers, Jerraud",29.0,"Decatur , AL",Auburn,Baltimore Ravens,26,177.8,87.54,9th season,jerraudpowers/80680
+"Gurley, Todd",22.0,"Baltimore , MD",Georgia,Los Angeles Rams,30,185.42,102.97,3rd season,toddgurley/2552475
+"Williams, Dan",30.0,"Memphis , TN",Tennessee,Oakland Raiders,90,187.96,149.69,8th season,danwilliams/2508083
+"Latimer, Cody",24.0,"Dayton , OH",Indiana,Denver Broncos,14,187.96,97.52,4th season,codylatimer/2543590
+"McCoy, LeSean",28.0,"Harrisburg , PA",Pittsburgh,Buffalo Bills,25,180.34,94.35,9th season,leseanmccoy/79607
+"Smith, Harrison",28.0,"Augusta , GA",Notre Dame,Minnesota Vikings,22,187.96,97.07,6th season,harrisonsmith/2532948
+"Manhertz, Chris",25.0,"New York , NY",Canisius,Carolina Panthers,82,198.12,115.67,2nd season,chrismanhertz/2552622
+"Shipley, A.Q.",31.0,"Beaver Co. , PA",Penn State,Arizona Cardinals,53,185.42,139.25,6th season,a.q.shipley/71461
+"Goodwin, C.J.",27.0,"Wheeling , WV",California (PA),Atlanta Falcons,29,190.5,99.79,2nd season,c.j.goodwin/2550767
+"Mager, Craig",24.0,"New Braunfels , TX",Texas State,Los Angeles Chargers,29,180.34,90.72,3rd season,craigmager/2552570
+"Mack, Alex",31.0,"Los Angeles , CA",California,Atlanta Falcons,51,193.04,141.07,9th season,alexmack/71375
+"Kaepernick, Colin",29.0,"Milwaukee , WI",Nevada,San Francisco 49ers,7,193.04,104.33,7th season,colinkaepernick/2495186
+"Martin, Doug",28.0,"Oakland , CA",Boise State,Tampa Bay Buccaneers,22,175.26,101.15,6th season,dougmartin/2532899
+"Waynes, Trae",24.0,"Kenosha , WI",Michigan State,Minnesota Vikings,26,182.88,86.18,3rd season,traewaynes/2552448
+"Wilson, Marquess",24.0,"Tulare , CA",Washington State,Chicago Bears,10,193.04,93.44,5th season,marquesswilson/2540177
+"Still, Devon",27.0,"Camden , NJ",Penn State,Houston Texans,91,195.58,138.35,5th season,devonstill/2532954
+"Castonzo, Anthony",28.0,"Des Plaines , IL",Boston College,Indianapolis Colts,74,200.66,141.07,7th season,anthonycastonzo/2495137
+"Harold, Eli",23.0,"Virginia Beach , VA",Virginia,San Francisco 49ers,58,190.5,120.2,3rd season,eliharold/2552494
+"Watson, Benjamin",36.0,"Norfolk , VA",Georgia,Baltimore Ravens,82,190.5,113.85,14th season,benjaminwatson/2506122
+"James, Ja'Wuan",25.0,"Atlanta , GA",Tennessee,Miami Dolphins,70,198.12,139.25,4th season,ja'wuanjames/2543755
+"McClellan, Albert",31.0,"Lakeland , FL",Marshall,Baltimore Ravens,50,187.96,113.4,7th season,albertmcclellan/496814
+"Nelson, J.J.",25.0,"Midfield , AL",Alabama-Birmingham,Arizona Cardinals,14,177.8,72.57,3rd season,j.j.nelson/2552656
+"Housler, Rob",29.0,"El Paso , TX",Florida Atlantic,New England Patriots,86,195.58,113.4,5th season,robhousler/2508112
+"Quinn, Robert",27.0,"Ladson , SC",North Carolina,Los Angeles Rams,94,193.04,119.75,7th season,robertquinn/2495485
+"Smith, Telvin",26.0,"Valdosta , GA",Florida State,Jacksonville Jaguars,50,190.5,98.88,4th season,telvinsmith/2543711
+"Howard, Jordan",22.0,"Fairfield , AL",Indiana,Chicago Bears,24,182.88,100.7,2nd season,jordanhoward/2555418
+"Silatolu, Amini",28.0,"Redwood City , CA",Midwestern State,Carolina Panthers,66,193.04,145.15,4th season,aminisilatolu/2532947
+"Travis, Ross",24.0,"Burnsville , MN",Penn State,Kansas City Chiefs,88,200.66,106.59,2nd season,rosstravis/2554630
+"Ward, Channing",24.0,"Aberdeen , MS",Mississippi,Tampa Bay Buccaneers,71,193.04,126.55,2nd season,channingward/2556702
+"Slauson, Matt",31.0,"Sweet Home , OR",Nebraska,Los Angeles Chargers,68,195.58,142.88,9th season,mattslauson/81871
+"Mariota, Marcus",23.0,"Honolulu , HI",Oregon,Tennessee Titans,8,193.04,100.7,3rd season,marcusmariota/2552466
+"Conklin, Jack",22.0,"Plainwell , MI",Michigan State,Tennessee Titans,78,198.12,139.71,2nd season,jackconklin/2555279
+"Prater, Matt",32.0,"Mayfield Heights , OH",Central Florida,Detroit Lions,5,177.8,91.17,11th season,mattprater/2506677
+"Harris, Dwayne",29.0,"Atlanta , GA",East Carolina,New York Giants,17,177.8,91.63,7th season,dwayneharris/2495159
+"Phillips, John",29.0,"Lowmoor , VA",Virginia,New Orleans Saints,86,195.58,113.85,9th season,johnphillips/71435
+"Bryant, Armonty",27.0,"Fort Worth , TX",East Central (OK),Detroit Lions,97,193.04,120.2,5th season,armontybryant/2540278
+"Clarke, Will",26.0,"Pittsburgh , PA",West Virginia,Cincinnati Bengals,93,198.12,127.01,4th season,willclarke/2543881
+"Swanson, Travis",26.0,"Concord , CA",Arkansas,Detroit Lions,64,195.58,137.89,4th season,travisswanson/2543506
+"Stewart, Jonathan",30.0,"Fort Lewis , WA",Oregon,Carolina Panthers,28,177.8,108.86,10th season,jonathanstewart/949
+"Jerry, John",30.0,"Memphis , TN",Mississippi,New York Giants,77,195.58,154.22,8th season,johnjerry/497018
+"Jennings, Rashad",32.0,"Forest , VA",Liberty,New York Giants,23,185.42,104.78,9th season,rashadjennings/71345
+"Wallace, Cody",32.0,"Cuero , TX",Texas A&M,Pittsburgh Steelers,72,193.04,134.26,8th season,codywallace/1270
+"Wallace, Aaron",23.0,"Los Angeles , CA",UCLA,Tennessee Titans,52,187.96,109.77,2nd season,aaronwallace/2555320
+"Gragg, Chris",26.0,"Pine Bluff , AR",Arkansas,Buffalo Bills,89,190.5,110.68,5th season,chrisgragg/2539202
+"Kindred, Derrick",23.0,"San Antonio , TX",Texas Christian,Cleveland Browns,30,177.8,95.25,2nd season,derrickkindred/2555540
+"Ridgeway, Hassan",22.0,"Richmond , CA",Texas,Indianapolis Colts,91,190.5,143.79,2nd season,hassanridgeway/2555514
+"Wilson, Russell",28.0,"Cincinnati , OH",Wisconsin,Seattle Seahawks,3,180.34,97.52,6th season,russellwilson/2532975
+"Linsley, Corey",25.0,"Youngstown , OH",Ohio State,Green Bay Packers,63,190.5,136.53,4th season,coreylinsley/2543631
+"McCullers-Sanders, Dan",24.0,"Raleigh , NC",Tennessee,Pittsburgh Steelers,93,200.66,159.66,4th season,danmccullers/2550154
+"Wilson, Kyle",29.0,"Piscataway , NJ",Boise State,New Orleans Saints,24,177.8,86.18,8th season,kylewilson/79527
+"Williams, Maxx",23.0,"Waconia , MN",Minnesota,Baltimore Ravens,87,193.04,116.57,3rd season,maxxwilliams/2552468
+"Richard, Jalen",23.0,"Baton Rouge , LA",Southern Mississippi,Oakland Raiders,30,172.72,93.89,2nd season,jalenrichard/2556885
+"Carey, Ka'Deem",24.0,"Tucson , AZ",Arizona,Chicago Bears,25,177.8,97.52,4th season,ka'deemcarey/2543551
+"Reed, Trovon",26.0,"Thibodaux , LA",Auburn,Los Angeles Chargers,38,182.88,86.64,2nd season,trovonreed/2554352
+"James, Cory",24.0,"Del Rio , TX",Colorado State,Oakland Raiders,57,185.42,103.87,2nd season,coryjames/2555303
+"Fuller, Kyle",25.0,"Baltimore , MD",Virginia Tech,Chicago Bears,23,180.34,86.18,4th season,kylefuller/2543681
+"Brown, Antonio",28.0,"Miami , FL",Central Michigan,Pittsburgh Steelers,84,177.8,82.1,8th season,antoniobrown/2508061
+"Olsen, Greg",32.0,"Paterson , NJ",Miami (Fla.),Carolina Panthers,88,195.58,115.67,11th season,gregolsen/2495700
+"Martin, Gabe",25.0,"Grand Blanc , MI",Bowling Green State,Arizona Cardinals,50,187.96,107.05,2nd season,gabemartin/2553563
+"Peters, Brian",28.0,"Burlington , IA",Northwestern (Ia),Houston Texans,52,193.04,108.86,3rd season,brianpeters/2552730
+"Krieger-Coble, Henry",24.0,"West Burlington , IA",Iowa,Denver Broncos,84,190.5,112.49,1st season,henrykrieger-coble/2556580
+"Heeney, Ben",25.0,"Overland Park , KS",Kansas,Oakland Raiders,50,182.88,104.33,3rd season,benheeney/2552306
+"Butler, Darius",31.0,"Fort Lauderdale , FL",Connecticut,Indianapolis Colts,20,177.8,85.28,9th season,dariusbutler/79897
+"Williams, Nick",26.0,"Pensacola , FL",Connecticut,Atlanta Falcons,15,177.8,83.46,3rd season,nickwilliams/2540279
+"Fuller, Will",23.0,"Philadelphia , PA",Notre Dame,Houston Texans,15,182.88,81.65,2nd season,willfuller/2555346
+"Reynolds, Chase",29.0,"Drummond , MT",Montana,Los Angeles Rams,34,182.88,92.99,5th season,chasereynolds/2531218
+"Johnson, Kevin",24.0,"Clarksville , MD",Wake Forest,Houston Texans,30,182.88,83.91,3rd season,kevinjohnson/2552261
+"Whitehair, Cody",24.0,"Kearney , NE",Kansas State,Chicago Bears,65,193.04,140.61,2nd season,codywhitehair/2555132
+"Carpenter, Dan",31.0,"Omaha , NE",Montana,Buffalo Bills,2,187.96,103.42,10th season,dancarpenter/2507401
+"Goode, Brett",32.0,"Canadian , TX",Arkansas,Green Bay Packers,61,185.42,115.67,10th season,brettgoode/2507262
+"Kelemete, Senio",27.0,"Seattle , WA",Washington,New Orleans Saints,65,190.5,136.08,5th season,seniokelemete/2532889
+"Andrews, David",24.0,"Johns Creek , GA",Georgia,New England Patriots,60,190.5,133.81,3rd season,davidandrews/2553632
+"Walden, Erik",31.0,"Dublin , GA",Middle Tennessee State,Indianapolis Colts,93,187.96,113.4,10th season,erikwalden/2507488
+"Barron, Mark",27.0,"Mobile , AL",Alabama,Los Angeles Rams,26,187.96,96.62,6th season,markbarron/2532789
+"Brown, Sergio",29.0,"Oak Park , IL",Notre Dame,Buffalo Bills,38,187.96,93.89,8th season,sergiobrown/2507834
+"Carr, Derek",26.0,"Fresno , CA",Fresno State,Oakland Raiders,4,190.5,97.52,4th season,derekcarr/2543499
+"Sterling, Neal",25.0,"Belmar , NJ",Monmouth (N.J.),Jacksonville Jaguars,87,193.04,115.21,3rd season,nealsterling/2553451
+"Wynn, Kerry",26.0,"Petersburg , VA",Richmond,New York Giants,72,195.58,119.75,4th season,kerrywynn/2550312
+"Ryan, Jake",25.0,"Fairview , OH",Michigan,Green Bay Packers,47,187.96,108.86,3rd season,jakeryan/2552314
+"Matthews, Jordan",24.0,"Huntsville , AL",Vanderbilt,Philadelphia Eagles,81,190.5,96.16,4th season,jordanmatthews/2543500
+"Copeland, Brandon",25.0,"Sykesville , MD",Pennsylvania,Detroit Lions,51,190.5,119.29,3rd season,brandoncopeland/2541695
+"Graham, Brandon",29.0,"Detroit , MI",Michigan,Philadelphia Eagles,55,187.96,120.2,8th season,brandongraham/496788
+"Fowler, Bennie",25.0,"Royal Oak , MI",Michigan State,Denver Broncos,16,185.42,96.16,3rd season,benniefowler/2550198
+"Killebrew, Miles",24.0,"Anderson , IN",Southern Utah,Detroit Lions,35,187.96,100.7,2nd season,mileskillebrew/2555315
+"Addae, Jahleel",27.0,"Valrico , FL",Central Michigan,Los Angeles Chargers,37,177.8,88.45,5th season,jahleeladdae/2541958
+"Winn, George",26.0,"Detroit , MI",Cincinnati,New York Giants,44,180.34,97.52,3rd season,georgewinn/2541910
+"Atkins, Geno",29.0,"Pembroke Pines , FL",Georgia,Cincinnati Bengals,97,185.42,136.08,8th season,genoatkins/496762
+"Levine, Anthony",30.0,"Abbeville , LA",Tennessee State,Baltimore Ravens,41,180.34,90.72,6th season,anthonylevine/2508004
+"Rhaney, Demetrius",24.0,"Fort Lauderdale , FL",Tennessee State,Los Angeles Rams,65,187.96,136.53,4th season,demetriusrhaney/2549991
+"Rudock, Jake",24.0,"Miami , FL",Michigan,Detroit Lions,14,190.5,93.89,2nd season,jakerudock/2556232
+"Lawrence, Demarcus",25.0,"New Ellington , SC",Boise State,Dallas Cowboys,90,190.5,122.47,4th season,demarcuslawrence/2543490
+"Smith, Alex",33.0,"Seattle , WA",Utah,Kansas City Chiefs,11,193.04,98.43,13th season,alexsmith/2506340
+"Williams, Tramon",34.0,"Houma , LA",Louisiana Tech,Cleveland Browns,22,182.88,87.09,11th season,tramonwilliams/2506789
+"Morgan, Mike",29.0,"Dallas , TX",USC,Seattle Seahawks,57,190.5,106.59,7th season,mikemorgan/2530790
+"Landry, Jarvis",24.0,"Metaire , LA",LSU,Miami Dolphins,14,180.34,93.44,4th season,jarvislandry/2543488
+"Strief, Zach",33.0,"Cincinnati , OH",Northwestern,New Orleans Saints,64,200.66,145.15,12th season,zachstrief/2506974
+"Mauldin, Lorenzo",24.0,"Sacramento , CA",Louisville,New York Jets,55,193.04,117.48,3rd season,lorenzomauldin/2552297
+"Parkey, Cody",25.0,"North Palm Beach , FL",Auburn,Cleveland Browns,3,182.88,87.54,4th season,codyparkey/2550380
+"Washington, Daryl",30.0,"Dallas , TX",Texas Christian,Arizona Cardinals,58,187.96,107.95,5th season,darylwashington/496959
+"Green-Beckham, Dorial",24.0,"St. Louis , MO",Oklahoma,Philadelphia Eagles,18,195.58,107.5,3rd season,dorialgreen-beckham/2552491
+"Smith, Evan",30.0,"Salinas , CA",Idaho State,Tampa Bay Buccaneers,62,187.96,139.71,8th season,evansmith/2507701
+"Marshall, Keith",23.0,"Raleigh , NC",Georgia,Washington Redskins,39,180.34,100.7,2nd season,keithmarshall/2555459
+"Poutasi, Jeremiah",22.0,"Daly City , CA",Utah,Jacksonville Jaguars,73,195.58,151.95,3rd season,jeremiahpoutasi/2552590
+"Smith, Preston",24.0,"Lithonia , GA",Mississippi State,Washington Redskins,94,195.58,121.56,3rd season,prestonsmith/2552276
+"Roberts, Darryl",26.0,"Lakeland , FL",Marshall,New York Jets,27,182.88,82.55,3rd season,darrylroberts/2553353
+"Hooper, Austin",22.0,"San Mateo , CA",Stanford,Atlanta Falcons,81,190.5,115.21,2nd season,austinhooper/2555415
+"David, Lavonte",27.0,"Miami , FL",Nebraska,Tampa Bay Buccaneers,54,185.42,105.69,6th season,lavontedavid/2532828
+"Blackmon, Justin",27.0,"Oceanside , CA",Oklahoma State,Jacksonville Jaguars,14,185.42,95.25,2nd season,justinblackmon/2533038
+"Turner, Landon",24.0,"Morgantown , WV",North Carolina,New Orleans Saints,78,190.5,147.42,2nd season,landonturner/2556784
+"Williams, Kyle",33.0,"Ruston , LA",LSU,Buffalo Bills,95,185.42,137.44,12th season,kylewilliams/2506931
+"Arrington, Kyle",30.0,"Accokeek , MD",Hofstra,Baltimore Ravens,24,177.8,84.37,9th season,kylearrington/2507430
+"Waller, Darren",24.0,"Landover , MD",Georgia Tech,Baltimore Ravens,84,198.12,115.67,3rd season,darrenwaller/2552408
+"Banks, Johnthan",27.0,"Maben , MS",Mississippi State,Chicago Bears,35,187.96,83.91,5th season,johnthanbanks/2539262
+"Dennard, Darqueze",25.0,"Dry Branch , GA",Michigan State,Cincinnati Bengals,21,180.34,89.81,4th season,darquezedennard/2543474
+"Ngata, Haloti",33.0,"Inglewood , CA",Oregon,Detroit Lions,92,193.04,156.49,12th season,halotingata/2506879
+"Countess, Blake",23.0,"Baltimore , MD",Auburn,Los Angeles Rams,29,175.26,83.46,2nd season,blakecountess/2556374
+"Richards, Jordan",24.0,"Sacramento , CA",Stanford,New England Patriots,37,180.34,95.25,3rd season,jordanrichards/2552392
+"LeBlanc, Cre'von",22.0,"West Palm Beach , FL",Florida Atlantic,Chicago Bears,22,177.8,86.18,2nd season,cre'vonleblanc/2556587
+"Hargrave, Javon",24.0,"Salisbury , NC",South Carolina State,Pittsburgh Steelers,79,185.42,138.35,2nd season,javonhargrave/2555239
+"McFadden, Leon",26.0,"Bellflower , CA",San Diego State,Dallas Cowboys,23,177.8,86.18,4th season,leonmcfadden/2539300
+"Fabiano, Anthony",23.0,"Medford , MA",Harvard,Cleveland Browns,61,195.58,139.25,1st season,anthonyfabiano/2556520
+"Edwards, Lac",25.0,Hastings Australia,Sam Houston State,New York Jets,4,193.04,94.8,2nd season,lacedwards/2555558
+"Gooden, Zaviar",26.0,"Austin , TX",Missouri,Arizona Cardinals,52,185.42,104.78,4th season,zaviargooden/2539264
+"McDermott, Kevin",27.0,"Nashville , TN",UCLA,Minnesota Vikings,47,195.58,108.86,5th season,kevinmcdermott/2541627
+"Vigil, Zach",26.0,"Roy , UT",Utah State,Washington Redskins,59,187.96,108.86,3rd season,zachvigil/2553687
+"Ragland, Reggie",23.0,"Madison , AL",Alabama,Buffalo Bills,59,187.96,114.31,2nd season,reggieragland/2555169
+"Elliott, Jay",25.0,"Cleveland , OH",Toledo,Green Bay Packers,91,190.5,115.67,4th season,jayelliott/2550196
+"Adams, Davante",24.0,"Redwood City , CA",Fresno State,Green Bay Packers,17,185.42,97.52,4th season,davanteadams/2543495
+"Johnson, Steven",29.0,"Media , PA",Kansas,Pittsburgh Steelers,51,185.42,107.5,6th season,stevenjohnson/2535514
+"Haden, Joe",28.0,"Fort Washington , MD",Florida,Cleveland Browns,23,180.34,88.45,8th season,joehaden/496733
+"Parker, Ron",29.0,"Port Royal , SC",Newberry,Kansas City Chiefs,38,182.88,93.44,7th season,ronparker/2530794
+"Griffin, Ryan",27.0,"Santa Monica , CA",Tulane,Tampa Bay Buccaneers,4,195.58,95.25,4th season,ryangriffin/2541185
+"Garcia, Max",25.0,"Norcross , GA",Florida,Denver Broncos,76,193.04,140.16,3rd season,maxgarcia/2552583
+"Jones, Byron",24.0,"New Britain , CT",Connecticut,Dallas Cowboys,31,182.88,90.26,3rd season,byronjones/2552568
+"Griffin, Ryan",27.0,"Londonderry , NH",Connecticut,Houston Texans,84,198.12,120.2,5th season,ryangriffin/2541316
+"Payton, Jordan",23.0,"Torrance , CA",UCLA,Cleveland Browns,84,185.42,94.8,2nd season,jordanpayton/2555370
+"Simon, Deon",26.0,"Baton Rouge , LA",Northwestern State-Louisiana,New York Jets,93,190.5,150.59,2nd season,deonsimon/2552678
+"Dial, Quinton",26.0,"Andalusia , AL",Alabama,San Francisco 49ers,92,195.58,144.24,5th season,quintondial/2539960
+"Bademosi, Johnson",26.0,"Washington , DC",Stanford,Detroit Lions,29,182.88,93.44,6th season,johnsonbademosi/2535693
+"Rodgers, Richard",25.0,"Martinez , CA",California,Green Bay Packers,82,193.04,116.57,4th season,richardrodgers/2550313
+"Henderson, Erin",30.0,"Aberdeen , MD",Maryland,New York Jets,58,190.5,110.68,9th season,erinhenderson/1363
+"Trevathan, Danny",27.0,"Youngstown , OH",Kentucky,Chicago Bears,59,185.42,108.41,6th season,dannytrevathan/2532961
+"Harkey, Cory",26.0,"Chicago , IL",UCLA,Los Angeles Rams,46,193.04,117.48,6th season,coryharkey/2533353
+"Miller, John",23.0,"Miami , FL",Louisville,Buffalo Bills,76,187.96,137.44,3rd season,johnmiller/2553436
+"Hekker, Johnny",27.0,"Redmond , WA",Oregon State,Los Angeles Rams,6,195.58,107.05,6th season,johnnyhekker/2535663
+"Toussaint, Fitzgerald",27.0,"East Orange , NJ",Michigan,Pittsburgh Steelers,33,175.26,92.53,4th season,fitzgeraldtoussaint/2550738
+"Galette, Junior",29.0,Port Au Prince Haiti,Stillman,Washington Redskins,58,187.96,117.93,7th season,juniorgalette/496782
+"Landes, Jimmy",24.0,"Tyler , TX",Baylor,Detroit Lions,42,185.42,114.31,2nd season,jimmylandes/2555369
+"Vollmer, Sebastian",32.0,Dusseldorf Germany,Houston,New England Patriots,76,203.2,145.15,9th season,sebastianvollmer/89814
+"Miller, Zach",32.0,"Wahoo , NE",Nebraska-Omaha,Chicago Bears,86,195.58,110.22,8th season,zachmiller/238457
+"Gostkowski, Stephen",33.0,"Baton Rouge , LA",Memphis,New England Patriots,3,185.42,97.52,12th season,stephengostkowski/2506922
+"Thompson, Peyton",26.0,"Abilene , TX",San Jose State,Jacksonville Jaguars,25,177.8,85.73,3rd season,peytonthompson/2535582
+"White, D.J.",23.0,"Atlanta , GA",Georgia Tech,Kansas City Chiefs,24,180.34,87.54,2nd season,d.j.white/2555555
+"Brooks, Terrence",25.0,"Dunnellon , FL",Florida State,Philadelphia Eagles,29,180.34,90.72,4th season,terrencebrooks/2543712
+"Fitzgerald, Larry",33.0,"Minneapolis , MN",Pittsburgh,Arizona Cardinals,11,190.5,98.88,14th season,larryfitzgerald/2506106
+"Shelby, Derrick",28.0,"Houston , TX",Utah,Atlanta Falcons,90,187.96,127.01,6th season,derrickshelby/2532989
+"Stafford, Matthew",29.0,"Tampa , FL",Georgia,Detroit Lions,9,190.5,102.51,9th season,matthewstafford/79860
+"Bennett, Michael",31.0,"Avondale , LA",Texas A&M,Seattle Seahawks,72,193.04,124.28,9th season,michaelbennett/2507617
+"Ellis, Alex",24.0,"Salisbury , MD",Tennessee,Jacksonville Jaguars,48,193.04,108.86,2nd season,alexellis/2556737
+"Peters, Jason",35.0,"Queen City , TX",Arkansas,Philadelphia Eagles,71,193.04,148.78,14th season,jasonpeters/2505827
+"Riley, Curtis",24.0,"White Plains , NY",Fresno State,Tennessee Titans,35,182.88,86.18,3rd season,curtisriley/2553822
+"Peat, Andrus",23.0,"Mesa , AZ",Stanford,New Orleans Saints,75,200.66,143.34,3rd season,andruspeat/2552455
+"Kroft, Tyler",24.0,"West Chester , PA",Rutgers,Cincinnati Bengals,81,198.12,113.4,3rd season,tylerkroft/2552586
+"Hairston, Chris",28.0,"Winston Salem , NC",Clemson,Los Angeles Chargers,75,198.12,149.69,6th season,chrishairston/2495157
+"Decker, Eric",30.0,"Cold Spring , MN",Minnesota,New York Jets,87,190.5,97.07,8th season,ericdecker/497284
+"Barksdale, Joe",29.0,"Detroit , MI",LSU,Los Angeles Chargers,72,195.58,147.87,7th season,joebarksdale/2508117
+"McCain, Brice",30.0,"Dallas , TX",Utah,Tennessee Titans,23,175.26,86.18,9th season,bricemccain/238466
+"Drango, Spencer",24.0,"Indianapolis , IN",Baylor,Cleveland Browns,66,198.12,142.88,2nd season,spencerdrango/2555144
+"Dora, Vontarrius",24.0,"West Point , MS",Louisiana Tech,Denver Broncos,68,190.5,116.12,1st season,vontarriusdora/2556515
+"Weeden, Brandon",33.0,"Oklahoma City , OK",Oklahoma State,Houston Texans,5,193.04,104.33,6th season,brandonweeden/2532970
+"Hunter, Danielle",22.0,St. Catherine Jamaica,LSU,Minnesota Vikings,99,195.58,114.31,3rd season,daniellehunter/2552603
+"Dorenbos, Jon",36.0,"Humble , TX",Texas-El Paso,Philadelphia Eagles,46,182.88,113.4,15th season,jondorenbos/2505252
+"Shaw, Connor",25.0,"Clayton , GA",South Carolina,Chicago Bears,8,185.42,95.25,3rd season,connorshaw/2550252
+"Smith, Jaylon",21.0,"Fort Wayne , IN",Notre Dame,Dallas Cowboys,54,187.96,108.86,1st season,jaylonsmith/2555310
+"Williams, Duke",26.0,"Monroe , LA",Nevada,Indianapolis Colts,31,180.34,91.17,5th season,dukewilliams/2539269
+"Neal, Keanu",21.0,"Groveland , FL",Florida,Atlanta Falcons,22,182.88,95.71,2nd season,keanuneal/2555543
+"Johnson, Michael",30.0,"Selma , AL",Georgia Tech,Cincinnati Bengals,90,200.66,123.38,9th season,michaeljohnson/2507784
+"Ringo, Christian",25.0,"Birmingham , AL",Louisiana-Lafayette,Green Bay Packers,99,185.42,135.17,2nd season,christianringo/2553461
+"Swann, Damian",24.0,"Atlanta , GA",Georgia,New Orleans Saints,27,182.88,85.73,3rd season,damianswann/2552436
+"Finney, B.J.",25.0,"Wichita , KS",Kansas State,Pittsburgh Steelers,67,193.04,144.24,2nd season,b.j.finney/2553711
+"Adams, Mike",27.0,"Farrell , PA",Ohio State,Chicago Bears,76,200.66,146.51,6th season,mikeadams/2532783
+"Lauvao, Shawn",29.0,"Honolulu , HI",Arizona State,Washington Redskins,77,190.5,147.87,8th season,shawnlauvao/497028
+"Royal, Eddie",31.0,"Alexandria , VA",Virginia Tech,Chicago Bears,19,177.8,86.18,10th season,eddieroyal/1990
+"Barbre, Allen",32.0,"Neosho , MO",Missouri Southern State,Philadelphia Eagles,76,193.04,140.61,10th season,allenbarbre/2495542
+"Scott, Chris",29.0,"Palmetto , GA",Tennessee,Carolina Panthers,79,193.04,154.22,6th season,chrisscott/2508054
+"Searcy, Da'Norris",28.0,"Decatur , GA",North Carolina,Tennessee Titans,21,180.34,93.89,7th season,da'norrissearcy/2495339
+"Hendy, A.J.",24.0,"Gaithersburg , MD",Maryland,Miami Dolphins,37,182.88,94.8,1st season,a.j.hendy/2556553
+"Orchard, Nate",24.0,"Los Angeles , CA",Utah,Cleveland Browns,44,193.04,115.67,3rd season,nateorchard/2552299
+"Hemingway, Temarrick",23.0,"Longs , SC",South Carolina State,Los Angeles Rams,84,195.58,110.68,2nd season,temarrickhemingway/2555486
+"Maponga, Stansly",26.0,Harare Zimbabwe,Texas Christian,New York Giants,71,187.96,120.2,4th season,stanslymaponga/2540212
+"Fuller, Corey",26.0,"Baltimore , MD",Virginia Tech,New Orleans Saints,11,187.96,90.72,4th season,coreyfuller/2540261
+"Whitehead, Lucky",25.0,"Bealeton , VA",Florida Atlantic,Dallas Cowboys,13,175.26,81.65,3rd season,luckywhitehead/2553621
+"Van Noy, Kyle",26.0,"Reno , NV",Brigham Young,New England Patriots,53,190.5,110.22,4th season,kylevannoy/2543699
+"Hughlett, Charley",27.0,"Seffner , FL",Central Florida,Cleveland Browns,47,193.04,112.49,3rd season,charleyhughlett/2535722
+"Yanda, Marshal",32.0,"Cedar Rapids , IA",Iowa,Baltimore Ravens,73,190.5,138.35,11th season,marshalyanda/2507188
+"Long, Jake",32.0,"Detroit , MI",Michigan,Minnesota Vikings,72,200.66,146.06,10th season,jakelong/278
+"Dixon, Kenneth",23.0,"El Dorado , AR",Louisiana Tech,Baltimore Ravens,30,177.8,96.16,2nd season,kennethdixon/2555229
+"Dozier, Dakota",26.0,"West Columbia , SC",Furman,New York Jets,70,193.04,141.97,4th season,dakotadozier/2543805
+"Taylor, Jordan",25.0,"Sherman , TX",Rice,Denver Broncos,87,195.58,95.25,2nd season,jordantaylor/2553606
+"Conley, Chris",24.0,Incirlik Afb Turkey,Georgia,Kansas City Chiefs,17,190.5,92.99,3rd season,chrisconley/2552652
+"Mauga, Josh",29.0,"Ewa Beach , HI",Nevada,Kansas City Chiefs,90,185.42,111.13,8th season,joshmauga/79605
+"King, Marquette",28.0,"Macon , GA",Fort Valley State,Oakland Raiders,7,182.88,88.45,6th season,marquetteking/2534819
+"Gordon, Josh",26.0,"Houston , TX",Utah,Cleveland Browns,12,190.5,102.06,3rd season,joshgordon/2537931
+"Jones, Chris",26.0,"Columbus , OH",Bowling Green State,San Francisco 49ers,93,185.42,133.81,5th season,chrisjones/2541408
+"Wells, Josh",26.0,"Mechanicsville , VA",James Madison,Jacksonville Jaguars,72,198.12,140.61,4th season,joshwells/2550416
+"Maxwell, Byron",29.0,"North Charleston , SC",Clemson,Miami Dolphins,41,185.42,92.08,7th season,byronmaxwell/2495310
+"Pugh, Justin",26.0,"Newtown , PA",Syracuse,New York Giants,67,193.04,136.53,5th season,justinpugh/2540195
+"Green, Ladarius",27.0,Berlin Germany,Louisiana-Lafayette,Pittsburgh Steelers,89,198.12,108.86,6th season,ladariusgreen/2532853
+"Walker, Delanie",32.0,"Pomona , CA",Central Missouri State,Tennessee Titans,82,187.96,112.49,12th season,delaniewalker/2495966
+"Lee, Eric",22.0,"Panama City , FL",South Florida,Houston Texans,61,190.5,117.93,1st season,ericlee/2556588
+"Burfict, Vontaze",26.0,"Los Angeles , CA",Arizona State,Cincinnati Bengals,55,185.42,113.4,6th season,vontazeburfict/2533058
+"Cash, Jeremy",24.0,"Miami , FL",Duke,Carolina Panthers,57,182.88,97.52,2nd season,jeremycash/2556846
+"Wright, Jarius",27.0,"Warren , AR",Arkansas,Minnesota Vikings,17,177.8,86.64,6th season,jariuswright/2532978
+"Hill, Jeremy",24.0,"Baton Rouge , LA",LSU,Cincinnati Bengals,32,185.42,106.59,4th season,jeremyhill/2543603
+"Oliver, Branden",26.0,"Miami , FL",Buffalo,Los Angeles Chargers,43,172.72,94.35,4th season,brandenoliver/2550658
+"Webb, Lardarius",31.0,"Opelika , AL",Nicholls State,Baltimore Ravens,21,177.8,82.55,9th season,lardariuswebb/81879
+"Webster, Larry",27.0,"Elkton , MD",Bloomsburg,Carolina Panthers,75,198.12,123.38,2nd season,larrywebster/2543786
+"Johnson, Dontae",25.0,"Plainfield , NJ",North Carolina State,San Francisco 49ers,36,187.96,90.72,4th season,dontaejohnson/2543739
+"Sirles, Jeremiah",25.0,"Lakewood , CO",Nebraska,Minnesota Vikings,78,198.12,142.88,4th season,jeremiahsirles/2550462
+"Hill, Shaun",37.0,"Parsons , KS",Maryland,Minnesota Vikings,13,190.5,104.33,16th season,shaunhill/2504833
+"Compton, Will",27.0,"Berea , OH",Nebraska,Washington Redskins,51,185.42,107.95,4th season,willcompton/2540013
+"Marshall, Brandon",27.0,"Las Vegas , NV",Nevada,Denver Broncos,54,185.42,113.4,6th season,brandonmarshall/2532898
+"McDonald, Dexter",25.0,"Kansas City , MO",Kansas,Oakland Raiders,23,185.42,90.72,3rd season,dextermcdonald/2553234
+"Sharpe, Tajae",22.0,"Newark , NJ",Massachusetts,Tennessee Titans,19,187.96,88.0,2nd season,tajaesharpe/2555317
+"Alonso, Kiko",26.0,"Newton , MA",Oregon,Miami Dolphins,47,190.5,108.41,5th season,kikoalonso/2539935
+"Humber, Ramon",29.0,"Minneapolis , MN",North Dakota State,Buffalo Bills,50,180.34,105.23,9th season,ramonhumber/2507644
+"Newton, Derek",29.0,"Utica , MS",Arkansas State,Houston Texans,72,198.12,142.88,7th season,dereknewton/2495320
+"Gay, William",32.0,"Tallahassee , FL",Louisville,Pittsburgh Steelers,22,177.8,84.82,11th season,williamgay/2507220
+"Philon, Darius",23.0,"Mobile , AL",Arkansas,Los Angeles Chargers,93,185.42,136.08,3rd season,dariusphilon/2552676
+"Coates, Sammie",24.0,"Jackson , AL",Auburn,Pittsburgh Steelers,14,185.42,96.16,3rd season,sammiecoates/2552470
+"Williams, Nick",27.0,"Birmingham , AL",Samford,Miami Dolphins,75,193.04,140.16,4th season,nickwilliams/2541479
+"Coleman, Justin",24.0,"Columbus , GA",Tennessee,New England Patriots,22,180.34,86.18,3rd season,justincoleman/2553637
+"Massie, Bobby",27.0,"Lynchburg , VA",Mississippi,Chicago Bears,70,198.12,145.15,6th season,bobbymassie/2533543
+"Boswell, Chris",26.0,"Forth Worth , TX",Rice,Pittsburgh Steelers,9,187.96,83.91,3rd season,chrisboswell/2550545
+"Jones, Julio",28.0,"Foley , AL",Alabama,Atlanta Falcons,11,190.5,99.79,7th season,juliojones/2495454
+"Baldwin, Doug",28.0,"Gulf Breeze , FL",Stanford,Seattle Seahawks,89,177.8,87.09,7th season,dougbaldwin/2530747
+"Hill, Rashod",25.0,"Jacksonville , FL",Southern Mississippi,Minnesota Vikings,69,198.12,140.16,2nd season,rashodhill/2556557
+"Kirkland, Denver",23.0,"Miami , FL",Arkansas,Oakland Raiders,79,193.04,151.95,2nd season,denverkirkland/2556857
+"Robinson, Allen",23.0,"Detroit , MI",Penn State,Jacksonville Jaguars,15,190.5,98.88,4th season,allenrobinson/2543509
+"Taylor, Tyrod",27.0,"Hampton , VA",Virginia Tech,Buffalo Bills,5,185.42,97.52,7th season,tyrodtaylor/2495240
+"Wentz, Carson",24.0,"Raleigh , NC",North Dakota State,Philadelphia Eagles,11,195.58,107.5,2nd season,carsonwentz/2555259
+"Johnson, Cam",27.0,"Washington , DC",Virginia,Cleveland Browns,57,193.04,121.56,4th season,camjohnson/2533452
+"Williams, Jonathan",23.0,"Dallas , TX",Arkansas,Buffalo Bills,31,180.34,101.15,2nd season,jonathanwilliams/2555227
+"Elliott, DeAndre",24.0,"Dallas , TX",Colorado State,Seattle Seahawks,21,185.42,85.73,2nd season,deandreelliott/2556518
+"Sherels, Marcus",29.0,"Rochester , MN",Minnesota,Minnesota Vikings,35,177.8,79.38,7th season,marcussherels/2508007
+"Butler, Vernon",22.0,"District 4, Pike Co. , MS",Louisiana Tech,Carolina Panthers,92,193.04,147.42,2nd season,vernonbutler/2555243
+"McQuaide, Jake",29.0,"Cincinnati , OH",Ohio State,Los Angeles Rams,44,187.96,110.68,7th season,jakemcquaide/2530852
+"Hayward, Casey",27.0,"Perry , GA",Vanderbilt,Los Angeles Chargers,26,180.34,87.09,6th season,caseyhayward/2532861
+"Jones, Brett",25.0,"Weyburn , Saskatchewan",Regina (Canada),New York Giants,69,187.96,144.24,3rd season,brettjones/2552714
+"Davison, Tyeler",24.0,"Phoenix , AZ",Fresno State,New Orleans Saints,95,187.96,140.16,3rd season,tyelerdavison/2552329
+"Brady, Tom",39.0,"San Mateo , CA",Michigan,New England Patriots,12,193.04,102.06,18th season,tombrady/2504211
+"Fox, Morgan",22.0,"Elizabeth , CO",Colorado State,Los Angeles Rams,70,190.5,117.48,1st season,morganfox/2556529
+"Berger, Joe",35.0,"Fremont , MI",Michigan Tech,Minnesota Vikings,61,195.58,138.35,13th season,joeberger/2506540
+"Lengel, Matt",26.0,"Annville , PA",Eastern Kentucky,New England Patriots,82,200.66,120.66,2nd season,mattlengel/2553554
+"Evans, Marwin",24.0,"Milwaukee , WI",Utah State,Green Bay Packers,25,180.34,95.71,2nd season,marwinevans/2556800
+"Moore, Sterling",27.0,"Antioch , CA",Southern Methodist,New Orleans Saints,24,177.8,91.63,7th season,sterlingmoore/2531177
+"Woodyard, Wesley",30.0,"La Grange , GA",Kentucky,Tennessee Titans,59,182.88,105.69,10th season,wesleywoodyard/2354
+"McDaniel, Tony",32.0,"Hartsville , SC",Tennessee,Seattle Seahawks,93,200.66,138.35,12th season,tonymcdaniel/2506816
+"Bushrod, Jermon",32.0,"Fredricksburg , VA",Towson,Miami Dolphins,74,195.58,145.15,11th season,jermonbushrod/2507203
+"LaCosse, Matt",24.0,"Westmont , IL",Illinois,New York Giants,81,195.58,118.39,2nd season,mattlacosse/2553667
+"Johnson, Charles",30.0,"Hawkinsville , GA",Georgia,Carolina Panthers,95,187.96,124.74,11th season,charlesjohnson/2507187
+"Bond, Devante",23.0,"Sacramento , CA",Oklahoma,Tampa Bay Buccaneers,59,185.42,107.05,2nd season,devantebond/2555307
+"Succop, Ryan",30.0,"Pittsburgh , PA",South Carolina,Tennessee Titans,4,187.96,98.88,9th season,ryansuccop/89802
+"Fisher, Eric",26.0,"Rochester , MI",Central Michigan,Kansas City Chiefs,72,200.66,142.88,5th season,ericfisher/2539213
+"Lamm, Kendall",25.0,"Charlotte , NC",Appalachian State,Houston Texans,63,198.12,140.61,3rd season,kendalllamm/2553549
+"Lucien, Devin",23.0,"Encino , CA",Arizona State,New England Patriots,16,187.96,90.72,1st season,devinlucien/2556185
+"Matthews, Clay",31.0,"Los Angeles , CA",USC,Green Bay Packers,52,190.5,115.67,9th season,claymatthews/80431
+"Powell, Bilal",28.0,"Lakeland , FL",Louisville,New York Jets,29,177.8,92.53,7th season,bilalpowell/2495328
+"Jarrett, Grady",24.0,"Atlanta , GA",Clemson,Atlanta Falcons,97,182.88,138.35,3rd season,gradyjarrett/2552327
+"Bailey, Allen",28.0,"Sapelo Island , GA",Miami (Fla.),Kansas City Chiefs,97,190.5,130.63,7th season,allenbailey/2495116
+"Amendola, Danny",31.0,"The Woodlands , TX",Texas Tech,New England Patriots,80,180.34,86.18,9th season,dannyamendola/2649
+"Orlovsky, Dan",33.0,"Bridgeport , CT",Connecticut,Detroit Lions,8,195.58,97.52,12th season,danorlovsky/2506481
+"Spaight, Martrell",23.0,"North Little Rock , AR",Arkansas,Washington Redskins,50,182.88,107.95,3rd season,martrellspaight/2552316
+"Worley, Daryl",22.0,"Philadelphia , PA",West Virginia,Carolina Panthers,26,185.42,92.99,2nd season,darylworley/2555394
+"Perriman, Breshad",23.0,"Rochester Hills , MI",Central Florida,Baltimore Ravens,18,187.96,97.52,3rd season,breshadperriman/2552597
+"Cockrell, Ross",25.0,"Farmington Hills , MI",Duke,Pittsburgh Steelers,31,182.88,86.64,4th season,rosscockrell/2543799
+"Matakevich, Tyler",24.0,"East Haven , CT",Temple,Pittsburgh Steelers,44,185.42,106.59,2nd season,tylermatakevich/2555171
+"Boyd, Tyler",22.0,"Clairton , PA",Pittsburgh,Cincinnati Bengals,83,187.96,89.36,2nd season,tylerboyd/2555466
+"Braman, Bryan",30.0,"Spokane , WA",West Texas A&M,Philadelphia Eagles,56,195.58,109.32,7th season,bryanbraman/2530666
+"Lewis, Thad",29.0,"Opa Locka , FL",Duke,San Francisco 49ers,9,187.96,99.34,5th season,thadlewis/497121
+"Jackson, Edwin",25.0,"Atlanta , GA",Georgia Southern,Indianapolis Colts,53,182.88,104.33,2nd season,edwinjackson/2553541
+"Cannon, Marcus",29.0,"Quanah , TX",Texas Christian,New England Patriots,61,195.58,151.95,7th season,marcuscannon/2495131
+"Hal, Andre",25.0,"Leesville , AL",Vanderbilt,Houston Texans,29,177.8,88.45,4th season,andrehal/2543874
+"Leno, Charles, Jr.",25.0,"Oakland , CA",Boise State,Chicago Bears,72,190.5,138.35,4th season,charleslenojr./2550169
+"Staley, Joe",32.0,"Rockford , MI",Central Michigan,San Francisco 49ers,74,195.58,142.88,11th season,joestaley/2495746
+"Gunter, LaDarius",25.0,"Montgomery , AL",Miami (Fla.),Green Bay Packers,36,187.96,91.17,3rd season,ladariusgunter/2553528
+"Beckham, Odell",24.0,"Baton Rouge , LA",LSU,New York Giants,13,180.34,89.81,4th season,odellbeckham/2543496
+"Coleman, Corey",22.0,"Dallas , TX",Baylor,Cleveland Browns,19,177.8,83.91,2nd season,coreycoleman/2555333
+"Graham, Corey",31.0,"Buffalo , NY",New Hampshire,Buffalo Bills,20,182.88,88.9,11th season,coreygraham/2495613
+"Crowell, Isaiah",24.0,"Columbus , GA",Alabama State,Cleveland Browns,34,180.34,102.06,4th season,isaiahcrowell/2550189
+"Reader, D.J.",22.0,"Greensboro , NC",Clemson,Houston Texans,98,190.5,151.95,2nd season,d.j.reader/2555388
+"Brendel, Jake",24.0,"Madison , WI",UCLA,Miami Dolphins,64,193.04,138.35,2nd season,jakebrendel/2556479
+"Carr, Austin",23.0,"Benicia , CA",Northwestern,New England Patriots,84,185.42,88.0,Rookie,austincarr/2558928
+"Correa, Kamalei",23.0,"Honolulu , HI",Boise State,Baltimore Ravens,51,190.5,113.4,2nd season,kamaleicorrea/2555339
+"Ware, Spencer",25.0,"Cincinnati , OH",LSU,Kansas City Chiefs,32,177.8,103.87,4th season,spencerware/2540204
+"Nelson, Steven",24.0,"Warner Robins , GA",Oregon State,Kansas City Chiefs,20,180.34,88.0,3rd season,stevennelson/2552265
+"Fleener, Coby",28.0,"Lemont , IL",Stanford,New Orleans Saints,82,198.12,113.85,6th season,cobyfleener/2532838
+"McCourty, Devin",29.0,"Nyack , NY",Rutgers,New England Patriots,32,177.8,88.45,8th season,devinmccourty/494287
+"Thomas, Michael",24.0,"Los Angeles , CA",Ohio State,New Orleans Saints,13,190.5,96.16,2nd season,michaelthomas/2556370
+"Nkemdiche, Robert",22.0,"Atlanta , GA",Mississippi,Arizona Cardinals,90,190.5,134.26,2nd season,robertnkemdiche/2555336
+"Catapano, Mike",26.0,"Port Jefferson , NY",Princeton,New York Jets,53,193.04,122.47,5th season,mikecatapano/2541140
+"Seymour, Kevon",23.0,"Pasadena , CA",USC,Buffalo Bills,29,182.88,83.91,2nd season,kevonseymour/2555549
+"Wick, Cole",23.0,"Victoria , TX",Incarnate Word (Tex.),Detroit Lions,89,198.12,116.57,2nd season,colewick/2556708
+"Calhoun, Shilique",25.0,"Freehold , NJ",Michigan State,Oakland Raiders,91,195.58,113.85,2nd season,shiliquecalhoun/2555294
+"Anthony, Stephone",24.0,"Waxhaw , NC",Clemson,New Orleans Saints,50,190.5,111.13,3rd season,stephoneanthony/2552321
+"Sturgis, Caleb",27.0,"St. Augustine , FL",Florida,Philadelphia Eagles,6,175.26,87.09,5th season,calebsturgis/2539637
+"Barth, Connor",31.0,"Arlington , VA",North Carolina,Chicago Bears,4,180.34,90.72,10th season,connorbarth/2507463
+"Clay, Charles",28.0,"Little Rock , AR",Tulsa,Buffalo Bills,85,190.5,115.67,7th season,charlesclay/2495139
+"Vannett, Nick",24.0,"Westerville , OH",Ohio State,Seattle Seahawks,81,195.58,116.57,2nd season,nickvannett/2555289
+"Emanuel, Kyle",25.0,"Schuyler , NE",North Dakota State,Los Angeles Chargers,51,190.5,113.4,3rd season,kyleemanuel/2552296
+"Kamalu, Ufomba",24.0,"Paso Robles , CA",Miami (Fla.),Houston Texans,97,198.12,134.72,2nd season,ufombakamalu/2556574
+"Haeg, Joe",24.0,"Minneapolis , MN",North Dakota State,Indianapolis Colts,73,198.12,137.89,2nd season,joehaeg/2555371
+"Wagner, Bobby",26.0,"Los Angeles , CA",Utah State,Seattle Seahawks,54,182.88,111.13,6th season,bobbywagner/2532966
+"Louis, Lamar",23.0,"Breaux Bridge , LA",LSU,Baltimore Ravens,59,180.34,105.23,1st season,lamarlouis/2556438
+"Havenstein, Rob",25.0,"Mount Airy , MD",Wisconsin,Los Angeles Rams,79,200.66,145.6,3rd season,robhavenstein/2552363
+"Bryant, Martavis",25.0,"Calhoun Falls , SC",Clemson,Pittsburgh Steelers,10,193.04,95.71,3rd season,martavisbryant/2543572
+"White, James",25.0,"Fort Lauderdale , FL",Wisconsin,New England Patriots,28,177.8,92.99,4th season,jameswhite/2543773
+"Smith, Jimmy",28.0,"San Diego Co. , CA",Colorado,Baltimore Ravens,22,187.96,95.25,7th season,jimmysmith/2508107
+"Whittaker, Fozzy",28.0,"Houston , TX",Texas,Carolina Panthers,43,177.8,92.99,5th season,fozzywhittaker/2540037
+"Pasztor, Austin",26.0,"Langton , Ontario",Virginia,Cleveland Browns,67,200.66,139.71,5th season,austinpasztor/2535837
+"Barrington, Sam",26.0,"Orlando , FL",South Florida,New Orleans Saints,97,185.42,108.86,5th season,sambarrington/2540280
+"Celek, Garrett",29.0,"Cincinnati , OH",Michigan State,San Francisco 49ers,88,195.58,114.31,6th season,garrettcelek/2534820
+"Reed, Brooks",30.0,"Tucson , AZ",Arizona,Atlanta Falcons,50,190.5,115.21,7th season,brooksreed/2495218
+"Thompson, Darian",23.0,"Lancaster , CA",Boise State,New York Giants,27,185.42,96.62,2nd season,darianthompson/2555154
+"Felton, Jerome",30.0,Duren Germany,Furman,Buffalo Bills,42,182.88,112.49,10th season,jeromefelton/230
+"Windt, Mike",31.0,"Cincinnati , OH",Cincinnati,Los Angeles Chargers,47,185.42,107.5,8th season,mikewindt/2507845
+"Floyd, Leonard",24.0,"Atlanta , GA",Georgia,Chicago Bears,94,190.5,108.86,2nd season,leonardfloyd/2555285
+"Peake, Charone",24.0,"Spartanburg , SC",Clemson,New York Jets,17,187.96,94.8,2nd season,charonepeake/2555477
+"Thomas, Cam",30.0,"Eagle Springs , NC",North Carolina,Los Angeles Rams,92,193.04,151.95,8th season,camthomas/496865
+"Williamson, Avery",25.0,"Cleveland , OH",Kentucky,Tennessee Titans,54,185.42,111.58,4th season,averywilliamson/2543597
+"Thielen, Adam",26.0,"Detroit Lakes , MN",Minnesota State,Minnesota Vikings,19,187.96,90.72,4th season,adamthielen/2541785
+"Hughes, Jerry",28.0,"Sugar Land , TX",Texas Christian,Buffalo Bills,55,187.96,115.21,8th season,jerryhughes/496796
+"Henderson, Seantrel",25.0,"Minneapolis , MN",Miami (Fla.),Buffalo Bills,66,200.66,150.14,4th season,seantrelhenderson/2543730
+"Golden, Robert",26.0,"Fresno , CA",Arizona,Pittsburgh Steelers,21,180.34,91.63,6th season,robertgolden/2534822
+"Harris, Anthony",25.0,"Richmond , VA",Virginia,Minnesota Vikings,41,185.42,87.09,3rd season,anthonyharris/2553655
+"Blue, Alfred",26.0,"Marrero , LA",LSU,Houston Texans,28,187.96,102.06,4th season,alfredblue/2543600
+"Branch, Andre",27.0,"Richmond , VA",Clemson,Miami Dolphins,50,195.58,119.29,6th season,andrebranch/2532801
+"Harris, David",33.0,"Grand Rapids , MI",Michigan,New York Jets,52,187.96,113.4,11th season,davidharris/2495621
+"Johnson, Randell",26.0,"Miami , FL",Florida Atlantic,New York Jets,49,193.04,111.13,3rd season,randelljohnson/2549915
+"Zenner, Zach",25.0,"Eagan , MN",South Dakota,Detroit Lions,34,180.34,100.24,3rd season,zachzenner/2553631
+"Brissett, Jacoby",24.0,"West Palm Beach , FL",North Carolina State,New England Patriots,7,193.04,106.59,2nd season,jacobybrissett/2555261
+"Cutler, Jay",34.0,"Columbus , GA",Vanderbilt,Chicago Bears,6,190.5,104.78,12th season,jaycutler/2495824
+"Allen, Dwayne",27.0,"Fayetteville , NC",Clemson,New England Patriots,83,190.5,120.2,6th season,dwayneallen/2533046
+"Moore, Matt",32.0,"Van Nuys , CA",Oregon State,Miami Dolphins,8,190.5,102.06,10th season,mattmoore/2507282
+"Goldman, Eddie",23.0,"Washington , DC",Florida State,Chicago Bears,91,193.04,145.15,3rd season,eddiegoldman/2552489
+"Carradine, Tank",28.0,"Cincinnati , OH",Florida State,San Francisco 49ers,95,193.04,133.81,5th season,tankcarradine/2539224
+"Shaw, Josh",25.0,"Carson , CA",USC,Cincinnati Bengals,26,185.42,90.72,3rd season,joshshaw/2552259
+"Tuerk, Max",23.0,"Trabuco Canyon , CA",USC,Los Angeles Chargers,62,195.58,135.17,2nd season,maxtuerk/2555187
+"Tartt, Jaquiski",25.0,"Mobile , AL",Samford,San Francisco 49ers,29,185.42,100.24,3rd season,jaquiskitartt/2552391
+"Woods, Antwaun",24.0,"Los Angeles , CA",USC,Tennessee Titans,75,185.42,148.78,1st season,antwaunwoods/2556792
+"Austin, Tavon",27.0,"Baltimore , MD",West Virginia,Los Angeles Rams,11,172.72,79.83,5th season,tavonaustin/2539336
+"King, Tavarres",26.0,"Cornelia , GA",Georgia,New York Giants,15,185.42,90.72,3rd season,tavarresking/2539235
+"Wilkerson, Muhammad",27.0,"Elizabeth , NJ",Temple,New York Jets,96,193.04,142.88,7th season,muhammadwilkerson/2495490
+"Martin, Josh",25.0,"Houston , TX",Columbia,New York Jets,95,190.5,111.13,5th season,joshmartin/2541864
+"McKissic, J.D.",23.0,"Phenix City , AL",Arkansas State,Seattle Seahawks,30,177.8,84.82,1st season,j.d.mckissic/2556440
+"McCluster, Dexter",28.0,"Largo , FL",Mississippi,Los Angeles Chargers,33,172.72,77.11,8th season,dextermccluster/497190
+"Reaser, Keith",25.0,"Miami , FL",Florida Atlantic,San Francisco 49ers,27,182.88,86.18,3rd season,keithreaser/2543582
+"Winn, Billy",28.0,"Las Vegas , NV",Boise State,Denver Broncos,97,193.04,136.08,5th season,billywinn/2532976
+"Westbrooks, Ethan",26.0,"Oakland , CA",West Texas A&M,Los Angeles Rams,93,193.04,121.11,4th season,ethanwestbrooks/2550449
+"Jack, Myles",21.0,"Scottsdale , AZ",UCLA,Jacksonville Jaguars,44,185.42,112.04,2nd season,mylesjack/2555329
+"Hager, Bryce",25.0,"Austin , TX",Baylor,Los Angeles Rams,54,185.42,106.59,3rd season,brycehager/2552307
+"Heuerman, Jeff",24.0,"Naples , FL",Ohio State,Denver Broncos,82,195.58,115.67,3rd season,jeffheuerman/2552399
+"Fede, Terrence",25.0,"Spring Valley , NY",Marist,Miami Dolphins,78,193.04,121.11,4th season,terrencefede/2550160
+"Dzubnar, Nick",25.0,"Anaheim , CA",Cal Poly-S.L.O.,Los Angeles Chargers,48,185.42,108.86,3rd season,nickdzubnar/2553877
+"Kendricks, Mychal",26.0,"Fresno , CA",California,Philadelphia Eagles,95,182.88,108.86,6th season,mychalkendricks/2532890
+"Elliott, Ezekiel",21.0,"Alton , IL",Ohio State,Dallas Cowboys,21,182.88,102.06,2nd season,ezekielelliott/2555224
+"Garnett, Joshua",23.0,"Auburn , WA",Stanford,San Francisco 49ers,65,195.58,145.6,2nd season,joshuagarnett/2555138
+"Robertson, Craig",29.0,"Stafford , TX",North Texas,New Orleans Saints,52,185.42,106.14,6th season,craigrobertson/2532431
+"Williams, Trent",28.0,"Longview , TX",Oklahoma,Washington Redskins,71,195.58,145.15,8th season,trentwilliams/497073
+"Lynch, Marshawn",31.0,"Oakland , CA",California,Oakland Raiders,24,180.34,97.52,9th season,marshawnlynch/2495663
+"Moats, Arthur",29.0,"Havelock , NC",James Madison,Pittsburgh Steelers,55,182.88,111.58,8th season,arthurmoats/496825
+"Smith, Lee",29.0,"Powell , TN",Marshall,Oakland Raiders,86,198.12,120.2,7th season,leesmith/2495347
+"Berry, Jordan",26.0,Essendon Australia,Eastern Kentucky,Pittsburgh Steelers,4,195.58,88.45,3rd season,jordanberry/2553348
+"Tapp, Darryl",32.0,"Portsmouth , VA",Virginia Tech,New Orleans Saints,55,185.42,122.47,12th season,darryltapp/2506899
+"Price, Sheldon",26.0,"Long Beach , CA",UCLA,Baltimore Ravens,27,187.96,88.0,2nd season,sheldonprice/2539670
+"Bosher, Matt",29.0,"Greenacres , FL",Miami (Fla.),Atlanta Falcons,5,182.88,94.35,7th season,mattbosher/2495124
+"Langi, Harvey",24.0,"South Jordan , UT",Brigham Young,New England Patriots,48,187.96,113.85,Rookie,harveylangi/2558963
+"Lewis, Tommylee",24.0,"West Palm Beach , FL",Northern Illinois,New Orleans Saints,87,170.18,76.2,2nd season,tommyleelewis/2556752
+"Butler, Crezdon",30.0,"Asheville , NC",Clemson,Detroit Lions,41,185.42,86.64,7th season,crezdonbutler/496729
+"Bailey, Dan",29.0,"Oklahoma City , OK",Oklahoma State,Dallas Cowboys,5,182.88,88.45,7th season,danbailey/2495259
+"Jenkins, Malcolm",29.0,"East Orange , NJ",Ohio State,Philadelphia Eagles,27,182.88,92.53,9th season,malcolmjenkins/79848
+"Redmond, Will",23.0,"Memphis , TN",Mississippi State,San Francisco 49ers,23,182.88,84.37,2nd season,willredmond/2555545
+"Adams, Andrew",24.0,"Red Oak , GA",Connecticut,New York Giants,33,180.34,91.63,2nd season,andrewadams/2556456
+"Johnson, Will",28.0,"Dayton , OH",West Virginia,New York Giants,46,187.96,108.86,6th season,willjohnson/163982
+"Ryan, Matt",32.0,"Exton , PA",Boston College,Atlanta Falcons,2,193.04,98.43,10th season,mattryan/310
+"Bullard, Jonathan",23.0,"Grover , NC",Florida,Chicago Bears,74,190.5,131.54,2nd season,jonathanbullard/2555335
+"Ola, Michael",29.0,"Riverdale , GA",Hampton,Buffalo Bills,74,195.58,141.52,4th season,michaelola/2543539
+"Matthews, Jake",25.0,"Missouri City , TX",Texas A&M,Atlanta Falcons,70,195.58,140.16,4th season,jakematthews/2543758
+"Armbrister, Thurston",24.0,"Miami , FL",Miami (Fla.),Detroit Lions,50,190.5,106.59,3rd season,thurstonarmbrister/2553633
+"King, David",27.0,"Houston , TX",Oklahoma,Kansas City Chiefs,93,193.04,127.46,2nd season,davidking/2540008
+"Boldin, Anquan",36.0,"Pahokee , FL",Florida State,Detroit Lions,80,185.42,99.79,15th season,anquanboldin/2505587
+"Gardner, Andrew",31.0,"Chamblee , GA",Georgia Tech,San Francisco 49ers,66,198.12,139.71,7th season,andrewgardner/71311
+"Lewis, Kendrick",28.0,"New Orleans , LA",Mississippi,Baltimore Ravens,23,182.88,92.99,8th season,kendricklewis/494277
+"Smith, C.J.",24.0,"Des Moines , IA",North Dakota State,Philadelphia Eagles,37,180.34,85.73,2nd season,c.j.smith/2556774
+"Wade, Trevin",27.0,"Austin , TX",Arizona,New York Giants,31,177.8,86.18,6th season,trevinwade/2532965
+"Okwara, Romeo",21.0,Nigeria,Notre Dame,New York Giants,78,195.58,120.2,2nd season,romeookwara/2556641
+"Smith, Sean",29.0,"Pasadena , CA",Utah,Oakland Raiders,21,190.5,99.79,9th season,seansmith/2507783
+"Wester, Leonard",24.0,"Anamosa , IA",Missouri Western State,Tampa Bay Buccaneers,66,198.12,138.35,2nd season,leonardwester/2556787
+"Starks, James",31.0,"Niagara Falls , NY",Buffalo,Green Bay Packers,44,187.96,98.88,8th season,jamesstarks/497206
+"Collins, Alex",22.0,"Plantation , FL",Arkansas,Seattle Seahawks,36,177.8,98.43,2nd season,alexcollins/2555430
+"Lambo, Josh",26.0,"Lansing , MI",Texas A&M,Los Angeles Chargers,2,182.88,97.52,3rd season,joshlambo/2553833
+"Stanton, Drew",33.0,"Okemos , MI",Michigan State,Arizona Cardinals,5,190.5,110.22,11th season,drewstanton/2495748
+"Onwuasor, Patrick",24.0,"Inglewood , CA",Portland State,Baltimore Ravens,48,182.88,98.43,2nd season,patrickonwuasor/2556642
+"Shead, DeShawn",27.0,"Palmdale , CA",Portland State,Seattle Seahawks,35,187.96,96.16,6th season,deshawnshead/2535609
+"Skrine, Buster",28.0,"Decatur , GA",Tennessee-Chattanooga,New York Jets,41,175.26,83.91,7th season,busterskrine/2495343
+"Geathers, Clayton",25.0,"Georgetown , SC",Central Florida,Indianapolis Colts,26,187.96,99.79,3rd season,claytongeathers/2552386
+"Walker, Josh",26.0,"Spring City , TN",Middle Tennessee State,Houston Texans,73,195.58,148.78,3rd season,joshwalker/2550267
+"Ray, Shane",24.0,"Kansas City , MO",Missouri,Denver Broncos,56,190.5,111.13,3rd season,shaneray/2552451
+"Killings, D.J.",21.0,"Miami , FL",Central Florida,New England Patriots,29,177.8,82.1,Rookie,d.j.killings/2559028
+"Dodd, Kevin",24.0,"Taylors , SC",Clemson,Tennessee Titans,93,195.58,125.64,2nd season,kevindodd/2555338
+"Darby, Ronald",23.0,"Oxon Hill , MD",Florida State,Buffalo Bills,28,180.34,87.54,3rd season,ronalddarby/2552689
+"Williams, Ishaq",24.0,"Brooklyn , NY",Notre Dame,New York Giants,97,193.04,114.76,1st season,ishaqwilliams/2556790
+"Schum, Jacob",28.0,"Hamburg , NY",Buffalo,Green Bay Packers,10,177.8,95.71,3rd season,jacobschum/2541090
+"Diggs, Stefon",23.0,"Alexandria , VA",Maryland,Minnesota Vikings,14,182.88,86.64,3rd season,stefondiggs/2552608
+"Peters, Marcus",24.0,"Oakland , CA",Washington,Kansas City Chiefs,22,182.88,89.36,3rd season,marcuspeters/2552488
+"Casey, Jurrell",27.0,"Long Beach , CA",USC,Tennessee Titans,99,185.42,138.35,7th season,jurrellcasey/2495476
+"Alexander, Dominique",22.0,"Tulsa , OK",Oklahoma,Cleveland Browns,54,182.88,106.59,2nd season,dominiquealexander/2556843
+"Gabriel, Taylor",26.0,"Dallas , TX",Abilene Christian,Atlanta Falcons,18,172.72,74.84,4th season,taylorgabriel/2550617
+"Cann, A.J.",25.0,"Bamberg , SC",South Carolina,Jacksonville Jaguars,60,190.5,143.79,3rd season,a.j.cann/2552330
+"Jensen, Ryan",26.0,"Fort Morgan , CO",Colorado State-Pueblo,Baltimore Ravens,66,193.04,140.61,4th season,ryanjensen/2541159
+"Kreiter, Casey",26.0,"De Witt , IA",Iowa,Denver Broncos,42,185.42,113.4,2nd season,caseykreiter/2550364
+"Hightower, Dont'a",27.0,"Lewisburg , TN",Alabama,New England Patriots,54,190.5,120.2,6th season,dont'ahightower/2533057
+"Grimble, Xavier",24.0,"Las Vegas , NV",USC,Pittsburgh Steelers,85,193.04,118.39,2nd season,xaviergrimble/2550521
+"Wisniewski, Stefen",28.0,"Pittsburgh , PA",Penn State,Philadelphia Eagles,61,190.5,138.35,7th season,stefenwisniewski/2495250
+"Rogers, Eli",24.0,"Miami Gardens , FL",Louisville,Pittsburgh Steelers,17,177.8,84.82,3rd season,elirogers/2553737
+"Levy, DeAndre",30.0,"Milwaukee , WI",Wisconsin,Detroit Lions,54,187.96,106.14,9th season,deandrelevy/71365
+"Marks, Sen'Derrick",30.0,"Mobile , AL",Auburn,Jacksonville Jaguars,99,187.96,140.16,9th season,sen'derrickmarks/79603
+"Reynolds, Ed",25.0,"Greensboro , NC",Stanford,Cleveland Browns,39,185.42,93.89,3rd season,edreynolds/2543656
+"Bell, Vonn",22.0,"Chattanooga , TN",Ohio State,New Orleans Saints,48,180.34,92.99,2nd season,vonnbell/2555530
+"Schraeder, Ryan",29.0,"Wichita , KS",Valdosta State,Atlanta Falcons,73,200.66,136.08,5th season,ryanschraeder/2541521
+"Grant, Ryan",26.0,"Beaumont , TX",Tulane,Washington Redskins,14,182.88,91.17,4th season,ryangrant/2543759
+"Wile, Matt",24.0,"San Diego , CA",Michigan,Arizona Cardinals,6,187.96,97.52,1st season,mattwile/2553622
+"Suggs, Terrell",34.0,"Minneapolis , MN",Arizona State,Baltimore Ravens,55,190.5,120.2,15th season,terrellsuggs/2505660
+"Branch, Alan",32.0,"Albuquerque , NM",Michigan,New England Patriots,97,198.12,158.76,11th season,alanbranch/2495561
+"Lissemore, Sean",29.0,"Teaneck , NJ",William & Mary,Los Angeles Chargers,98,190.5,137.44,8th season,seanlissemore/1037896
+"Shelton, Danny",23.0,"Sacramento , CA",Washington,Cleveland Browns,55,187.96,151.95,3rd season,dannyshelton/2552325
+"Wiggins, Kenny",28.0,"Elk Grove , CA",Fresno State,Los Angeles Chargers,79,198.12,142.43,4th season,kennywiggins/2530556
+"Lowery, Dwight",31.0,"Santa Cruz , CA",San Jose State,Los Angeles Chargers,20,180.34,96.16,10th season,dwightlowery/280
+"Alexander, D.J.",25.0,"Long Beach , CA",Oregon State,Kansas City Chiefs,57,187.96,105.69,3rd season,d.j.alexander/2553442
+"Ballentine, Lonnie",24.0,"Memphis , TN",Memphis,Houston Texans,39,190.5,97.52,4th season,lonnieballentine/2549940
+"Ingram, Mark",27.0,"Hackensack , NJ",Alabama,New Orleans Saints,22,175.26,97.52,7th season,markingram/2495466
+"Scales, Patrick",29.0,"Louisville , KY",Utah State,Chicago Bears,48,193.04,109.77,3rd season,patrickscales/2530600
+"Anderson, Zaire",24.0,"Philadelphia , PA",Nebraska,Denver Broncos,50,180.34,101.6,2nd season,zaireanderson/2553489
+"Shields, Sam",29.0,"Sarasota , FL",Miami (Fla.),Green Bay Packers,37,180.34,83.46,8th season,samshields/1037374
+"Robinson, A'Shawn",22.0,"Fort Worth , TX",Alabama,Detroit Lions,91,190.5,145.15,2nd season,a'shawnrobinson/2555265
+"Jones, DaQuan",25.0,"Johnson City , NY",Penn State,Tennessee Titans,90,193.04,146.06,4th season,daquanjones/2543504
+"Dorsett, Phillip",24.0,"West Park , FL",Miami (Fla.),Indianapolis Colts,15,177.8,83.91,3rd season,phillipdorsett/2552424
+"Schofield, Michael",26.0,"Orland Park , IL",Michigan,Denver Broncos,79,198.12,136.53,4th season,michaelschofield/2543732
+"Ayers, Robert",31.0,"Jersey City , NJ",Tennessee,Tampa Bay Buccaneers,91,190.5,124.74,9th season,robertayers/71193
+"Lockett, Tyler",24.0,"Tulsa , OK",Kansas State,Seattle Seahawks,16,177.8,82.55,3rd season,tylerlockett/2552430
+"Greenway, Chad",34.0,"Mount Vernon , SD",Iowa,Minnesota Vikings,52,190.5,107.5,12th season,chadgreenway/2506881
+"Schobert, Joe",23.0,"Waukesha , WI",Wisconsin,Cleveland Browns,53,185.42,111.13,2nd season,joeschobert/2555166
+"Casillas, Jonathan",30.0,"Jersey City , NJ",Wisconsin,New York Giants,52,185.42,102.97,9th season,jonathancasillas/71249
+"Fleming, Cameron",24.0,"Fort Hood , TX",Stanford,New England Patriots,71,198.12,145.15,4th season,cameronfleming/2543654
+"Simms, Matt",28.0,"Franklin Lakes , NJ",Tennessee,Atlanta Falcons,4,190.5,95.25,4th season,mattsimms/2534889
+"Arkin, David",29.0,"Wichita , KS",Missouri State,Los Angeles Rams,66,195.58,139.25,3rd season,davidarkin/2495112
+"Smith, Garrison",25.0,"Marietta , GA",Georgia,Seattle Seahawks,98,185.42,140.61,4th season,garrisonsmith/2550503
+"Autry, Denico",26.0,"Albemarle , NC",Mississippi State,Oakland Raiders,96,195.58,122.47,4th season,denicoautry/2550646
+"Lowry, Dean",22.0,"Rockford , IL",Northwestern,Green Bay Packers,94,198.12,134.26,2nd season,deanlowry/2555274
+"Berry, Eric",28.0,"Atlanta , GA",Tennessee,Kansas City Chiefs,29,182.88,96.16,8th season,ericberry/496723
+"Guy, Lawrence",27.0,"Las Vegas , NV",Arizona State,New England Patriots,93,193.04,138.35,7th season,lawrenceguy/2495481
+"Palmer, Nate",27.0,"Chicago , IL",Illinois State,Tennessee Titans,50,187.96,112.49,5th season,natepalmer/2541315
+"Brice, Kentrell",22.0,"Ruston , LA",Louisiana Tech,Green Bay Packers,29,180.34,90.72,2nd season,kentrellbrice/2556480
+"Fowler, Jalston",26.0,"Mobile , AL",Alabama,Tennessee Titans,45,180.34,115.21,3rd season,jalstonfowler/2552464
+"Carter, Bruce",29.0,"Havelock , NC",North Carolina,New York Jets,54,187.96,108.86,7th season,brucecarter/2495136
+"Hawkins, Josh",24.0,"Winston Salem , NC",East Carolina,Green Bay Packers,28,177.8,85.73,2nd season,joshhawkins/2556550
+"Gore, Frank",34.0,"Miami , FL",Miami (Fla.),Indianapolis Colts,23,175.26,98.43,13th season,frankgore/2506404
+"Berhe, Nat",25.0,"Fontana , CA",San Diego State,New York Giants,29,182.88,88.0,4th season,natberhe/2543643
+"Longacre, Matt",25.0,"Rochester , MN",Northwest Missouri State,Los Angeles Rams,96,190.5,117.93,3rd season,mattlongacre/2553722
+"Norris, Jared",23.0,"Bakersfield , CA",Utah,Carolina Panthers,52,185.42,108.86,2nd season,jarednorris/2556862
+"Lewis-Harris, Chris",28.0,"Riverdale , GA",Tennessee-Chattanooga,Baltimore Ravens,31,177.8,83.91,5th season,chrislewis-harris/2538147
+"Lechler, Shane",40.0,"Sealy , TX",Texas A&M,Houston Texans,9,187.96,104.33,18th season,shanelechler/2504319
+"Paysinger, Spencer",28.0,"Los Angeles , CA",Oregon,Miami Dolphins,42,187.96,112.94,7th season,spencerpaysinger/2530855
+"Toomer, Korey",28.0,"North Las Vegas , NV",Idaho,Los Angeles Chargers,56,187.96,106.59,4th season,koreytoomer/2534567
+"Marshall, Byron",23.0,"San Jose , CA",Oregon,Philadelphia Eagles,39,175.26,91.17,1st season,byronmarshall/2556841
+"Lee, Darron",22.0,"Chattanooga , TN",Ohio State,New York Jets,50,185.42,105.23,2nd season,darronlee/2555322
+"Smith, D'Joun",24.0,"Miami , FL",Florida Atlantic,Tennessee Titans,20,180.34,87.54,2nd season,d'jounsmith/2552253
+"Campbell, Ibraheim",25.0,"Germantown, Philadelphia Co. , PA",Northwestern,Cleveland Browns,24,180.34,94.35,3rd season,ibraheimcampbell/2552605
+"Veldheer, Jared",29.0,"Grand Rapids , MI",Hillsdale,Arizona Cardinals,68,203.2,145.6,8th season,jaredveldheer/497061
+"Fua, Alani",25.0,"San Fernando , CA",Brigham Young,Arizona Cardinals,59,195.58,106.14,3rd season,alanifua/2553523
+"Griffin III, Robert",27.0,Okinawa Japan,Baylor,Cleveland Browns,10,187.96,98.88,6th season,robertgriffiniii/2533033
+"Buckner, DeForest",23.0,"Waianae , HI",Oregon,San Francisco 49ers,99,200.66,136.08,2nd season,deforestbuckner/2555275
+"Cousins, Kirk",28.0,"Barrington , IL",Michigan State,Washington Redskins,8,190.5,95.25,6th season,kirkcousins/2532820
+"Bowman, NaVorro",29.0,"District Heights , MD",Penn State,San Francisco 49ers,53,182.88,109.77,8th season,navorrobowman/2508088
+"Cushing, Brian",30.0,"Park Ridge , NJ",USC,Houston Texans,56,190.5,115.67,9th season,briancushing/80421
+"Therezie, Robenson",25.0,"Miami , FL",Auburn,New Orleans Saints,35,175.26,96.16,3rd season,robensontherezie/2553607
+"Washington, DeAndre",24.0,"Houston , TX",Texas Tech,Oakland Raiders,33,172.72,92.53,2nd season,deandrewashington/2555464
+"Amos, Adrian",24.0,"Baltimore , MD",Penn State,Chicago Bears,38,182.88,97.07,3rd season,adrianamos/2552385
+"Winchester, James",27.0,"Mustang , OK",Oklahoma,Kansas City Chiefs,41,190.5,108.86,3rd season,jameswinchester/2542357
+"Quin, Glover",31.0,"Mccomb , MS",New Mexico,Detroit Lions,27,182.88,93.89,9th season,gloverquin/71441
+"Jackson, D'Qwell",33.0,"Largo , FL",Maryland,Indianapolis Colts,52,182.88,109.77,12th season,d'qwelljackson/2506889
+"Mason, Shaq",23.0,"Columbia , TN",Georgia Tech,New England Patriots,69,185.42,140.61,3rd season,shaqmason/2552563
+"Taliaferro, Lorenzo",25.0,"Yorktown , VA",Coastal Carolina,Baltimore Ravens,34,182.88,102.06,4th season,lorenzotaliaferro/2543704
+"Revis, Darrelle",31.0,"Aliquippa , PA",Pittsburgh,New York Jets,24,180.34,89.81,11th season,darrellerevis/2495717
+"Acker, Kenneth",25.0,"Portland , OR",Southern Methodist,Kansas City Chiefs,27,182.88,88.45,4th season,kennethacker/2549981
+"Robinson, Denard",26.0,"Deerfield Beach , FL",Michigan,Jacksonville Jaguars,16,182.88,96.62,5th season,denardrobinson/2539260
+"Jones, Marvin",27.0,"Los Angeles , CA",California,Detroit Lions,11,187.96,89.81,6th season,marvinjones/2532884
+"Longa, Steve",22.0,Yaounde Cameroon,Rutgers,Detroit Lions,58,185.42,109.32,1st season,stevelonga/2556595
+"Uzomah, C.J.",24.0,"Washington , DC",Auburn,Cincinnati Bengals,87,198.12,120.2,3rd season,c.j.uzomah/2552559
+"McManus, Brandon",25.0,"Philadelphia , PA",Temple,Denver Broncos,8,190.5,91.17,4th season,brandonmcmanus/2541556
+"Freeny, Jonathan",27.0,"Margate , FL",Rutgers,New England Patriots,55,187.96,115.67,6th season,jonathanfreeny/2530765
+"Feliciano, Jon",25.0,"Davie , FL",Miami (Fla.),Oakland Raiders,76,193.04,147.42,3rd season,jonfeliciano/2552343
+"Farrow, Kenneth",24.0,"Dallas , TX",Houston,Los Angeles Chargers,27,175.26,99.34,2nd season,kennethfarrow/2556801
+"Shepard, Sterling",24.0,"Norman , OK",Oklahoma,New York Giants,87,177.8,88.0,2nd season,sterlingshepard/2555295
+"Pinion, Bradley",23.0,"Charlotte , NC",Clemson,San Francisco 49ers,5,195.58,103.87,3rd season,bradleypinion/2552711
+"Bellamy, Josh",28.0,"St. Petersburg , FL",Louisville,Chicago Bears,11,182.88,95.71,3rd season,joshbellamy/2535964
+"Sims, Pat",31.0,"Fort Lauderdale , FL",Auburn,Cincinnati Bengals,92,187.96,149.69,10th season,patsims/786
+"Lemonier, Corey",25.0,"Miami , FL",Auburn,New York Jets,44,190.5,115.67,5th season,coreylemonier/2540172
+"Sanchez, Zack",23.0,"Fort Worth , TX",Oklahoma,Carolina Panthers,31,180.34,83.91,2nd season,zacksanchez/2555548
+"McCray, Kelcie",28.0,"Columbus , GA",Arkansas State,Seattle Seahawks,33,187.96,91.63,6th season,kelciemccray/2533340
+"Cadet, Travaris",28.0,"Miami , FL",Appalachian State,New Orleans Saints,38,185.42,95.25,6th season,travariscadet/2535890
+"Mauro, Josh",26.0,St. Albans England,Stanford,Arizona Cardinals,97,198.12,127.91,4th season,joshmauro/2550437
+"Hardy, Justin",25.0,"Washington , DC",East Carolina,Atlanta Falcons,14,177.8,87.09,3rd season,justinhardy/2552418
+"Mathieu, Tyrann",25.0,"New Orleans , LA",LSU,Arizona Cardinals,32,175.26,84.37,5th season,tyrannmathieu/2540180
+"Powell, Walt",25.0,"St. Louis , MO",Murray State,Buffalo Bills,19,182.88,85.73,3rd season,waltpowell/2543619
+"Jenkins, Cullen",36.0,"Detroit , MI",Central Michigan,Washington Redskins,73,187.96,138.35,14th season,cullenjenkins/2505363
+"Pericak, Will",27.0,"Boulder , CO",Colorado,Seattle Seahawks,75,190.5,136.08,2nd season,willpericak/2541738
+"Worthy, Jerel",27.0,"Dayton , OH",Michigan State,Buffalo Bills,94,187.96,139.71,4th season,jerelworthy/2533052
+"Jones, Arthur",31.0,"Rochester , NY",Syracuse,Indianapolis Colts,97,190.5,145.15,8th season,arthurjones/2508055
+"Hopkins, Dustin",26.0,"Austin , TX",Florida State,Washington Redskins,3,187.96,93.44,4th season,dustinhopkins/2539227
+"Richardson, Paul",25.0,"Los Angeles , CA",Colorado,Seattle Seahawks,10,182.88,83.01,4th season,paulrichardson/2543491
+"Lawson, Shaq",22.0,"Lake Wylie , SC",Clemson,Buffalo Bills,90,190.5,122.47,2nd season,shaqlawson/2555252
+"Spence, Noah",23.0,"Philadelphia , PA",Eastern Kentucky,Tampa Bay Buccaneers,57,187.96,113.85,2nd season,noahspence/2555312
+"Hogan, Kevin",24.0,"McLean , VA",Stanford,Cleveland Browns,8,190.5,98.43,2nd season,kevinhogan/2555263
+"Zettel, Anthony",24.0,"Tawas City , MI",Penn State,Detroit Lions,69,193.04,122.47,2nd season,anthonyzettel/2555268
+"Miller, Von",28.0,"Dallas , TX",Texas A&M,Denver Broncos,58,190.5,113.4,7th season,vonmiller/2495202
+"McCoy, Gerald",29.0,"Oklahoma City , OK",Oklahoma,Tampa Bay Buccaneers,93,193.04,136.08,8th season,geraldmccoy/496816
+"Olatoye, Deji",25.0,"Cleveland , OH",North Carolina A&T,Atlanta Falcons,30,185.42,92.99,3rd season,dejiolatoye/2550236
+"Schwartz, Mitchell",27.0,"Los Angeles , CA",California,Kansas City Chiefs,71,195.58,145.15,6th season,mitchellschwartz/2532945
+"Stuckey, Darrell",29.0,"Kansas City , KS",Kansas,Los Angeles Chargers,25,180.34,96.16,8th season,darrellstuckey/494309
+"Anderson, Colt",31.0,"Butte , MT",Montana,Buffalo Bills,33,177.8,88.45,8th season,coltanderson/2507597
+"Griffin, Michael",32.0,"Austin , TX",Texas,Carolina Panthers,22,182.88,97.52,11th season,michaelgriffin/2495614
+"Kessler, Cody",24.0,"Bakersfield , CA",USC,Cleveland Browns,6,185.42,97.52,2nd season,codykessler/2555387
+"Dareus, Marcell",27.0,"Birmingham , AL",Alabama,Buffalo Bills,99,190.5,150.14,7th season,marcelldareus/2495478
+"Morris, Alfred",28.0,"Pensacola , FL",Florida Atlantic,Dallas Cowboys,46,177.8,101.6,6th season,alfredmorris/2533457
+"Thomas, Joe",26.0,"Aiken , SC",South Carolina State,Green Bay Packers,48,185.42,102.97,3rd season,joethomas/2550262
+"Larsen, Tyler",25.0,"Salt Lake City , UT",Utah,Carolina Panthers,69,193.04,151.95,2nd season,tylerlarsen/2550493
+"Solder, Nate",29.0,"Denver , CO",Colorado,New England Patriots,77,203.2,147.42,7th season,natesolder/2495232
+"Davis, Vernon",33.0,"Washington , DC",Maryland,Washington Redskins,85,190.5,112.49,12th season,vernondavis/2495826
+"Ward, Jihad",23.0,"Philadelphia , PA",Illinois,Oakland Raiders,95,195.58,134.72,2nd season,jihadward/2555248
+"Bullock, Randy",27.0,"Lafayette , LA",Texas A&M,Cincinnati Bengals,4,175.26,93.44,6th season,randybullock/2533444
+"Prosise, C.J.",23.0,"Hopewell , VA",Notre Dame,Seattle Seahawks,22,185.42,99.79,2nd season,c.j.prosise/2555417
+"Nsekhe, Ty",31.0,"Brooklyn , NY",Texas State,Washington Redskins,79,203.2,151.95,3rd season,tynsekhe/2538176
+"Wallace, Mike",30.0,"New Orleans , LA",Mississippi,Baltimore Ravens,17,182.88,92.99,9th season,mikewallace/2507763
+"Dent, Akeem",29.0,"Atlanta , GA",Georgia,Houston Texans,50,185.42,113.4,7th season,akeemdent/2495276
+"Novak, Nick",35.0,"San Diego , CA",Maryland,Houston Texans,8,182.88,90.72,10th season,nicknovak/2506194
+"Stephenson, Donald",28.0,"Kansas City , MO",Oklahoma,Denver Broncos,71,198.12,141.52,6th season,donaldstephenson/2532993
+"Montgomery, Ty",24.0,"Jackson , MS",Stanford,Green Bay Packers,88,182.88,97.98,3rd season,tymontgomery/2552429
+"Seferian-Jenkins, Austin",24.0,"Fox Island , WA",Washington,New York Jets,88,195.58,118.84,4th season,austinseferian-jenkins/2543683
+"Kalil, Ryan",32.0,"Tucson , AZ",USC,Carolina Panthers,67,187.96,136.08,11th season,ryankalil/2495655
+"Boehm, Evan",23.0,"Lee's Summit , MO",Missouri,Arizona Cardinals,70,187.96,140.61,2nd season,evanboehm/2555181
+"Crawley, Ken",24.0,"Washington , DC",Colorado,New Orleans Saints,46,185.42,81.65,2nd season,kencrawley/2556735
+"Gradkowski, Gino",28.0,"Pittsburgh , PA",Delaware,Carolina Panthers,66,190.5,136.08,6th season,ginogradkowski/2534764
+"Pitts, Lafayette",24.0,"Duquesne , PA",Pittsburgh,Miami Dolphins,40,177.8,88.9,2nd season,lafayettepitts/2556652
+"Barnes, Khalif",35.0,"San Diego , CA",Washington,New Orleans Saints,77,198.12,145.15,12th season,khalifbarnes/2506391
+"Sproles, Darren",33.0,"Waterloo , IA",Kansas State,Philadelphia Eagles,43,167.64,86.18,13th season,darrensproles/2506467
+"West, Charcandrick",26.0,"Shreveport , LA",Abilene Christian,Kansas City Chiefs,35,177.8,92.99,4th season,charcandrickwest/2550268
+"Bailey, Alvin",25.0,"Broken Arrow , OK",Arkansas,Cleveland Browns,78,190.5,145.15,5th season,alvinbailey/2540182
+"Todman, Jordan",27.0,"New Bedford , MA",Connecticut,Indianapolis Colts,28,177.8,90.72,5th season,jordantodman/2495472
+"Ripkowski, Aaron",24.0,"Dayton , TX",Oklahoma,Green Bay Packers,22,185.42,111.58,3rd season,aaronripkowski/2552477
+"Gratz, Dwayne",27.0,"Piscataway , NJ",Connecticut,Philadelphia Eagles,36,180.34,90.26,5th season,dwaynegratz/2539946
+"McDonald, Clinton",30.0,"Jacksonville , AR",Memphis,Tampa Bay Buccaneers,98,187.96,134.72,9th season,clintonmcdonald/89758
+"Ryan, Jon",35.0,"Regina , Saskatchewan",Regina (Canada),Seattle Seahawks,9,182.88,98.43,12th season,jonryan/2506613
+"Roberts, Elandon",23.0,"Port Arthur , TX",Houston,New England Patriots,52,180.34,106.59,2nd season,elandonroberts/2556119
+"Vaeao, Destiny",23.0,Pago Pago American Samoa,Washington State,Philadelphia Eagles,97,190.5,135.62,2nd season,destinyvaeao/2556786
+"Barber, Peyton",22.0,"Roswell , GA",Auburn,Tampa Bay Buccaneers,43,177.8,102.06,2nd season,peytonbarber/2556466
+"Washington, Adolphus",22.0,"Cincinnati , OH",Ohio State,Buffalo Bills,92,193.04,133.81,2nd season,adolphuswashington/2555235
+"Wolfe, Derek",27.0,"Syracuse , OH",Cincinnati,Denver Broncos,95,195.58,129.27,6th season,derekwolfe/2533026
+"Hundley, Brett",23.0,"Phoenix , AZ",UCLA,Green Bay Packers,7,190.5,102.51,3rd season,bretthundley/2552588
+"Scandrick, Orlando",30.0,"Los Angeles Co. , CA",Boise State,Dallas Cowboys,32,177.8,88.9,10th season,orlandoscandrick/2307
+"Bradberry, James",23.0,"Birmingham , AL",Samford,Carolina Panthers,24,185.42,95.25,2nd season,jamesbradberry/2555175
+"Gregory, Randy",24.0,"Jacksonville , FL",Nebraska,Dallas Cowboys,94,195.58,115.67,2nd season,randygregory/2552446
+"Hitchens, Anthony",24.0,"Lorain , OH",Iowa,Dallas Cowboys,59,182.88,106.59,4th season,anthonyhitchens/2543592
+"Onyemata, David",24.0,Lagos Nigeria,Manitoba (Canada),New Orleans Saints,93,190.5,136.08,2nd season,davidonyemata/2556274
+"Suh, Ndamukong",30.0,"Portland , OR",Nebraska,Miami Dolphins,93,193.04,138.35,8th season,ndamukongsuh/496861
+"Lampman, Jake",23.0,"Lansing , MI",Ferris State,New Orleans Saints,19,182.88,92.99,2nd season,jakelampman/2556882
+"Gholston, William",25.0,"Detroit , MI",Michigan State,Tampa Bay Buccaneers,92,198.12,127.46,5th season,williamgholston/2540176
+"Tukuafu, Will",33.0,"Salt Lake City , UT",Oregon,Seattle Seahawks,46,187.96,127.01,8th season,willtukuafu/2527672
+"Easley, Marcus",29.0,"Bridgeport , CT",Connecticut,Buffalo Bills,81,187.96,98.43,6th season,marcuseasley/497286
+"Agholor, Nelson",24.0,Nigeria,USC,Philadelphia Eagles,17,182.88,89.81,3rd season,nelsonagholor/2552600
+"Beavers, Willie",23.0,"Southfield , MI",Western Michigan,Minnesota Vikings,64,195.58,146.06,2nd season,williebeavers/2555208
+"Muhlbach, Don",35.0,"Newark , OH",Texas A&M,Detroit Lions,48,193.04,117.03,14th season,donmuhlbach/2505801
+"Beasley, Cole",28.0,"Houston , TX",Southern Methodist,Dallas Cowboys,11,172.72,81.65,6th season,colebeasley/2535698
+"Jones, Colin",29.0,"Bridgeport , TX",Texas Christian,Carolina Panthers,42,182.88,92.99,7th season,colinjones/2499257
+"Dorsey, Glenn",31.0,"Baton Rouge , LA",LSU,San Francisco 49ers,90,185.42,134.72,10th season,glenndorsey/218
+"Franklin, Orlando",29.0,Kingston Jamaica,Miami (Fla.),Los Angeles Chargers,74,198.12,142.88,7th season,orlandofranklin/2495151
+"Humphries, D.J.",23.0,"Durham , NC",Florida,Arizona Cardinals,74,195.58,139.25,3rd season,d.j.humphries/2552626
+"Slay, Darius",26.0,"Brunswick , GA",Mississippi State,Detroit Lions,23,182.88,86.18,5th season,dariusslay/2540288
+"Robinson, Josh",26.0,"Fort Lauderdale , FL",Central Florida,Tampa Bay Buccaneers,26,177.8,90.72,6th season,joshrobinson/2533542
+"Farley, Matthias",24.0,"Charlotte , NC",Notre Dame,Indianapolis Colts,41,180.34,95.25,2nd season,matthiasfarley/2556429
+"Doss, Lorenzo",23.0,"New Orleans , LA",Tulane,Denver Broncos,37,180.34,84.82,3rd season,lorenzodoss/2552599
+"Jerod-Eddie, Tony",27.0,"Dallas , TX",Texas A&M,San Francisco 49ers,63,195.58,136.53,5th season,tonyjerod-eddie/2534866
+"Incognito, Richie",33.0,"Englewood , NJ",Nebraska,Buffalo Bills,64,190.5,144.7,11th season,richieincognito/2506420
+"Stewart, Darian",28.0,"Huntsville , AL",South Carolina,Denver Broncos,26,180.34,97.07,8th season,darianstewart/494307
+"Armstead, Arik",23.0,"Sacramento , CA",Oregon,San Francisco 49ers,91,200.66,132.45,3rd season,arikarmstead/2552493
+"Jenkins, Jordan",22.0,"Houston , TX",Georgia,New York Jets,48,190.5,117.48,2nd season,jordanjenkins/2555256
+"Richardson, Sheldon",26.0,"St. Louis , MO",Missouri,New York Jets,91,190.5,133.36,5th season,sheldonrichardson/2540142
+"Posluszny, Paul",32.0,"Butler , PA",Penn State,Jacksonville Jaguars,51,187.96,105.23,11th season,paulposluszny/2495712
+"Olawale, Jamize",28.0,"San Francisco , CA",North Texas,Oakland Raiders,49,185.42,108.86,5th season,jamizeolawale/2536044
+"Maclin, Jeremy",29.0,"Chesterfield , MO",Missouri,Kansas City Chiefs,19,182.88,89.81,9th season,jeremymaclin/80429
+"Dye, Donteea",23.0,"Cincinnati , OH",Heidelberg,Tampa Bay Buccaneers,17,182.88,88.45,2nd season,donteeadye/2553876
+"Tomlinson, Laken",25.0,Jamaica,Duke,Detroit Lions,72,190.5,141.52,3rd season,lakentomlinson/2552345
+"Williams, DeAngelo",34.0,"Little Rock , AR",Memphis,Pittsburgh Steelers,34,175.26,93.89,12th season,deangelowilliams/2495979
+"Tobin, Matt",27.0,"Worthington , IA",Iowa,Philadelphia Eagles,64,198.12,131.54,5th season,matttobin/2541946
+"Wilber, Kyle",28.0,"Orlando , FL",Wake Forest,Dallas Cowboys,51,193.04,111.13,6th season,kylewilber/2532974
+"Ott, Tyler",25.0,"Tulsa , OK",Harvard,Seattle Seahawks,69,190.5,114.31,1st season,tylerott/2550590
+"Pierce, Michael",24.0,"New Orleans , LA",Samford,Baltimore Ravens,78,182.88,153.77,2nd season,michaelpierce/2556650
+"Hopkins, DeAndre",25.0,"Central , SC",Clemson,Houston Texans,10,185.42,97.52,5th season,deandrehopkins/2540165
+"Bell, Joique",30.0,"Benton Harbor , MI",Wayne State (Mich.),Detroit Lions,44,180.34,104.78,7th season,joiquebell/497145
+"Boykin, Trevone",23.0,"Mesquite , TX",Texas Christian,Seattle Seahawks,2,182.88,96.62,2nd season,trevoneboykin/2556477
+"Lucas, Jordan",23.0,"White Plains , NY",Penn State,Miami Dolphins,21,182.88,92.53,2nd season,jordanlucas/2555542
+"Vaitai, Halapoulivaati",23.0,"Haltom City , TX",Texas Christian,Philadelphia Eagles,72,198.12,145.15,2nd season,halapoulivaativaitai/2555196
+"Reilly, Trevor",29.0,"Valley Center , CA",Utah,Miami Dolphins,57,195.58,111.13,3rd season,trevorreilly/2543676
+"Hunt, Joey",23.0,"Palacios , TX",Texas Christian,Seattle Seahawks,53,187.96,135.62,2nd season,joeyhunt/2555185
+"Jackson, William",24.0,"Houston , TX",Houston,Cincinnati Bengals,22,182.88,85.73,2nd season,williamjackson/2556367
+"Grimes, Jonathan",27.0,"Willingboro , NJ",William & Mary,Houston Texans,41,177.8,95.25,5th season,jonathangrimes/2534770
+"Harris, Michael",28.0,"Oakland , CA",UCLA,Minnesota Vikings,79,195.58,153.31,5th season,michaelharris/2536025
+"Gates, Antonio",36.0,"Detroit , MI",Kent State,Los Angeles Chargers,85,193.04,115.67,15th season,antoniogates/2505299
+"Treadwell, Laquon",21.0,"Chicago , IL",Mississippi,Minnesota Vikings,11,187.96,97.52,2nd season,laquontreadwell/2555214
+"Harris, Erik",27.0,"Los Angeles , CA",California (PA),New Orleans Saints,30,190.5,102.06,2nd season,erikharris/2555568
+"Martin, Kareem",25.0,"Roanoke Rapids , NC",North Carolina,Arizona Cardinals,96,198.12,123.38,4th season,kareemmartin/2543738
+"Johnson, David",29.0,"Pine Bluff , AR",Arkansas State,Pittsburgh Steelers,82,187.96,117.93,9th season,davidjohnson/79589
+"Smith, Tyron",26.0,"Los Angeles , CA",USC,Dallas Cowboys,77,195.58,145.15,7th season,tyronsmith/2495435
+"Winston, Eric",33.0,"Midland , TX",Miami (Fla.),Cincinnati Bengals,73,200.66,140.61,11th season,ericwinston/2495986
+"Parker, DeVante",24.0,"Louisville , KY",Louisville,Miami Dolphins,11,190.5,96.16,3rd season,devanteparker/2552409
+"Campbell, De'Vondre",23.0,"Fort Myers , FL",Minnesota,Atlanta Falcons,59,190.5,106.14,2nd season,de'vondrecampbell/2555255
+"Frese, Nolan",24.0,"Fullerton , CA",Houston,Seattle Seahawks,48,187.96,105.69,2nd season,nolanfrese/2557135
+"Carey, Don",30.0,"Grand Rapids , MI",Norfolk State,Detroit Lions,26,180.34,91.63,9th season,doncarey/2507793
+"Core, Cody",23.0,"Auburn , AL",Mississippi,Cincinnati Bengals,16,190.5,95.25,2nd season,codycore/2555331
+"Roethlisberger, Ben",35.0,"Lima , OH",Miami (Ohio),Pittsburgh Steelers,7,195.58,108.86,14th season,benroethlisberger/2506109
+"Williams, Tyrell",25.0,"Salem , OR",Western Oregon,Los Angeles Chargers,16,193.04,92.99,3rd season,tyrellwilliams/2553913
+"Manning, Eli",36.0,"New Orleans , LA",Mississippi,New York Giants,10,193.04,98.88,14th season,elimanning/2505996
+"Frederick, Travis",26.0,"Sharon , WI",Wisconsin,Dallas Cowboys,72,193.04,144.24,5th season,travisfrederick/2540161
+"Butler, Malcolm",27.0,"Vicksburg , MS",West Alabama,New England Patriots,21,180.34,86.18,4th season,malcolmbutler/2550613
+"Price, Brian",22.0,"Lafayette , IN",Texas-San Antonio,Green Bay Packers,96,190.5,144.24,1st season,brianprice/2556657
+"Stanley, Ronnie",23.0,"Los Angeles , CA",Notre Dame,Baltimore Ravens,79,198.12,145.15,2nd season,ronniestanley/2555204
+"Williams, P.J.",24.0,"Ocala , FL",Florida State,New Orleans Saints,25,182.88,88.9,3rd season,p.j.williams/2552484
+"Littleton, Cory",23.0,"San Diego , CA",Washington,Los Angeles Rams,58,190.5,102.97,2nd season,corylittleton/2556593
+"Reed, Chris",24.0,"Cedar Rapids , IA",Minnesota State,Jacksonville Jaguars,64,195.58,140.61,2nd season,chrisreed/2553679
+"Fisher, Jake",24.0,"Traverse City , MI",Oregon,Cincinnati Bengals,74,198.12,138.35,3rd season,jakefisher/2552360
+"Hurns, Allen",25.0,"Miami , FL",Miami (Fla.),Jacksonville Jaguars,88,190.5,91.17,4th season,allenhurns/2550353
+"Alford, Mario",25.0,"Greenville , GA",West Virginia,Cleveland Browns,15,175.26,81.65,2nd season,marioalford/2552650
+"Johnson, Duke",23.0,"Miami , FL",Miami (Fla.),Cleveland Browns,29,175.26,95.25,3rd season,dukejohnson/2552461
+"Bulaga, Bryan",28.0,"Barrington , IL",Iowa,Green Bay Packers,75,195.58,142.43,8th season,bryanbulaga/496988
+"Jones, Matt",24.0,"Tampa , FL",Florida,Washington Redskins,31,187.96,105.23,3rd season,mattjones/2552635
+"Vinatieri, Adam",44.0,"Yankton , SD",South Dakota State,Indianapolis Colts,4,182.88,93.44,22nd season,adamvinatieri/2503471
+"Mitchell, Malcolm",24.0,"Valdosta , GA",Georgia,New England Patriots,19,180.34,90.72,2nd season,malcolmmitchell/2555216
+"Hawkins, Jerald",23.0,"Baldwin , LA",LSU,Pittsburgh Steelers,65,198.12,138.35,2nd season,jeraldhawkins/2555420
+"Bynes, Josh",27.0,"Pompano Beach , FL",Auburn,Detroit Lions,57,185.42,106.59,6th season,joshbynes/2530491
+"Reid, Eric",25.0,"Baton Rouge , LA",LSU,San Francisco 49ers,35,185.42,96.62,5th season,ericreid/2540152
+"Kern, Brett",31.0,"Grand Island , NY",Toledo,Tennessee Titans,6,187.96,97.07,10th season,brettkern/4263
+"Mosley, C.J.",24.0,"Mobile , AL",Alabama,Baltimore Ravens,57,187.96,109.32,4th season,c.j.mosley/2543464
+"Reece, Marcel",31.0,"Los Angeles Co. , CA",Washington,Seattle Seahawks,44,185.42,113.4,7th season,marcelreece/4433
+"Hali, Tamba",33.0,Gbanga Liberia,Penn State,Kansas City Chiefs,91,190.5,124.74,12th season,tambahali/2506883
+"Dahl, Joe",24.0,"Spokane Valley , WA",Washington State,Detroit Lions,66,193.04,138.35,2nd season,joedahl/2555136
+"Johnson, Chris",31.0,"Orlando , FL",East Carolina,Arizona Cardinals,23,180.34,92.08,10th season,chrisjohnson/262
+"Brinkley, Beau",27.0,"Kansas City , MO",Missouri,Tennessee Titans,48,193.04,117.93,6th season,beaubrinkley/2535701
+"Coleman, Brandon",24.0,"District Heights , MD",Rutgers,New Orleans Saints,16,198.12,102.06,3rd season,brandoncoleman/2550328
+"Johnson, Steve",30.0,"San Francisco , CA",Kentucky,Los Angeles Chargers,11,187.96,93.89,10th season,stevejohnson/768
+"Hillman, Ronnie",25.0,"Long Beach , CA",San Diego State,Los Angeles Chargers,36,177.8,88.45,6th season,ronniehillman/2533437
+"Turner, Billy",25.0,"Shoreview , MN",North Dakota State,Denver Broncos,70,195.58,140.61,4th season,billyturner/2543740
+"Reed, Jordan",26.0,"New London , CT",Florida,Washington Redskins,86,187.96,111.58,5th season,jordanreed/2540160
+"Riddick, Theo",26.0,"Manville , NJ",Notre Dame,Detroit Lions,25,175.26,91.17,5th season,theoriddick/2540020
+"Williams, Kasen",24.0,"Issaquah , WA",Washington,Seattle Seahawks,18,185.42,99.34,2nd season,kasenwilliams/2554138
+"North, Marquez",22.0,"Charlotte , NC",Tennessee,Los Angeles Rams,3,193.04,97.98,2nd season,marqueznorth/2556636
+"Maualuga, Rey",30.0,"Fort Sill , OK",USC,Cincinnati Bengals,58,187.96,117.03,9th season,reymaualuga/79852
+"Morgan, David",24.0,"Buchanan Dam , TX",Texas-San Antonio,Minnesota Vikings,89,193.04,120.2,2nd season,davidmorgan/2555306
+"Gordon, Melvin",24.0,"Kenosha , WI",Wisconsin,Los Angeles Chargers,28,185.42,97.52,3rd season,melvingordon/2552469
+"Freeney, Dwight",37.0,"Hartford , CT",Syracuse,Atlanta Falcons,93,185.42,121.56,16th season,dwightfreeney/2505016
+"Brown, Marlon",26.0,"Memphis , TN",Georgia,Denver Broncos,15,195.58,97.07,5th season,marlonbrown/2540005
+"Mathis, Evan",35.0,"Birmingham , AL",Alabama,Arizona Cardinals,69,195.58,136.53,13th season,evanmathis/2506418
+"Reid, Jah",28.0,"Kissimmee , FL",Central Florida,Kansas City Chiefs,75,200.66,147.42,7th season,jahreid/2495434
+"Landrum, Chris",24.0,"Meridian , MS",Jacksonville State,Los Angeles Chargers,46,187.96,111.13,2nd season,chrislandrum/2556809
+"Amerson, David",25.0,"Honolulu , HI",North Carolina State,Oakland Raiders,29,185.42,92.99,5th season,davidamerson/2540170
+"Cooper, Jonathan",27.0,"Wilmington , NC",North Carolina,Dallas Cowboys,64,187.96,140.61,5th season,jonathancooper/2539272
+"Lee, Sean",30.0,"Pittsburgh , PA",Penn State,Dallas Cowboys,50,187.96,107.95,8th season,seanlee/496937
+"Willson, Luke",27.0,"Windsor , Ontario",Rice,Seattle Seahawks,82,195.58,114.31,5th season,lukewillson/2541199
+"Banjo, Chris",27.0,"Houston , TX",Southern Methodist,New Orleans Saints,37,177.8,93.89,4th season,chrisbanjo/2541192
+"Hamilton, Antonio",24.0,"Johnston , SC",South Carolina State,Oakland Raiders,32,182.88,85.28,2nd season,antoniohamilton/2556804
+"Smith, Keith",25.0,"Pomona , CA",San Jose State,Dallas Cowboys,41,182.88,105.23,4th season,keithsmith/2550400
+"Ellerbe, Dannell",31.0,"Hamlet , NC",Georgia,New Orleans Saints,59,185.42,111.13,9th season,dannellellerbe/79844
+"Bolden, Brandon",27.0,"Baton Rouge , LA",Mississippi,New England Patriots,38,180.34,99.79,6th season,brandonbolden/2532797
+"Adams, Jerell",24.0,"Pinewood , SC",South Carolina,New York Giants,89,195.58,112.04,2nd season,jerelladams/2555311
+"Wichmann, Cody",25.0,"Tucson , AZ",Fresno State,Los Angeles Rams,69,195.58,144.7,3rd season,codywichmann/2553332
+"Brown, Jatavis",23.0,"Belle Glade , FL",Akron,Los Angeles Chargers,57,180.34,100.24,2nd season,jatavisbrown/2556148
+"Babineaux, Jonathan",35.0,"Port Arthur , TX",Iowa,Atlanta Falcons,95,187.96,136.08,13th season,jonathanbabineaux/2506398
+"Phillips, Adrian",25.0,"Dallas , TX",Texas,Los Angeles Chargers,31,180.34,95.25,3rd season,adrianphillips/2550842
+"Kilgore, Daniel",29.0,"Kingsport , TN",Appalachian State,San Francisco 49ers,67,190.5,139.71,7th season,danielkilgore/2495299
+"Wilson, Jarrod",23.0,"Akron , OH",Michigan,Jacksonville Jaguars,47,185.42,94.8,2nd season,jarrodwilson/2556711
+"Lewis, Patrick",26.0,"Metairie , LA",Texas A&M,Buffalo Bills,67,185.42,141.07,5th season,patricklewis/2541855
+"Addison, Mario",29.0,"Birmingham , AL",Troy,Carolina Panthers,97,190.5,117.93,7th season,marioaddison/2530474
+"Cooper, Pharoh",22.0,"Saginaw , MI",South Carolina,Los Angeles Rams,10,180.34,93.89,2nd season,pharohcooper/2555419
+"Harrison, Damon",28.0,"New Iberia , LA",William Penn,New York Giants,98,193.04,158.76,6th season,damonharrison/2535718
+"Rambo, Bacarri",26.0,"Donalsonville , GA",Georgia,Miami Dolphins,30,182.88,95.71,5th season,bacarrirambo/2539234
+"Brown, Malcom",23.0,"Brenham , TX",Texas,New England Patriots,90,187.96,145.15,3rd season,malcombrown/2552483
+"Burns, Artie",22.0,"Miami , FL",Miami (Fla.),Pittsburgh Steelers,25,182.88,89.36,2nd season,artieburns/2555344
+"Watkins, Sammy",23.0,"Fort Myers , FL",Clemson,Buffalo Bills,14,185.42,95.71,4th season,sammywatkins/2543457
+"Murray, DeMarco",29.0,"Las Vegas , NV",Oklahoma,Tennessee Titans,29,185.42,99.79,7th season,demarcomurray/2495207
+"Seumalo, Isaac",23.0,"Honolulu , HI",Oregon State,Philadelphia Eagles,73,193.04,137.44,2nd season,isaacseumalo/2555495
+"Ansah, Ezekiel",28.0,Accra Ghana,Brigham Young,Detroit Lions,94,195.58,124.74,5th season,ezekielansah/2539931
+"Wesley, De'Ondre",24.0,"Oakland , CA",Brigham Young,Baltimore Ravens,77,198.12,147.87,3rd season,de'ondrewesley/2553763
+"Person, Mike",28.0,"Glendive , MT",Montana State,Kansas City Chiefs,68,193.04,136.08,7th season,mikeperson/2508140
+"Roby, Bradley",25.0,"Fort Worth , TX",Ohio State,Denver Broncos,29,180.34,88.0,4th season,bradleyroby/2543505
+"Tannehill, Ryan",28.0,"Lubbock , TX",Texas A&M,Miami Dolphins,17,193.04,97.98,6th season,ryantannehill/2532956
+"Mercilus, Whitney",26.0,"Akron , OH",Illinois,Houston Texans,59,193.04,120.2,6th season,whitneymercilus/2533049
+"Kerrigan, Ryan",28.0,"Muncie , IN",Purdue,Washington Redskins,91,193.04,120.2,7th season,ryankerrigan/2495190
+"Lewis, Marcedes",33.0,"Los Alamitos , CA",UCLA,Jacksonville Jaguars,89,198.12,127.01,12th season,marcedeslewis/2495888
+"Flowers, Ereck",23.0,"Topeka , KS",Miami (Fla.),New York Giants,74,198.12,149.23,3rd season,ereckflowers/2552452
+"Ball, Neiron",24.0,"Jackson , GA",Florida,Oakland Raiders,58,190.5,106.59,3rd season,neironball/2552680
+"Brown, Daniel",25.0,"Windsor , VA",James Madison,Chicago Bears,85,195.58,110.22,3rd season,danielbrown/2553900
+"Avril, Cliff",31.0,"Jacksonville , FL",Purdue,Seattle Seahawks,56,190.5,117.93,10th season,cliffavril/1330
+"McPhee, Pernell",28.0,"Orlando , FL",Mississippi State,Chicago Bears,92,190.5,123.83,7th season,pernellmcphee/2495201
+"Beatty, Will",32.0,"York , PA",Connecticut,New York Giants,65,198.12,144.7,9th season,willbeatty/2507782
+"Gwacham, Obum",26.0,Onitsha Nigeria,Oregon State,New Orleans Saints,58,195.58,111.58,3rd season,obumgwacham/2552637
+"Cross, Alan",24.0,"Memphis , TN",Memphis,Tampa Bay Buccaneers,45,185.42,111.13,2nd season,alancross/2556508
+"Shatley, Tyler",26.0,"Rutherford College , NC",Clemson,Jacksonville Jaguars,69,190.5,138.8,3rd season,tylershatley/2550398
+"Harris, De'Vante",22.0,"Cedar Hill , TX",Texas A&M,New Orleans Saints,21,180.34,86.18,2nd season,de'vanteharris/2556833
+"Neasman, Sharrod",25.0,"Sarasota , FL",Florida Atlantic,Atlanta Falcons,20,180.34,96.62,2nd season,sharrodneasman/2556443
+"Newton, Cam",28.0,"Atlanta , GA",Auburn,Carolina Panthers,1,195.58,111.13,7th season,camnewton/2495455
+"Hicks, Jordan",24.0,"Colorado Springs , CO",Texas,Philadelphia Eagles,58,185.42,107.05,3rd season,jordanhicks/2552315
+"Thompson, Mykkele",24.0,Naples Italy,Texas,New York Giants,22,182.88,87.54,3rd season,mykkelethompson/2553438
+"Redmond, Alex",22.0,"Long Beach , CA",UCLA,Cincinnati Bengals,62,195.58,133.36,1st season,alexredmond/2556662
+"Robinson, Khiry",27.0,"Midland , TX",West Texas A&M,New York Jets,31,182.88,99.79,4th season,khiryrobinson/2542022
+"Caldwell, Trey",23.0,"Dallas , TX",Louisiana-Monroe,Cleveland Browns,31,175.26,83.91,1st season,treycaldwell/2556372
+"Kuechly, Luke",26.0,"Cincinnati , OH",Boston College,Carolina Panthers,59,190.5,107.95,6th season,lukekuechly/2533056
+"Lynch, Paxton",23.0,"San Antonio , TX",Memphis,Denver Broncos,12,200.66,110.68,2nd season,paxtonlynch/2555316
+"Williams, Marcus",26.0,"Dayton , OH",North Dakota State,New York Jets,20,180.34,88.9,4th season,marcuswilliams/2550605
+"Penn, Donald",34.0,"Los Angeles , CA",Utah State,Oakland Raiders,72,193.04,142.88,12th season,donaldpenn/2506706
+"Sendejo, Andrew",29.0,"San Antonio , TX",Rice,Minnesota Vikings,34,185.42,95.25,7th season,andrewsendejo/2525323
+"Holton, Johnny",26.0,"South Miami , FL",Cincinnati,Oakland Raiders,16,185.42,85.28,2nd season,johnnyholton/2556805
+"Brown, Duane",31.0,"Richmond , VA",Virginia Tech,Houston Texans,76,193.04,142.88,10th season,duanebrown/808
+"Ward, T.J.",30.0,"San Francisco , CA",Oregon,Denver Broncos,43,177.8,90.72,8th season,t.j.ward/494323
+"Boling, Clint",28.0,"Atlanta , GA",Georgia,Cincinnati Bengals,65,195.58,138.35,7th season,clintboling/2495123
+"Johnson, Austin",23.0,"Galloway , NJ",Penn State,Tennessee Titans,94,193.04,142.43,2nd season,austinjohnson/2556368
+"Harmon, Duron",26.0,"Dover , DE",Rutgers,New England Patriots,30,185.42,92.99,5th season,duronharmon/2541243
+"Grant, Corey",25.0,"Opelika , AL",Auburn,Jacksonville Jaguars,30,180.34,92.53,3rd season,coreygrant/2553650
+"Dalton, Andy",29.0,"Katy , TX",Texas Christian,Cincinnati Bengals,14,187.96,99.79,7th season,andydalton/2495143
+"Perkins, Josh",23.0,"Carson , CA",Washington,Atlanta Falcons,82,190.5,102.97,2nd season,joshperkins/2556444
+"Martin, Nick",24.0,"Indianapolis , IN",Notre Dame,Houston Texans,66,193.04,135.62,2nd season,nickmartin/2555189
+"Clemens, Kellen",34.0,"Burns , OR",Oregon,Los Angeles Chargers,10,187.96,99.79,12th season,kellenclemens/2506895
+"Gillislee, Mike",26.0,"Deland , FL",Florida,New England Patriots,35,180.34,99.34,4th season,mikegillislee/2539663
+"Webb, Joe",30.0,"Birmingham , AL",Alabama-Birmingham,Carolina Panthers,14,193.04,106.59,8th season,joewebb/1037347
+"Jones, Jonathan",23.0,"Carrollton , GA",Auburn,New England Patriots,31,177.8,86.18,2nd season,jonathanjones/2556571
+"Verner, Alterraun",28.0,"Orange , CA",UCLA,Tampa Bay Buccaneers,21,177.8,84.82,8th season,alterraunverner/494317
+"Parnell, Jermey",30.0,"Blytheville , AR",Mississippi,Jacksonville Jaguars,78,198.12,146.51,7th season,jermeyparnell/2507728
+"Sunseri, Vinnie",25.0,"Pittsburgh , PA",Alabama,San Francisco 49ers,40,182.88,95.25,4th season,vinniesunseri/2543549
+"Sherman, Anthony",28.0,"North Attleboro , MA",Connecticut,Kansas City Chiefs,42,177.8,109.77,7th season,anthonysherman/2495340
+"Iworah, Prince Charles",24.0,"Nashville , TN",Western Kentucky,San Francisco 49ers,30,177.8,87.54,1st season,princecharlesiworah/2556352
+"Harris, Chris",27.0,"Bixby , OK",Kansas,Denver Broncos,25,177.8,90.26,7th season,chrisharris/2530510
+"Gipson, Tashaun",26.0,"San Bernardino , CA",Wyoming,Jacksonville Jaguars,39,180.34,95.25,6th season,tashaungipson/2532848
+"Norman, Josh",29.0,"Greenwood , SC",Coastal Carolina,Washington Redskins,24,182.88,90.72,6th season,joshnorman/2532920
+"Jenkins, Mike",32.0,Neuenburg Germany,South Florida,Arizona Cardinals,43,177.8,89.36,10th season,mikejenkins/2507469
+"Qvale, Brent",26.0,"Williston , ND",Nebraska,New York Jets,79,200.66,142.88,3rd season,brentqvale/2550528
+"Nembot, Stephane",25.0,Douala Cameroon,Colorado,Baltimore Ravens,67,198.12,145.15,2nd season,stephanenembot/2556632
+"Ehinger, Parker",24.0,"Rockford , MI",Cincinnati,Kansas City Chiefs,79,198.12,140.61,2nd season,parkerehinger/2555203
+"Su'a-Filo, Xavier",26.0,"American Fork , UT",UCLA,Houston Texans,71,193.04,145.15,4th season,xaviersu'a-filo/2543666
+"Lambert, DaVonte",22.0,"Keysville , GA",Auburn,Tampa Bay Buccaneers,75,187.96,127.91,2nd season,davontelambert/2556585
+"Murphy, Trent",26.0,"Scottsdale , AZ",Stanford,Washington Redskins,93,195.58,131.54,4th season,trentmurphy/2543503
+"Fuller, Kendall",22.0,"Baltimore , MD",Virginia Tech,Washington Redskins,38,180.34,88.9,2nd season,kendallfuller/2555349
+"Joseph, Linval",28.0,", St. Croix",East Carolina,Minnesota Vikings,98,193.04,149.23,8th season,linvaljoseph/496802
+"Hurst, James",25.0,"Danville , IN",North Carolina,Baltimore Ravens,74,195.58,141.52,4th season,jameshurst/2550210
+"Joseph, Johnathan",33.0,"Rock Hill , SC",South Carolina,Houston Texans,24,180.34,83.91,12th season,johnathanjoseph/2495872
+"Wake, Cameron",35.0,"Beltsville , MD",Penn State,Miami Dolphins,91,190.5,119.29,9th season,cameronwake/2506314
+"Morgan, Derrick",28.0,"Lancaster , PA",Georgia Tech,Tennessee Titans,91,193.04,118.39,8th season,derrickmorgan/496828
+"Schmidt, Colton",26.0,"Bakersfield , CA",California-Davis,Buffalo Bills,6,180.34,101.6,4th season,coltonschmidt/2542246
+"Benenoch, Caleb",22.0,Lagos Nigeria,UCLA,Tampa Bay Buccaneers,77,195.58,138.35,2nd season,calebbenenoch/2555488
+"Mathis, Robert",36.0,"Atlanta , GA",Alabama A&M,Indianapolis Colts,98,187.96,111.13,15th season,robertmathis/2505566
+"Phillips, Jordan",24.0,"Benton , KS",Oklahoma,Miami Dolphins,97,198.12,151.95,3rd season,jordanphillips/2552492
+"Gaines, Phillip",26.0,"Concord , MA",Rice,Kansas City Chiefs,23,182.88,87.54,4th season,phillipgaines/2543851
+"Fiedorowicz, C.J.",25.0,"Crystal Lake , IL",Iowa,Houston Texans,87,195.58,120.2,4th season,c.j.fiedorowicz/2543721
+"Evans, Mike",23.0,"Dallas , TX",Texas A&M,Tampa Bay Buccaneers,13,195.58,104.78,4th season,mikeevans/2543468
+"Kirksey, Christian",24.0,"St. Louis , MO",Iowa,Cleveland Browns,58,187.96,106.59,4th season,christiankirksey/2543720
+"Ealy, Kony",25.0,"St. Louis , MO",Missouri,New England Patriots,94,193.04,124.74,4th season,konyealy/2543484
+"Strong, Jaelen",23.0,"Philadelphia , PA",Arizona State,Houston Texans,11,187.96,92.99,3rd season,jaelenstrong/2552463
+"Hull, Mike",26.0,"Ellwood City , PA",Penn State,Miami Dolphins,45,182.88,105.69,2nd season,mikehull/2552317
+"Prosinski, Chris",30.0,"Newcastle , WY",Wyoming,Chicago Bears,31,185.42,96.62,7th season,chrisprosinski/2499249
+"Clark, Kenny",21.0,"San Bernardino , CA",UCLA,Green Bay Packers,97,187.96,142.43,2nd season,kennyclark/2555282
+"Gordon, Dillon",23.0,"Laplace , LA",LSU,Philadelphia Eagles,69,193.04,146.06,2nd season,dillongordon/2556802
+"Hawley, Joe",28.0,"Bakersfield , CA",Nevada-Las Vegas,Tampa Bay Buccaneers,68,190.5,136.98,8th season,joehawley/497012
+"Brown, John",27.0,"Homestead , FL",Pittsburg State,Arizona Cardinals,12,180.34,81.19,4th season,johnbrown/2543847
+"Thompson, Deonte",28.0,"Belle Glade , FL",Florida,Chicago Bears,14,182.88,92.99,5th season,deontethompson/2534436
+"Williams, Aaron",27.0,"San Jose , CA",Texas,Buffalo Bills,23,182.88,90.26,7th season,aaronwilliams/2508110
+"Price, Jabari",24.0,"Pompano Beach , FL",North Carolina,Minnesota Vikings,25,180.34,90.72,4th season,jabariprice/2543624
+"West, Terrance",26.0,"Fort Lauderdale , FL",Towson,Baltimore Ravens,28,177.8,102.06,4th season,terrancewest/2543664
+"Myers, Brandon",31.0,"Prairie City , IA",Iowa,Tampa Bay Buccaneers,82,190.5,116.12,9th season,brandonmyers/89766
+"James, Jesse",23.0,"Mckeesport , PA",Penn State,Pittsburgh Steelers,81,200.66,118.39,3rd season,jessejames/2552633
+"Janis, Jeff",25.0,"Oscoda , MI",Saginaw Valley State,Green Bay Packers,83,190.5,99.34,4th season,jeffjanis/2543750
+"Sherman, Richard",29.0,"Compton , CA",Stanford,Seattle Seahawks,25,190.5,88.45,7th season,richardsherman/2495507
+"Mathews, Ryan",29.0,"Riverside , CA",Fresno State,Philadelphia Eagles,24,182.88,99.79,8th season,ryanmathews/497188
+"Cowser, James",26.0,"Kaysville , UT",Southern Utah,Oakland Raiders,47,190.5,112.04,2nd season,jamescowser/2556797
+"Witten, Jason",35.0,"Knoxville , TN",Tennessee,Dallas Cowboys,82,198.12,119.29,15th season,jasonwitten/2505629
+"Smith, Aldon",27.0,"Greenwood , MS",Missouri,Oakland Raiders,99,193.04,120.2,6th season,aldonsmith/2495487
+"Mayo, David",23.0,"Scapoose , OR",Texas State,Carolina Panthers,55,187.96,111.13,3rd season,davidmayo/2553441
+"Franks, Andrew",24.0,"Carmel , CA",RPI,Miami Dolphins,3,185.42,91.63,3rd season,andrewfranks/2553648
+"Bakhtiari, David",25.0,"San Mateo , CA",Colorado,Green Bay Packers,69,193.04,140.61,5th season,davidbakhtiari/2540183
+"Siemian, Trevor",25.0,"Windermere , FL",Northwestern,Denver Broncos,13,190.5,99.79,3rd season,trevorsiemian/2553457
+"Peerman, Cedric",30.0,"Lynchburg , VA",Virginia,Cincinnati Bengals,30,177.8,96.16,8th season,cedricpeerman/79629
+"Higbee, Tyler",24.0,"Atlanta , GA",Western Kentucky,Los Angeles Rams,89,193.04,110.22,2nd season,tylerhigbee/2555364
+"Turner, Trai",23.0,"New Orleans , LA",LSU,Carolina Panthers,70,190.5,140.61,4th season,traiturner/2543606
+"Mills, Jalen",23.0,"Dallas , TX",LSU,Philadelphia Eagles,31,182.88,86.64,2nd season,jalenmills/2555383
+"Johnson, Tom",32.0,"Moss Point , MS",Southern Mississippi,Minnesota Vikings,92,190.5,130.63,7th season,tomjohnson/2506779
+"Brown, Malcolm",24.0,"Biloxi , MS",Texas,Los Angeles Rams,39,180.34,101.6,2nd season,malcolmbrown/2552382
+"Davis, Geremy",25.0,"Atlanta , GA",Connecticut,Los Angeles Chargers,81,187.96,98.43,3rd season,geremydavis/2552654
+"Bridgewater, Teddy",24.0,"Miami , FL",Louisville,Minnesota Vikings,5,187.96,97.52,4th season,teddybridgewater/2543465
+"Sudfeld, Nate",23.0,"Modesto , CA",Indiana,Washington Redskins,2,198.12,106.59,2nd season,natesudfeld/2555427
+"Anger, Bryan",28.0,"Camarillo , CA",California,Tampa Bay Buccaneers,9,190.5,92.99,6th season,bryananger/2533000
+"Jackson, Gabe",25.0,"Liberty , MS",Mississippi State,Oakland Raiders,66,190.5,151.95,4th season,gabejackson/2543733
+"Looney, Joe",26.0,"Lake Worth , FL",Wake Forest,Dallas Cowboys,73,190.5,142.88,5th season,joelooney/2532896
+"Covington, Christian",23.0,Vancouver Canada,Rice,Houston Texans,95,187.96,138.35,3rd season,christiancovington/2552602
+"Delaire, Ryan",25.0,"Hartford , CT",Towson,Carolina Panthers,91,193.04,120.2,3rd season,ryandelaire/2553706
+"Brown, Preston",24.0,"Cincinnati , OH",Louisville,Buffalo Bills,52,185.42,113.85,4th season,prestonbrown/2543814
+"Thomas, Robert",26.0,"Muskogee , OK",Arkansas,New York Giants,99,190.5,147.42,2nd season,robertthomas/2550532
+"Taylor, Lane",27.0,"Arlington , TX",Oklahoma State,Green Bay Packers,65,190.5,146.96,5th season,lanetaylor/2541898
+"Groy, Ryan",26.0,"Charlotte , NC",Wisconsin,Buffalo Bills,72,195.58,145.15,4th season,ryangroy/2550569
+"Thomas, De'Anthony",24.0,"Los Angeles , CA",Oregon,Kansas City Chiefs,13,172.72,79.83,4th season,de'anthonythomas/2543638
+"Williams, Antwione",24.0,"Birmingham , AL",Georgia Southern,Detroit Lions,52,190.5,108.86,2nd season,antwionewilliams/2556376
+"Sims, LeShaun",23.0,"Las Vegas , NV",Southern Utah,Tennessee Titans,36,182.88,92.08,2nd season,leshaunsims/2555551
+"Irvin, Bruce",29.0,"Atlanta , GA",West Virginia,Oakland Raiders,51,190.5,113.4,6th season,bruceirvin/2532871
+"Blair, Ronald",24.0,"Greensboro , GA",Appalachian State,San Francisco 49ers,98,190.5,122.47,2nd season,ronaldblair/2555251
+"Easton, Nick",24.0,"Mebane , NC",Harvard,Minnesota Vikings,62,187.96,137.44,3rd season,nickeaston/2553520
+"Williams, Daryl",24.0,"Newport News , VA",Oklahoma,Carolina Panthers,60,198.12,151.95,3rd season,darylwilliams/2552357
+"Rudolph, Kyle",27.0,"Cincinnati , OH",Notre Dame,Minnesota Vikings,82,198.12,120.2,7th season,kylerudolph/2495438
+"Keeton, Bryson",24.0,"Bakersfield , CA",Montana State,New York Jets,37,187.96,86.18,1st season,brysonkeeton/2556749
+"Cravens, Su'a",21.0,"Los Angeles , CA",USC,Washington Redskins,36,185.42,100.7,2nd season,su'acravens/2555345
+"Cooper, Xavier",25.0,"Olympia , WA",Washington State,Cleveland Browns,96,193.04,136.08,3rd season,xaviercooper/2552611
+"Inman, Dontrelle",28.0,"Charleston , SC",Virginia,Los Angeles Chargers,15,190.5,92.99,4th season,dontrelleinman/2530700
+"Perryman, Denzel",24.0,"Miami , FL",Miami (Fla.),Los Angeles Chargers,52,180.34,108.86,3rd season,denzelperryman/2552310
+"McCain, Bobby",23.0,"Sylacauga , AL",Memphis,Miami Dolphins,28,180.34,87.09,3rd season,bobbymccain/2552434
+"Thornton, Khyri",27.0,"Panama City , FL",Southern Mississippi,Detroit Lions,99,190.5,142.88,4th season,khyrithornton/2543653
+"Miles, Rontez",28.0,"Braddock , PA",California (PA),New York Jets,45,182.88,92.08,3rd season,rontezmiles/2540287
+"Guion, Letroy",29.0,"Starke , FL",Florida State,Green Bay Packers,98,193.04,146.06,10th season,letroyguion/1720
+"Forsett, Justin",31.0,"Lakeland , FL",California,Denver Broncos,20,172.72,88.45,10th season,justinforsett/927
+"Jefferson, Quinton",24.0,"Pittsburgh , PA",Maryland,Seattle Seahawks,99,193.04,132.0,2nd season,quintonjefferson/2555358
+"Ogbuehi, Cedric",25.0,"Dallas , TX",Texas A&M,Cincinnati Bengals,70,195.58,140.61,3rd season,cedricogbuehi/2552355
+"Crawford, Tyrone",27.0,Canada,Boise State,Dallas Cowboys,98,193.04,129.27,6th season,tyronecrawford/2532821
+"Grimes, Brent",33.0,"Philadelphia , PA",Shippensburg,Tampa Bay Buccaneers,24,177.8,83.91,11th season,brentgrimes/2506861
+"Elam, Matt",25.0,"West Palm Beach , FL",Florida,Baltimore Ravens,33,177.8,94.35,5th season,mattelam/2540153
+"Jones, Cyrus",23.0,"Alexander City , AL",Alabama,New England Patriots,41,177.8,90.72,2nd season,cyrusjones/2555380
+"Robinson, Rashard",21.0,"Pompano Beach , FL",LSU,San Francisco 49ers,33,185.42,80.29,2nd season,rashardrobinson/2555546
+"Booker, Devontae",25.0,"Sacramento , CA",Utah,Denver Broncos,23,180.34,99.34,2nd season,devontaebooker/2555223
+"Saffold, Rodger",29.0,"Bedford , OH",Indiana,Los Angeles Rams,76,195.58,150.59,8th season,rodgersaffold/497048
+"Canady, Maurice",23.0,"Richmond , VA",Virginia,Baltimore Ravens,39,185.42,87.54,2nd season,mauricecanady/2555178
+"Hansbrough, Russell",23.0,"Arlington , TX",Missouri,Tampa Bay Buccaneers,44,172.72,88.45,1st season,russellhansbrough/2556547
+"Hall, Rannell",24.0,"Miami , FL",Central Florida,Cleveland Browns,85,182.88,90.72,2nd season,rannellhall/2553716
+"Foster, Ramon",31.0,"Henning , TN",Tennessee,Pittsburgh Steelers,73,195.58,148.78,9th season,ramonfoster/81821
+"Dotson, Demar",31.0,"Alexandria , LA",Southern Mississippi,Tampa Bay Buccaneers,69,205.74,142.88,9th season,demardotson/2507716
+"Thompson, Chris",26.0,"Greenville , FL",Florida State,Washington Redskins,25,172.72,88.45,4th season,christhompson/2540011
+"Pouncey, Maurkice",27.0,"Ardmore , OK",Florida,Pittsburgh Steelers,53,193.04,137.89,8th season,maurkicepouncey/497042
+"Robinson, Edmond",25.0,"St. John's Island , SC",Newberry,Minnesota Vikings,51,190.5,111.13,3rd season,edmondrobinson/2552441
+"Jordan, Cameron",27.0,"Minneapolis , MN",California,New Orleans Saints,94,193.04,130.18,7th season,cameronjordan/2495184
+"Alexander, Maurice",26.0,"St. Louis , MO",Utah State,Los Angeles Rams,31,185.42,99.79,4th season,mauricealexander/2550145
+"Burnett, Morgan",28.0,"Memphis , TN",Georgia Tech,Green Bay Packers,42,185.42,94.8,8th season,morganburnett/496727
+"Diggs, Quandre",24.0,"Houston , TX",Texas,Detroit Lions,28,175.26,90.72,3rd season,quandrediggs/2552262
+"Hogan, Chris",28.0,"Ramapo , NJ",Monmouth (N.J.),New England Patriots,15,185.42,95.25,5th season,chrishogan/2530515
+"Nassib, Ryan",27.0,"West Chester , PA",Syracuse,New York Giants,12,187.96,101.15,5th season,ryannassib/2539961
+"Siliga, Sealver",27.0,"West Jordan , UT",Utah,Tampa Bay Buccaneers,70,187.96,147.42,6th season,sealversiliga/2495486
+"Stupar, Nate",29.0,"State College , PA",Penn State,New Orleans Saints,54,187.96,108.86,5th season,natestupar/2533459
+"Sanford, Jamarca",31.0,"Batesville , MS",Mississippi,New Orleans Saints,33,177.8,90.72,9th season,jamarcasanford/71459
+"Hall, DeAngelo",33.0,"Chesapeake , VA",Virginia Tech,Washington Redskins,23,177.8,91.63,14th season,deangelohall/2506108
+"Bradford, Sam",29.0,"Oklahoma City , OK",Oklahoma,Minnesota Vikings,8,193.04,101.6,8th season,sambradford/497095
+"Garland, Ben",29.0,"Grand Junction , CO",Air Force,Atlanta Falcons,63,195.58,139.71,4th season,bengarland/2507865
+"Allison, Geronimo",23.0,"Tampa , FL",Illinois,Green Bay Packers,81,190.5,91.63,2nd season,geronimoallison/2556460
+"Chickillo, Anthony",24.0,"Lithia , FL",Miami (Fla.),Pittsburgh Steelers,56,190.5,115.67,3rd season,anthonychickillo/2552266
+"Gray, MarQueis",27.0,"Indianapolis , IN",Minnesota,Miami Dolphins,48,193.04,115.67,5th season,marqueisgray/2540259
+"Reynolds, LaRoy",26.0,"Norfolk , VA",Virginia,Atlanta Falcons,53,185.42,108.86,5th season,laroyreynolds/2541741
+"Lane, Jeremy",26.0,"Tyler , TX",Northwestern State-Louisiana,Seattle Seahawks,20,182.88,86.18,6th season,jeremylane/2534834
+"DeOssie, Zak",33.0,"Andover , MA",Brown,New York Giants,51,193.04,112.94,11th season,zakdeossie/2507200
+"Poole, Brian",24.0,"St. Petersburg , FL",Florida,Atlanta Falcons,34,175.26,96.62,2nd season,brianpoole/2556445
+"Beyer, Brennen",24.0,"Sayville , NY",Michigan,Baltimore Ravens,45,190.5,116.12,1st season,brennenbeyer/2553490
+"Carpenter, James",28.0,"Augusta , GA",Alabama,New York Jets,77,195.58,145.6,7th season,jamescarpenter/2495134
+"Kearse, Jayron",23.0,"Fort Myers , FL",Clemson,Minnesota Vikings,27,193.04,97.52,2nd season,jayronkearse/2555156
+"Dunlap, Carlos",28.0,"North Charleston , SC",Florida,Cincinnati Bengals,96,198.12,127.01,8th season,carlosdunlap/496780
+"Everett, Deshazor",25.0,"Lake Charles , LA",Texas A&M,Washington Redskins,22,182.88,89.81,3rd season,deshazoreverett/2553710
+"Langford, Jeremy",25.0,"Detroit , MI",Michigan State,Chicago Bears,33,182.88,95.71,3rd season,jeremylangford/2552379
+"Thompson, Brandon",27.0,"Thomasville , GA",Clemson,Cincinnati Bengals,98,187.96,138.35,6th season,brandonthompson/2532959
+"Williams, Trevor",23.0,"Baltimore , MD",Penn State,Los Angeles Chargers,42,180.34,86.64,2nd season,trevorwilliams/2556828
+"Lee, Andy",34.0,"Westminster , SC",Pittsburgh,Carolina Panthers,8,185.42,83.91,14th season,andylee/2506017
+"Nassib, Carl",24.0,"West Chester , PA",Penn State,Cleveland Browns,94,200.66,124.74,2nd season,carlnassib/2555270
+"Brown, Jaron",27.0,"Cheraw , SC",Clemson,Arizona Cardinals,13,187.96,92.99,5th season,jaronbrown/2541966
+"Oher, Michael",31.0,"Memphis , TN",Mississippi,Carolina Panthers,73,193.04,142.88,9th season,michaeloher/71419
+"Brooks, Ron",28.0,"Dallas , TX",LSU,Philadelphia Eagles,33,177.8,86.18,6th season,ronbrooks/2533332
+"Enunwa, Quincy",25.0,"Rialto , CA",Nebraska,New York Jets,81,187.96,102.06,3rd season,quincyenunwa/2543828
+"Russell, KeiVarae",23.0,"Everett , WA",Notre Dame,Cincinnati Bengals,20,180.34,87.09,2nd season,keivaraerussell/2555547
+"Pierre, Olsen",25.0,"Rahway , NJ",Miami (Fla.),Arizona Cardinals,72,195.58,132.9,2nd season,olsenpierre/2553583
+"Pamphile, Kevin",26.0,"Miami , FL",Purdue,Tampa Bay Buccaneers,64,195.58,140.61,4th season,kevinpamphile/2549971
+"Williams, Terrance",27.0,"Dallas , TX",Baylor,Dallas Cowboys,83,187.96,95.25,5th season,terrancewilliams/2539205
+"Wilson, Tavon",27.0,"Washington , DC",Illinois,Detroit Lions,32,182.88,96.16,6th season,tavonwilson/2534830
+"Carder, Tank",28.0,"Sweeny , TX",Texas Christian,Cleveland Browns,59,187.96,106.59,6th season,tankcarder/2533029
+"Ponder, Christian",29.0,"Dallas , TX",Florida State,San Francisco 49ers,15,187.96,104.33,6th season,christianponder/2495215
+"Howard, Xavien",23.0,"Houston , TX",Baylor,Miami Dolphins,25,185.42,89.81,2nd season,xavienhoward/2555539
+"Mannion, Sean",25.0,"San Jose , CA",Oregon State,Los Angeles Rams,14,198.12,105.69,3rd season,seanmannion/2552576
+"Adjei-Barimah, Jude",24.0,Pordenone Italy,Bowling Green State,Tampa Bay Buccaneers,38,180.34,90.72,3rd season,judeadjei-barimah/2554332
+"Gilbert, Marcus",29.0,"Fort Lauderdale , FL",Florida,Pittsburgh Steelers,77,198.12,149.69,7th season,marcusgilbert/2508111
+"Joyner, Lamarcus",26.0,"Miami , FL",Florida State,Los Angeles Rams,20,172.72,83.46,4th season,lamarcusjoyner/2543492
+"Price, Givens",22.0,"Houston , TX",Nebraska,Arizona Cardinals,63,193.04,140.61,1st season,givensprice/2556446
+"Barclay, Don",28.0,"Newport News , VA",West Virginia,Green Bay Packers,67,193.04,138.35,6th season,donbarclay/2534827
+"Anderson, Derek",33.0,"Portland , OR",Oregon State,Carolina Panthers,3,198.12,106.59,13th season,derekanderson/2506546
+"Ifedi, Germain",23.0,"Houston , TX",Texas A&M,Seattle Seahawks,76,195.58,147.42,2nd season,germainifedi/2555395
+"Johnson, George",29.0,"Glassboro , NJ",Rutgers,Tampa Bay Buccaneers,94,193.04,120.2,6th season,georgejohnson/2517637
+"Green, Virgil",28.0,"San Bernardino , CA",Nevada,Denver Broncos,85,195.58,115.67,7th season,virgilgreen/2495288
+"Vigil, Nick",23.0,"Roy , UT",Utah State,Cincinnati Bengals,59,187.96,108.41,2nd season,nickvigil/2555528
+"Latham, Darius",22.0,"Indianapolis , IN",Indiana,Oakland Raiders,75,193.04,138.8,2nd season,dariuslatham/2556811
+"Derby, A.J.",25.0,"Iowa City , IA",Arkansas,Denver Broncos,83,195.58,115.67,3rd season,a.j.derby/2552580
+"Goodson, Demetri",27.0,"Charleston , WV",Baylor,Green Bay Packers,39,180.34,89.36,4th season,demetrigoodson/2543557
+"Harris, Demetrius",25.0,"Carrollton , TX",Wis.-Milwaukee,Kansas City Chiefs,84,200.66,104.33,4th season,demetriusharris/2541187
+"Williams, Vince",27.0,"Haines City , FL",Florida State,Pittsburgh Steelers,98,185.42,105.69,5th season,vincewilliams/2540221
+"Ishmael, Kemal",26.0,"Miami , FL",Central Florida,Atlanta Falcons,36,182.88,93.44,5th season,kemalishmael/2541431
+"Meder, Jamie",26.0,"Cleveland , OH",Ashland,Cleveland Browns,98,190.5,139.71,3rd season,jamiemeder/2550230
+"Williams, Leonard",22.0,"Bakersfield , CA",USC,New York Jets,92,195.58,136.98,3rd season,leonardwilliams/2552486
+"Collins, La'el",23.0,"Baton Rouge , LA",Louisiana State University - Shreveport,Dallas Cowboys,71,193.04,145.6,3rd season,la'elcollins/2553505
+"Harvin, Percy",29.0,"Chesapeake , VA",Florida,Buffalo Bills,11,180.34,83.46,8th season,percyharvin/80425
+"Eifert, Tyler",26.0,"Fort Wayne , IN",Notre Dame,Cincinnati Bengals,85,198.12,113.4,5th season,tylereifert/2540148
+"Allen, Brandon",24.0,"Fayetteville , AR",Arkansas,Jacksonville Jaguars,10,187.96,99.34,2nd season,brandonallen/2555365
+"Green, T.J.",22.0,"Sylacauga , AL",Clemson,Indianapolis Colts,32,187.96,92.99,2nd season,t.j.green/2555537
+"Harris, Clark",32.0,"Toms River , NJ",Rutgers,Cincinnati Bengals,46,195.58,113.4,9th season,clarkharris/2495620
+"Freeman, Devonta",25.0,"Baxley , GA",Florida State,Atlanta Falcons,24,172.72,93.44,4th season,devontafreeman/2543583
+"Tretola, Sebastian",25.0,"San Bernardino , CA",Arkansas,Tennessee Titans,79,193.04,142.43,2nd season,sebastiantretola/2555143
+"Burbridge, Aaron",23.0,"Detroit , MI",Michigan State,San Francisco 49ers,13,182.88,94.35,2nd season,aaronburbridge/2555362
+"Shittu, Aziz",22.0,"Merced , CA",Stanford,Philadelphia Eagles,61,187.96,130.63,1st season,azizshittu/2556866
+"Kelce, Travis",27.0,"Westlake , OH",Cincinnati,Kansas City Chiefs,87,195.58,117.93,5th season,traviskelce/2540258
+"Morrison, Antonio",22.0,"Bellwood , IL",Florida,Indianapolis Colts,44,185.42,105.23,2nd season,antoniomorrison/2555160
+"Lasco, Daniel",24.0,"Houston , TX",California,New Orleans Saints,36,182.88,92.99,2nd season,daniellasco/2555219
+"Erving, Cameron",24.0,"Moultrie , GA",Florida State,Cleveland Browns,74,195.58,141.97,3rd season,cameronerving/2552240
+"Davis, Trevor",23.0,"San Francisco , CA",California,Green Bay Packers,11,185.42,85.28,2nd season,trevordavis/2555413
+"John, Ulrick",25.0,"Columbus , GA",Georgia State,Arizona Cardinals,75,195.58,139.25,4th season,ulrickjohn/2550166
+"Dixon, Riley",23.0,"Oneida , NY",Syracuse,Denver Broncos,9,193.04,100.24,2nd season,rileydixon/2555152
+"Odrick, Jared",29.0,"Lancaster , PA",Penn State,Jacksonville Jaguars,75,195.58,135.17,8th season,jaredodrick/496835
+"Weatherspoon, Sean",29.0,"Greenville , SC",Missouri,Atlanta Falcons,56,187.96,110.68,7th season,seanweatherspoon/496963
+"Bethel, Justin",26.0,"Sumter , SC",Presbyterian,Arizona Cardinals,28,182.88,90.72,6th season,justinbethel/2532792
+"Murray, Eric",23.0,"Milwaukee , WI",Minnesota,Kansas City Chiefs,21,180.34,90.26,2nd season,ericmurray/2555173
+"Duvernay-Tardif, Laurent",26.0,"Mont Saint Hilaire , Quebec",McGill (Canada),Kansas City Chiefs,76,195.58,145.6,4th season,laurentduvernay-tardif/2543816
+"Nelson, Reggie",33.0,"Melbourne , FL",Florida,Oakland Raiders,27,180.34,95.25,11th season,reggienelson/2507167
+"Janovich, Andy",24.0,"Omaha , NE",Nebraska,Denver Broncos,32,185.42,107.95,2nd season,andyjanovich/2555432
+"Taylor, Stepfan",25.0,"Arlington , TX",Stanford,Arizona Cardinals,30,175.26,97.98,5th season,stepfantaylor/2539315
+"Moncrief, Donte",23.0,"Raleigh , MS",Mississippi,Indianapolis Colts,10,187.96,100.7,4th season,dontemoncrief/2543614
+"Warren, Greg",35.0,"Goldsboro , NC",North Carolina,Pittsburgh Steelers,60,190.5,114.31,13th season,gregwarren/2506151
+"Kikaha, Hau'oli",24.0,"Laie , HI",Washington,New Orleans Saints,44,190.5,111.58,3rd season,hau'olikikaha/2552292
+"Soliai, Paul",33.0,"Santa Ana , CA",Utah,Carolina Panthers,90,193.04,156.49,11th season,paulsoliai/2507195
+"Momah, Ifeanyi",27.0,"Greenlawn , NY",Boston College,Arizona Cardinals,80,200.66,115.67,3rd season,ifeanyimomah/2541096
+"Bortles, Blake",25.0,"Altamonte Springs , FL",Central Florida,Jacksonville Jaguars,5,195.58,108.41,4th season,blakebortles/2543477
+"Brown, Trent",24.0,"Bastrop , TX",Florida,San Francisco 49ers,77,203.2,161.03,3rd season,trentbrown/2552350
+"Cunningham, Jerome",26.0,"Waterbury , CT",Southern Connecticut State,Tennessee Titans,84,190.5,113.4,2nd season,jeromecunningham/2551359
+"Linder, Brandon",25.0,"Southwest Ranches , FL",Miami (Fla.),Jacksonville Jaguars,65,198.12,140.16,4th season,brandonlinder/2543729
+"Trusnik, Jason",33.0,"Cleveland , OH",Ohio Northern,New Orleans Saints,57,193.04,114.31,10th season,jasontrusnik/2507277
+"Hicks, Akiem",27.0,"San Jose , CA",Regina (Canada),Chicago Bears,96,195.58,152.41,6th season,akiemhicks/2533433
+"Stills, Kenny",25.0,"Eden Prairie , MN",Oklahoma,Miami Dolphins,10,182.88,88.45,5th season,kennystills/2540202
+"Thomas, Lawrence",24.0,"Detroit , MI",Michigan State,New York Jets,97,190.5,129.73,2nd season,lawrencethomas/2556695
+"Jackson, Kareem",29.0,"Macon , GA",Alabama,Houston Texans,25,177.8,83.91,8th season,kareemjackson/496735
+"Boddy-Calhoun, Briean",24.0,"Wilmington , DE",Minnesota,Cleveland Browns,20,175.26,87.54,2nd season,brieanboddy-calhoun/2556475
+"Brown, Chykie",30.0,"Houston , TX",Texas,Cincinnati Bengals,23,180.34,86.64,6th season,chykiebrown/2495126
+"Ngakoue, Yannick",22.0,"Washington , DC",Maryland,Jacksonville Jaguars,91,187.96,111.58,2nd season,yannickngakoue/2555421
+"Wright, Scooby",22.0,"Santa Rosa , CA",Arizona,Arizona Cardinals,58,182.88,108.86,1st season,scoobywright/2556382
+"Garcia, Antonio",23.0,"Houston , TX",Troy,New England Patriots,63,198.12,132.9,Rookie,antoniogarcia/2557938
+"Boone, Alex",30.0,"Lakewood , OH",Ohio State,Minnesota Vikings,76,203.2,140.61,8th season,alexboone/71211
+"Pouncey, Mike",27.0,"Ardmore , OK",Florida,Miami Dolphins,51,195.58,135.62,7th season,mikepouncey/2495216
+"Aguayo, Roberto",23.0,"Mascotte , FL",Florida State,Tampa Bay Buccaneers,19,182.88,93.89,2nd season,robertoaguayo/2555408
+"Morse, Mitch",25.0,"Houston , TX",Missouri,Kansas City Chiefs,61,198.12,138.35,3rd season,mitchmorse/2552668
+"Hewitt, Ryan",26.0,"Denver , CO",Stanford,Cincinnati Bengals,89,193.04,115.21,4th season,ryanhewitt/2550206
+"Atkinson, George",24.0,"El Cerrito , CA",Notre Dame,Cleveland Browns,25,185.42,99.79,2nd season,georgeatkinson/2550540
+"Love, Kyle",30.0,South Korea,Mississippi State,Carolina Panthers,77,185.42,142.88,6th season,kylelove/2507837
+"Fullington, John",26.0,"Bremerton , WA",Washington State,New Orleans Saints,79,195.58,136.08,2nd season,johnfullington/2550343
+"Beasley, Vic",24.0,"Adairsville , GA",Clemson,Atlanta Falcons,44,190.5,111.58,3rd season,vicbeasley/2552301
+"Kuhn, John",34.0,"York , PA",Shippensburg,New Orleans Saints,29,182.88,113.4,12th season,johnkuhn/2506147
+"Thomas, Mike",22.0,"Chicago , IL",Southern Mississippi,Los Angeles Rams,13,185.42,90.72,2nd season,mikethomas/2556381
+"Harris, Maurice",24.0,"Elon , NC",California,Washington Redskins,13,187.96,90.72,2nd season,mauriceharris/2556404
+"Ward, Jimmie",25.0,"Racine , WI",Northern Illinois,San Francisco 49ers,25,180.34,87.54,4th season,jimmieward/2543741
+"Davis, Thomas",34.0,"Shellman , GA",Georgia,Carolina Panthers,58,185.42,106.59,13th season,thomasdavis/2506352
+"Robison, Brian",34.0,"Houston , TX",Texas,Minnesota Vikings,96,190.5,117.48,11th season,brianrobison/2495723
+"Drummond, Kurtis",25.0,"Youngstown , OH",Michigan State,Houston Texans,23,185.42,94.35,3rd season,kurtisdrummond/2553519
+"Lippett, Tony",24.0,"Detroit , MI",Michigan State,Miami Dolphins,36,190.5,88.0,3rd season,tonylippett/2552427
+"Maragos, Chris",30.0,"Racine , WI",Wisconsin,Philadelphia Eagles,42,177.8,90.72,8th season,chrismaragos/2507918
+"Ihedigbo, James",33.0,"Northampton , MA",Massachusetts,Buffalo Bills,32,185.42,97.07,10th season,jamesihedigbo/2507301
+"Tucker, Justin",27.0,"Houston , TX",Texas,Baltimore Ravens,9,185.42,81.65,6th season,justintucker/2536340
+"Breeland, Bashaud",25.0,"Barnwell , SC",Clemson,Washington Redskins,26,180.34,90.72,4th season,bashaudbreeland/2543571
+"Durant, Justin",31.0,"Florence , SC",Hampton,Dallas Cowboys,56,185.42,104.33,11th season,justindurant/2495597
+"Slater, Matthew",31.0,"Baldwin Park , CA",UCLA,New England Patriots,18,182.88,92.99,10th season,matthewslater/4487
+"Burris, Juston",23.0,"Roanoke , VA",North Carolina State,New York Jets,32,182.88,96.16,2nd season,justonburris/2555313
+"Mancz, Greg",25.0,"Cincinnati , OH",Toledo,Houston Texans,65,193.04,140.61,3rd season,gregmancz/2553560
+"Flacco, Joe",32.0,"Audubon , NJ",Delaware,Baltimore Ravens,5,198.12,111.13,10th season,joeflacco/382
+"Williams, Wendall",26.0,"Syracuse , NY",Cumberland College,Houston Texans,82,177.8,83.91,1st season,wendallwilliams/2556710
+"Celek, Brent",32.0,"Cincinnati , OH",Cincinnati,Philadelphia Eagles,87,193.04,115.67,11th season,brentcelek/2507218
+"Allen, Beau",25.0,"Eden Prairie , MN",Wisconsin,Philadelphia Eagles,94,190.5,148.32,4th season,beauallen/2543884
+"Coleman, Shon",25.0,"Memphis , TN",Auburn,Cleveland Browns,72,198.12,140.61,2nd season,shoncoleman/2555337
+"Hill, Josh",27.0,"Blackfoot , ID",Idaho State,New Orleans Saints,89,195.58,113.4,5th season,joshhill/2541834
+"Powell, Ronald",26.0,"Riverside , CA",Florida,Seattle Seahawks,59,190.5,107.5,2nd season,ronaldpowell/2543579
+"DeValve, Seth",24.0,"Manchester , CT",Princeton,Cleveland Browns,87,190.5,111.13,2nd season,sethdevalve/2556365
+"Bell, Blake",25.0,"Wichita , KS",Oklahoma,San Francisco 49ers,84,198.12,114.31,3rd season,blakebell/2552478
+"Laskey, Zach",24.0,"Pittsburgh , PA",Georgia Tech,Los Angeles Rams,45,187.96,102.06,2nd season,zachlaskey/2553721
+"Sweezy, J.R.",28.0,"Mooresville , NC",North Carolina State,Tampa Bay Buccaneers,73,195.58,135.17,6th season,j.r.sweezy/2533342
+"Robertson-Harris, Roy",23.0,"Oakland , CA",Texas-El Paso,Chicago Bears,47,200.66,121.56,1st season,royrobertson-harris/2556665
+"Mayle, Vince",25.0,"Trenton , NJ",Washington State,Baltimore Ravens,16,187.96,103.42,2nd season,vincemayle/2552431
+"Sundberg, Nick",29.0,"Phoenix , AZ",California,Washington Redskins,57,182.88,111.13,8th season,nicksundberg/2507668
+"Ellington, Bruce",25.0,"Moncks Corner , SC",South Carolina,San Francisco 49ers,10,175.26,89.36,4th season,bruceellington/2543646
+"Lynch, Aaron",24.0,"Cleveland , OH",South Florida,San Francisco 49ers,59,195.58,122.47,4th season,aaronlynch/2543650
+"Hester, Devin",34.0,"Riviera Beach , FL",Miami (Fla.),Seattle Seahawks,17,180.34,86.18,12th season,devinhester/2506897
+"Crume, Eric",23.0,"Detroit , MI",Syracuse,Carolina Panthers,72,182.88,149.69,1st season,ericcrume/2553638
+"Thomas, Logan",25.0,"Lynchburg , VA",Virginia Tech,Buffalo Bills,82,198.12,113.4,2nd season,loganthomas/2543767
+"Lovato, Rick",24.0,"Brick Twp. Ocean Co. , NJ",Old Dominion,Philadelphia Eagles,45,187.96,112.94,1st season,ricklovato/2553557
+"Robinson, Demarcus",22.0,"Carrollton , GA",Florida,Kansas City Chiefs,14,185.42,92.08,2nd season,demarcusrobinson/2555478
+"Gano, Graham",30.0,Arbroath Scotland,Florida State,Carolina Panthers,9,187.96,92.99,8th season,grahamgano/71309
+"Bennett, Michael",24.0,"Dayton , OH",Ohio State,Jacksonville Jaguars,96,187.96,135.17,3rd season,michaelbennett/2552733
+"Kelly, Ryan",24.0,"West Chester , OH",Alabama,Indianapolis Colts,78,193.04,141.97,2nd season,ryankelly/2555191
+"Unrein, Mitch",30.0,"Eaton , CO",Wyoming,Chicago Bears,98,193.04,135.62,7th season,mitchunrein/2508016
+"Vernon, Olivier",26.0,"Miami , FL",Miami (Fla.),New York Giants,54,187.96,124.74,6th season,oliviervernon/2533534
+"Means, Steven",26.0,"Buffalo , NY",Buffalo,Philadelphia Eagles,51,190.5,119.29,3rd season,stevenmeans/2541310
+"Hall, Leon",32.0,"Vista , CA",Michigan,New York Giants,25,180.34,88.45,10th season,leonhall/2495617
+"Walker, Vance",30.0,"Cincinnati , OH",Georgia Tech,Denver Broncos,96,187.96,138.35,9th season,vancewalker/79657
+"Heyward-Bey, Darrius",30.0,"Silver Spring , MD",Maryland,Pittsburgh Steelers,88,187.96,95.25,9th season,darriusheyward-bey/80427
+"Fruechte, Isaac",26.0,"Caledonia , MN",Minnesota,Minnesota Vikings,15,190.5,95.25,1st season,isaacfruechte/2553883
+"Scruggs, Greg",26.0,"Cincinnati , OH",Louisville,New England Patriots,83,190.5,125.64,5th season,gregscruggs/2535138
+"Fejedelem, Clayton",24.0,"New Lenox , IL",Illinois,Cincinnati Bengals,42,182.88,92.99,2nd season,claytonfejedelem/2555355
+"Norwell, Andrew",25.0,"Cincinnati , OH",Ohio State,Carolina Panthers,68,198.12,147.42,4th season,andrewnorwell/2550589
+"Trail, Lynden",26.0,"Miami , FL",Norfolk State,Washington Redskins,48,198.12,122.47,1st season,lyndentrail/2553611
+"Alexander, Kwon",22.0,"Oxford , AL",LSU,Tampa Bay Buccaneers,58,185.42,102.97,3rd season,kwonalexander/2552592
+"Reynolds, Keenan",23.0,"Antioch , TN",Navy,Baltimore Ravens,81,177.8,86.18,1st season,keenanreynolds/2555356
+"McManis, Sherrick",29.0,"Peoria , IL",Northwestern,Chicago Bears,27,185.42,87.09,8th season,sherrickmcmanis/494289
+"Higgins, Rashard",22.0,"Dallas , TX",Colorado State,Cleveland Browns,81,185.42,89.81,2nd season,rashardhiggins/2555468
+"Allen, Jeff",27.0,"Chicago , IL",Illinois,Houston Texans,79,193.04,138.8,6th season,jeffallen/2532787
+"Thornton, Cedric",28.0,"Star City , AR",Southern Arkansas,Dallas Cowboys,92,193.04,140.16,6th season,cedricthornton/2495356
+"Dickson, Ed",29.0,"Inglewood , CA",Oregon,Carolina Panthers,84,193.04,115.67,8th season,eddickson/497224
+"Brown, Mack",25.0,"Clarkston , GA",Florida,Washington Redskins,34,180.34,97.52,2nd season,mackbrown/2553867
+"Young, Tavon",23.0,"Upper Marlboro , MD",Temple,Baltimore Ravens,36,175.26,80.29,2nd season,tavonyoung/2555378
+"Clemmings, T.J.",25.0,"Mount Vernon , NY",Pittsburgh,Minnesota Vikings,68,195.58,140.16,3rd season,t.j.clemmings/2552365
+"Palmer, Carson",37.0,"Fresno , CA",USC,Arizona Cardinals,3,195.58,106.59,15th season,carsonpalmer/2505245
+"Peko, Kyle",23.0,"La Habra , CA",Oregon State,Denver Broncos,90,185.42,138.35,1st season,kylepeko/2556646
+"Lutz, Wil",22.0,"Moultries , GA",Georgia State,New Orleans Saints,3,180.34,83.46,2nd season,willutz/2556601
+"Rucker, Frostee",33.0,"Tustin , CA",USC,Arizona Cardinals,92,190.5,127.01,12th season,frosteerucker/2506908
+"Tye, Will",25.0,"Jellico , TN",Stony Brook,New York Giants,45,187.96,118.84,3rd season,willtye/2553830
+"Ellis, Justin",26.0,"Monroe , LA",Louisiana Tech,Oakland Raiders,78,187.96,151.95,4th season,justinellis/2543812
+"Luck, Andrew",27.0,"Washington , DC",Stanford,Indianapolis Colts,12,193.04,108.86,6th season,andrewluck/2533031
+"Branch, Tyvon",30.0,"Syracuse , NY",Connecticut,Arizona Cardinals,27,182.88,95.25,10th season,tyvonbranch/1681
+"Maxey, Johnny",23.0,"Irmo , SC",Mars Hill,Pittsburgh Steelers,62,195.58,137.44,1st season,johnnymaxey/2556609
+"Thomas, J.T.",28.0,"Fort Lauderdale , FL",West Virginia,New York Giants,55,185.42,107.05,7th season,j.t.thomas/2508132
+"Koch, Sam",34.0,"York , NE",Nebraska,Baltimore Ravens,4,185.42,100.7,12th season,samkoch/2506969
+"Telfer, Randall",25.0,"Pomona , CA",USC,Cleveland Browns,86,190.5,113.4,2nd season,randalltelfer/2552660
+"Johnson, Josh",27.0,"Dade City , FL",Purdue,Jacksonville Jaguars,29,177.8,88.45,2nd season,joshjohnson/2539654
+"Good, Denzelle",26.0,"Gaffney , SC",Mars Hill,Indianapolis Colts,71,195.58,161.03,3rd season,denzellegood/2553460
+"Curry, Vinny",28.0,"Neptune , NJ",Marshall,Philadelphia Eagles,75,190.5,126.55,6th season,vinnycurry/2532825
+"Smith, Marcus",25.0,"Columbus , GA",Louisville,Philadelphia Eagles,90,190.5,113.85,4th season,marcussmith/2543725
+"LaFell, Brandon",30.0,"Houston , TX",LSU,Cincinnati Bengals,11,190.5,95.25,8th season,brandonlafell/497302
+"Spain, Quinton",25.0,"Petersburg , VA",West Virginia,Tennessee Titans,67,193.04,149.69,3rd season,quintonspain/2553824
+"Colvin, Aaron",25.0,"Old Hickory , TN",Oklahoma,Jacksonville Jaguars,22,182.88,88.45,4th season,aaroncolvin/2543501
+"Johnson, Wesley",26.0,"Arlington , VA",Vanderbilt,New York Jets,76,195.58,134.72,4th season,wesleyjohnson/2543763
+"Watt, J.J.",28.0,"Waukesha , WI",Wisconsin,Houston Texans,99,195.58,133.81,7th season,j.j.watt/2495488
+"Ervin, Tyler",23.0,"San Bernardino , CA",San Jose State,Houston Texans,34,177.8,83.91,2nd season,tylerervin/2555234
+"Robinson, Greg",24.0,"Thibodaux , LA",Auburn,Los Angeles Rams,73,195.58,150.59,4th season,gregrobinson/2543458
+"Swaim, Geoff",23.0,"Chico , CA",Texas,Dallas Cowboys,87,193.04,117.93,3rd season,geoffswaim/2553454
+"Joseph, Karl",23.0,"Miami , FL",West Virginia,Oakland Raiders,42,177.8,93.89,2nd season,karljoseph/2555342
+"Bryant, Matt",42.0,"Orange , TX",Baylor,Atlanta Falcons,3,175.26,92.08,16th season,mattbryant/2504797
+"Brooks, Ahmad",33.0,"Fairfax , VA",Virginia,San Francisco 49ers,55,190.5,117.48,12th season,ahmadbrooks/2507010
+"Clark, Le'Raven",24.0,"Bryan , TX",Texas Tech,Indianapolis Colts,62,195.58,144.7,2nd season,le'ravenclark/2555202
+"Mack, Khalil",26.0,"Fort Pierce , FL",Buffalo,Oakland Raiders,52,190.5,113.4,4th season,khalilmack/2543463
+"Wilson, Damien",24.0,"Gloster , MS",Minnesota,Dallas Cowboys,57,185.42,110.22,3rd season,damienwilson/2552686
+"Kendricks, Eric",25.0,"Clovis , CA",UCLA,Minnesota Vikings,54,182.88,105.23,3rd season,erickendricks/2552312
+"Benjamin, Travis",27.0,"Belle Glade , FL",Miami (Fla.),Los Angeles Chargers,12,177.8,79.38,6th season,travisbenjamin/2532790
+"Paul, Niles",27.0,"Omaha , NE",Nebraska,Washington Redskins,84,185.42,109.77,7th season,nilespaul/2495211
+"Horton, Wes",27.0,"Los Angeles , CA",USC,Carolina Panthers,96,195.58,120.2,5th season,weshorton/2539306
+"Hackenberg, Christian",22.0,"Lehighton , PA",Penn State,New York Jets,5,193.04,103.42,2nd season,christianhackenberg/2555416
+"Norwood, Jordan",30.0,"Honolulu , HI",Penn State,Denver Broncos,11,180.34,81.65,8th season,jordannorwood/71417
+"Overton, Matt",31.0,"San Leandro , CA",Western Washington,Indianapolis Colts,45,185.42,110.22,6th season,mattoverton/2522602
+"Kaufusi, Bronson",25.0,"Provo , UT",Brigham Young,Baltimore Ravens,92,198.12,129.27,2nd season,bronsonkaufusi/2555244
+"Davis, Kellen",31.0,"Adrian , MI",Michigan State,New York Jets,47,200.66,120.2,10th season,kellendavis/2507486
+"Glowinski, Mark",25.0,"Wilkes Barre , PA",West Virginia,Seattle Seahawks,63,193.04,140.61,3rd season,markglowinski/2552467
+"Treggs, Bryce",23.0,"Los Angeles , CA",California,Philadelphia Eagles,16,177.8,83.91,2nd season,brycetreggs/2556697
+"Kouandjio, Arie",25.0,Cameroon,Alabama,Washington Redskins,74,195.58,147.42,3rd season,ariekouandjio/2552333
+"Lee, Marqise",25.0,"Long Beach , CA",USC,Jacksonville Jaguars,11,182.88,90.72,4th season,marqiselee/2543475
+"McDonald, Dewey",26.0,"Charles Town , WV",California (PA),Seattle Seahawks,41,182.88,99.79,4th season,deweymcdonald/2550228
+"Rice, Denzel",24.0,"Winston Salem , NC",Coastal Carolina,Houston Texans,22,182.88,88.9,2nd season,denzelrice/2553736
+"Osemele, Kelechi",27.0,"Houston , TX",Iowa State,Oakland Raiders,70,195.58,149.69,6th season,kelechiosemele/2532922
+"Ajayi, Jay",23.0,London England,Boise State,Miami Dolphins,23,182.88,103.87,3rd season,jayajayi/2552582
+"Robinson, Keenan",27.0,"Omaha , NE",Texas,New York Giants,57,190.5,107.95,6th season,keenanrobinson/2532940
+"Benn, Arrelious",28.0,"Washington , DC",Illinois,Jacksonville Jaguars,17,187.96,100.7,7th season,arreliousbenn/497270
+"Hageman, Ra'Shede",26.0,"Lansing , MI",Minnesota,Atlanta Falcons,77,198.12,144.24,4th season,ra'shedehageman/2543478
+"Hall, Deiondre'",23.0,"Columbia , MO",Northern Iowa,Chicago Bears,32,187.96,91.17,2nd season,deiondre'hall/2555366
+"Golden, Markus",26.0,"Elsberry , MO",Missouri,Arizona Cardinals,44,190.5,117.93,3rd season,markusgolden/2552273
+"Tandy, Keith",28.0,"Hopkinsville , KY",West Virginia,Tampa Bay Buccaneers,37,177.8,92.99,6th season,keithtandy/2534741
+"Jones, Adam",33.0,"Atlanta , GA",West Virginia,Cincinnati Bengals,24,177.8,81.65,11th season,adamjones/2506345
+"Becton, Nick",27.0,"Fayetteville , NC",Virginia Tech,Chicago Bears,71,198.12,146.06,4th season,nickbecton/2539660
+"Alexander, Mackensie",23.0,"Immokalee , FL",Clemson,Minnesota Vikings,20,177.8,87.09,2nd season,mackensiealexander/2555177
+"Wilfork, Vince",35.0,"Boynton Beach , FL",Miami (Fla.),Houston Texans,75,187.96,147.42,14th season,vincewilfork/2505916
+"Marsh, Cassius",24.0,"Mission Hills , CA",UCLA,Seattle Seahawks,91,193.04,111.13,4th season,cassiusmarsh/2543868
+"Taylor, Jamar",26.0,"San Diego , CA",Boise State,Cleveland Browns,21,180.34,87.09,5th season,jamartaylor/2539932
+"Kerin, Zac",25.0,"Columbus , OH",Toledo,Minnesota Vikings,67,195.58,138.35,3rd season,zackerin/2550361
+"Cardona, Joe",25.0,"Lemon Grove , CA",Navy,New England Patriots,49,190.5,111.13,3rd season,joecardona/2552701
+"Ellington, Andre",28.0,"Moncks Corner , SC",Clemson,Arizona Cardinals,38,175.26,90.26,5th season,andreellington/2539217
+"Wynn, Shane",24.0,"Cleveland , OH",Indiana,Jacksonville Jaguars,14,167.64,72.12,1st season,shanewynn/2553630
+"Lawson, Nevin",26.0,Kingston Jamaica,Utah State,Detroit Lions,24,175.26,87.09,4th season,nevinlawson/2543872
+"Acho, Sam",28.0,"Dallas , TX",Texas,Chicago Bears,49,190.5,117.93,7th season,samacho/2495101
+"Jordan, Michael",24.0,"St. Louis , MO",Missouri Western State,Los Angeles Rams,35,182.88,90.72,2nd season,michaeljordan/2556573
+"Jones, Christian",26.0,"Orlando , FL",Florida State,Chicago Bears,52,190.5,113.85,4th season,christianjones/2550572
+"Rogers, Chester",23.0,"Huntsville , AL",Grambling State,Indianapolis Colts,80,185.42,81.65,2nd season,chesterrogers/2556396
+"Attaochu, Jeremiah",24.0,Ibadan Nigeria,Georgia Tech,Los Angeles Chargers,97,190.5,114.31,4th season,jeremiahattaochu/2543717
+"Green-Thompson, Shaq",23.0,"Sacramento , CA",Washington,Carolina Panthers,54,182.88,104.33,3rd season,shaqthompson/2552447
+"Hubbard, Chris",26.0,"Columbus , GA",Alabama-Birmingham,Pittsburgh Steelers,74,193.04,133.81,4th season,chrishubbard/2541716
+"Heyward, Cameron",28.0,"Pittsburgh , PA",Ohio State,Pittsburgh Steelers,97,195.58,133.81,7th season,cameronheyward/2508109
+"Forte, Matt",31.0,"Lake Charles , LA",Tulane,New York Jets,22,187.96,98.88,10th season,mattforte/234
+"Nelson, Corey",25.0,"Dallas , TX",Oklahoma,Denver Broncos,52,185.42,102.51,4th season,coreynelson/2550167
+"Bradham, Nigel",27.0,"Crawfordville , FL",Florida State,Philadelphia Eagles,53,187.96,109.32,6th season,nigelbradham/2532800
+"Lynch, Cameron",23.0,"Riverdale , GA",Syracuse,Tampa Bay Buccaneers,52,182.88,103.87,3rd season,cameronlynch/2553774
+"Reiter, Austin",25.0,"Coppell , TX",South Florida,Cleveland Browns,62,190.5,139.25,2nd season,austinreiter/2553452
+"Jones, Cardale",24.0,"Cleveland , OH",Ohio State,Buffalo Bills,7,195.58,113.4,2nd season,cardalejones/2555426
+"Hart, Bobby",22.0,"Lauderhill , FL",Florida State,New York Giants,68,193.04,151.5,3rd season,bobbyhart/2552335
+"Urban, Brent",26.0,"Brampton , Ontario",Virginia,Baltimore Ravens,96,200.66,136.08,4th season,brenturban/2543765
+"Roberts, Seth",26.0,"Moultrie , GA",West Alabama,Oakland Raiders,10,187.96,88.45,3rd season,sethroberts/2550597
+"McKinnon, Jerick",25.0,"Atlanta , GA",Georgia Southern,Minnesota Vikings,21,175.26,92.99,4th season,jerickmckinnon/2543715
+"Vaccaro, Kenny",26.0,"Brownwood , TX",Texas,New Orleans Saints,32,182.88,97.07,5th season,kennyvaccaro/2539320
+"Murphy, Marcus",25.0,"Dallas , TX",Missouri,New Orleans Saints,23,175.26,88.45,3rd season,marcusmurphy/2552647
+"Smith, Derron",25.0,"Banning , CA",Fresno State,Cincinnati Bengals,31,177.8,90.72,3rd season,derronsmith/2552390
+"Brown, Anthony",23.0,"Tampa , FL",Purdue,Dallas Cowboys,30,180.34,87.09,2nd season,anthonybrown/2555531
+"Erickson, Alex",24.0,"Argyle , WI",Wisconsin,Cincinnati Bengals,12,182.88,88.45,2nd season,alexerickson/2556519
+"Rankins, Sheldon",23.0,"Covington , GA",Louisville,New Orleans Saints,98,187.96,138.35,2nd season,sheldonrankins/2555242
+"Smith, Za'Darius",24.0,"Montgomery , AL",Kentucky,Baltimore Ravens,90,193.04,124.74,3rd season,za'dariussmith/2552279
+"Matthews, Chris",27.0,"Long Beach , CA",Kentucky,Baltimore Ravens,84,195.58,103.42,4th season,chrismatthews/2531049
+"Steen, Anthony",27.0,"Gunnison , MS",Alabama,Miami Dolphins,65,190.5,141.97,2nd season,anthonysteen/2550404
+"Williams, Brandon",24.0,"Houston , TX",Texas A&M,Arizona Cardinals,26,180.34,90.72,2nd season,brandonwilliams/2556371
+"Meredith, Cameron",24.0,"Berwyn , IL",Illinois State,Chicago Bears,81,190.5,93.89,3rd season,cameronmeredith/2553568
+"Ioannidis, Matthew",23.0,"Marlton , NJ",Temple,Washington Redskins,98,190.5,139.71,2nd season,matthewioannidis/2555240
+"Annen, Blake",26.0,"Columbus , OH",Cincinnati,Buffalo Bills,86,193.04,112.04,3rd season,blakeannen/2550278
+"Ramsey, Jalen",22.0,"Nashville , TN",Florida State,Jacksonville Jaguars,20,185.42,95.71,2nd season,jalenramsey/2555280
+"Benjamin, Kelvin",26.0,"Belle Glade , FL",Florida State,Carolina Panthers,13,195.58,111.13,4th season,kelvinbenjamin/2543471
+"Hughes, John",29.0,"Columbus , OH",Cincinnati,Tampa Bay Buccaneers,67,187.96,145.15,6th season,johnhughes/2533451
+"Garrett, Keyarris",24.0,"Mount Pleasant , TX",Tulsa,Carolina Panthers,15,190.5,97.52,1st season,keyarrisgarrett/2556851
+"Zombo, Frank",30.0,"Sterling Heights , MI",Central Michigan,Kansas City Chiefs,51,190.5,115.21,8th season,frankzombo/2507948
+"Way, Tress",27.0,"Tulsa , OK",Oklahoma,Washington Redskins,5,185.42,102.06,4th season,tressway/2541903
+"Lewis, Roger",23.0,"Lexington , KY",Bowling Green State,New York Giants,82,182.88,88.9,2nd season,rogerlewis/2556592
+"Kwiatkoski, Nick",24.0,"Pittsburgh , PA",West Virginia,Chicago Bears,44,187.96,109.77,2nd season,nickkwiatkoski/2555288
+"Harrison, James",39.0,"Akron , OH",Kent State,Pittsburgh Steelers,92,182.88,109.77,15th season,jamesharrison/2504844
+"Jackson, Vincent",34.0,"Colorado Springs , CO",Northern Colorado,Tampa Bay Buccaneers,83,195.58,104.33,13th season,vincentjackson/2506400
+"Simmons, Justin",23.0,"Manassas , VA",Boston College,Denver Broncos,31,187.96,91.63,2nd season,justinsimmons/2555550
+"Collins, Maliek",22.0,"Kansas City , KS",Nebraska,Dallas Cowboys,96,187.96,141.07,2nd season,maliekcollins/2555400
+"McKinney, Benardrick",24.0,"Bellwood , IL",Mississippi State,Houston Texans,55,193.04,117.93,3rd season,benardrickmckinney/2552490
+"Lucas, Cornelius",25.0,"New Orleans , LA",Kansas State,Detroit Lions,77,205.74,149.69,4th season,corneliuslucas/2550221
+"Clinton-Dix, Ha Ha",24.0,"Orlando , FL",Alabama,Green Bay Packers,21,185.42,94.35,4th season,hahaclinton-dix/2543470
+"Ogbah, Emmanuel",23.0,Lagos Nigeria,Oklahoma State,Cleveland Browns,90,190.5,124.74,2nd season,emmanuelogbah/2555278
+"Nelson, Jordy",32.0,"Manhattan , KS",Kansas State,Green Bay Packers,87,190.5,98.43,10th season,jordynelson/1032
+"Ford, Dee",26.0,"Odenville , AL",Auburn,Kansas City Chiefs,55,187.96,114.31,4th season,deeford/2543494
+"Thuney, Joe",24.0,"Spring Valley , OH",North Carolina State,New England Patriots,62,193.04,138.35,2nd season,joethuney/2555281
+"Foster, D.J.",23.0,"Scottsdale , AZ",Arizona State,New England Patriots,27,182.88,88.45,2nd season,d.j.foster/2556528
+"Alexander, Lorenzo",34.0,"Oakland , CA",California,Buffalo Bills,57,185.42,111.13,11th season,lorenzoalexander/2506268
+"Winston, Jameis",23.0,"Bessemer , AL",Florida State,Tampa Bay Buccaneers,3,193.04,104.78,3rd season,jameiswinston/2552033
+"Anderson, Robby",24.0,"Fair Lawn , NJ",Temple,New York Jets,11,190.5,86.18,2nd season,robbyanderson/2556462
+"Ingram, Melvin",28.0,"Hamlet , NC",South Carolina,Los Angeles Chargers,54,187.96,112.04,6th season,melviningram/2532870
+"Square, Damion",28.0,"Houston , TX",Alabama,Los Angeles Chargers,71,187.96,132.9,5th season,damionsquare/2540003
+"Tanney, Alex",29.0,"Dunlap , IL",Monmouth (Ill.),Tennessee Titans,11,193.04,99.79,2nd season,alextanney/2534870
+"Martin, Sam",27.0,"Peachtree City , GA",Appalachian State,Detroit Lions,6,185.42,95.71,5th season,sammartin/2541311
+"Anderson, C.J.",26.0,"Richmond , CA",California,Denver Broncos,22,172.72,101.6,5th season,c.j.anderson/2540269
+"Pullard, Hayes",25.0,"Los Angeles , CA",USC,Jacksonville Jaguars,52,182.88,105.69,3rd season,hayespullard/2552313
+"Clark, Frank",23.0,"Bakersfield , CA",Michigan,Seattle Seahawks,55,190.5,117.93,3rd season,frankclark/2552629
+"Toilolo, Levine",25.0,"San Diego , CA",Stanford,Atlanta Falcons,80,203.2,120.2,5th season,levinetoilolo/2540203
+"Johnson, Anthony",24.0,"Baton Rouge , LA",LSU,New York Jets,75,187.96,133.81,3rd season,anthonyjohnson/2550489
+"Burkhead, Rex",26.0,"Lexington , KY",Nebraska,New England Patriots,34,177.8,95.25,5th season,rexburkhead/2539265
+"Spruce, Nelson",24.0,"Venice Beach , CA",Colorado,Los Angeles Rams,86,185.42,92.99,2nd season,nelsonspruce/2556686
+"Doyle, Jack",27.0,"Indianapolis , IN",Western Kentucky,Indianapolis Colts,84,198.12,121.11,5th season,jackdoyle/2540232
+"Jackson, Tyson",31.0,"New Orleans , LA",LSU,Atlanta Falcons,94,193.04,134.26,9th season,tysonjackson/71341
+"Hart, Taylor",26.0,"Beaverton , OR",Oregon,Philadelphia Eagles,77,198.12,127.46,4th season,taylorhart/2543747
+"Ferguson, Josh",24.0,"Bolingbrook , IL",Illinois,Indianapolis Colts,34,177.8,90.72,2nd season,joshferguson/2556411
+"Kelley, Rob",24.0,"New Orleans , LA",Tulane,Washington Redskins,32,182.88,103.42,2nd season,robkelley/2556414
+"Petty, Bryce",26.0,"Thomaston , GA",Baylor,New York Jets,9,190.5,104.33,3rd season,brycepetty/2552369
+"Thomas, Earl",28.0,"Orange , TX",Texas,Seattle Seahawks,29,177.8,91.63,8th season,earlthomas/2508080
+"McFadden, Darren",29.0,"Little Rock , AR",Arkansas,Dallas Cowboys,20,185.42,99.79,9th season,darrenmcfadden/284
+"Butler, Donald",28.0,"Sacramento , CA",Washington,Miami Dolphins,56,185.42,109.77,8th season,donaldbutler/496903
+"Keo, Shiloh",29.0,"Bothell , WA",Idaho,New Orleans Saints,49,180.34,94.35,6th season,shilohkeo/2495188
+"Hanna, James",27.0,"Lakewood , OH",Oklahoma,Dallas Cowboys,84,193.04,117.93,6th season,jameshanna/2533028
+"Marlowe, Dean",24.0,"Piscataway , NJ",James Madison,Carolina Panthers,29,185.42,95.25,3rd season,deanmarlowe/2553562
+"Brown, Jamon",24.0,"Fort Knox , KY",Louisville,Los Angeles Rams,68,193.04,146.51,3rd season,jamonbrown/2552340
+"Easley, Dominique",25.0,"Staten Island , NY",Florida,Los Angeles Rams,91,187.96,129.27,4th season,dominiqueeasley/2543487
+"Price, Norman",22.0,"Vicksburg , MS",Southern Mississippi,San Francisco 49ers,63,193.04,141.07,1st season,normanprice/2556658
+"Davis, Sean",23.0,"Washington , DC",Maryland,Pittsburgh Steelers,28,185.42,91.63,2nd season,seandavis/2555386
+"Miller, Roy",29.0,"Fort Lewis , WA",Texas,Jacksonville Jaguars,97,187.96,144.24,9th season,roymiller/79611
+"Alford, Robert",28.0,"Hammond , LA",Southeastern Louisiana,Atlanta Falcons,23,177.8,84.37,5th season,robertalford/2539653
+"Marquez, Bradley",24.0,"Odessa , TX",Texas Tech,Los Angeles Rams,15,177.8,88.9,3rd season,bradleymarquez/2553725
+"Flowers, Trey",23.0,"Huntsville , AL",Arkansas,New England Patriots,98,187.96,120.2,3rd season,treyflowers/2552278
+"Nelson, Kyle",30.0,"Norman , OK",New Mexico State,San Francisco 49ers,86,187.96,108.86,6th season,kylenelson/2530722
+"Carter, Alex",22.0,"Fairfax , VA",Stanford,Detroit Lions,33,182.88,89.81,1st season,alexcarter/2552587
+"DeCastro, David",27.0,"Kirkland , WA",Stanford,Pittsburgh Steelers,66,195.58,143.34,6th season,daviddecastro/2533043
+"Kaser, Drew",24.0,"Toledo , OH",Texas A&M,Los Angeles Chargers,8,187.96,93.44,2nd season,drewkaser/2555151
+"Dillon, K.J.",24.0,"Orlando , FL",West Virginia,Houston Texans,36,182.88,90.72,2nd season,k.j.dillon/2555372
+"Howard, Austin",30.0,"Davenport , IA",Northern Iowa,Oakland Raiders,77,200.66,149.69,8th season,austinhoward/2507871
+"Breaux, Delvin",27.0,"New Orleans , LA",LSU,New Orleans Saints,40,185.42,88.9,3rd season,delvinbreaux/2552615
+"Tinker, Carson",27.0,"Decatur , AL",Alabama,Jacksonville Jaguars,46,182.88,108.41,5th season,carsontinker/2540023
+"Shell, Brandon",25.0,"Goose Creek , SC",South Carolina,New York Jets,72,195.58,146.96,2nd season,brandonshell/2555193
+"Bernard, Giovani",25.0,"West Palm Beach , FL",North Carolina,Cincinnati Bengals,25,175.26,92.99,5th season,giovanibernard/2540156
+"Gause, Quentin",24.0,"Rochester , NY",Rutgers,Denver Broncos,49,182.88,110.22,1st season,quentingause/2556738
+"Rubin, Ahtyba",30.0,"Fort Belvoir , VA",Iowa State,Seattle Seahawks,77,187.96,140.61,10th season,ahtybarubin/1344
+"Mills, Jordan",26.0,"Thibodaux , LA",Louisiana Tech,Buffalo Bills,79,195.58,143.34,5th season,jordanmills/2540229
+"Turner, Paul",24.0,"West Monroe , LA",Louisiana Tech,Philadelphia Eagles,19,177.8,87.54,2nd season,paulturner/2556785
+"Brockers, Michael",26.0,"Houston , TX",LSU,Los Angeles Rams,90,195.58,147.87,6th season,michaelbrockers/2533050
+"Kline, Josh",27.0,"Hoffman Estates , IL",Kent State,Tennessee Titans,64,190.5,136.08,5th season,joshkline/2541142
+"Supernaw, Phillip",27.0,"Hermitage , TN",Ouachita Baptist,Tennessee Titans,89,195.58,112.49,4th season,phillipsupernaw/2535535
+"Stephen, Shamar",26.0,"Westbury , NY",Connecticut,Minnesota Vikings,93,195.58,140.61,4th season,shamarstephen/2543706
+"Iloka, George",27.0,"Houston , TX",Boise State,Cincinnati Bengals,43,193.04,102.06,6th season,georgeiloka/2532869
+"Green, Aaron",24.0,"San Antonio , TX",Texas Christian,Los Angeles Rams,36,180.34,91.17,1st season,aarongreen/2556541
+"Gunter, Rodney",25.0,"Lake Hamilton , FL",Delaware State,Arizona Cardinals,95,195.58,138.35,3rd season,rodneygunter/2553437
+"Weatherly, Stephen",23.0,"Austell , GA",Vanderbilt,Minnesota Vikings,91,195.58,120.2,2nd season,stephenweatherly/2555529
+"Dunlap, King",31.0,"Nashville , TN",Auburn,Los Angeles Chargers,77,205.74,149.69,10th season,kingdunlap/2507498
+"Pierre-Paul, Jason",28.0,"Deerfield Beach , FL",South Florida,New York Giants,90,195.58,126.1,8th season,jasonpierre-paul/496843
+"Grant, Jakeem",24.0,"Athens , TX",Texas Tech,Miami Dolphins,19,170.18,78.02,2nd season,jakeemgrant/2556190
+"Ross, Jeremy",29.0,"San Diego , CA",California,Arizona Cardinals,16,182.88,97.52,5th season,jeremyross/2530598
+"Allen, Keenan",25.0,"Greensboro , NC",California,Los Angeles Chargers,13,187.96,95.71,5th season,keenanallen/2540154
+"Butler, Brice",27.0,"Norcross , GA",San Diego State,Dallas Cowboys,19,190.5,97.52,5th season,bricebutler/2541388
+"Morstead, Thomas",31.0,"Houston , TX",Southern Methodist,New Orleans Saints,6,193.04,106.59,9th season,thomasmorstead/71407
+"Ayers, DeMarcus",22.0,"Dallas , TX",Houston,Pittsburgh Steelers,15,177.8,86.18,1st season,demarcusayers/2555465
+"Johnson, Austin",27.0,"Madison , MS",Tennessee,Tampa Bay Buccaneers,46,187.96,108.86,3rd season,austinjohnson/2534437
+"Houston-Carson, DeAndre",24.0,"Erie , PA",William & Mary,Chicago Bears,36,185.42,92.08,2nd season,deandrehouston-carson/2555381
+"Hyder, Kerry",26.0,"Austin , TX",Texas Tech,Detroit Lions,61,187.96,122.47,2nd season,kerryhyder/2550433
+"Cox, Morgan",31.0,"Collierville , TN",Tennessee,Baltimore Ravens,46,193.04,105.69,8th season,morgancox/2508008
+"Waddle, LaAdrian",25.0,"College Station , TX",Texas Tech,New England Patriots,68,198.12,142.88,5th season,laadrianwaddle/2539324
+"Ash, Richard",24.0,"Hendersonville , NC",Western Michigan,Dallas Cowboys,76,190.5,151.05,1st season,richardash/2553862
+"Nortman, Brad",27.0,"St. Francis , WI",Wisconsin,Jacksonville Jaguars,3,187.96,98.88,6th season,bradnortman/2532921
+"Stocker, Luke",28.0,"Lexington , KY",Tennessee,Tampa Bay Buccaneers,88,195.58,114.76,7th season,lukestocker/2495234
+"Sheppard, Kelvin",29.0,"Atlanta , GA",LSU,New York Giants,91,187.96,112.94,7th season,kelvinsheppard/2495229
+"Douzable, Leger",31.0,"Tampa , FL",Central Florida,Buffalo Bills,91,193.04,128.82,8th season,legerdouzable/2507373
+"Rey, Vincent",29.0,"Brooklyn , NY",Duke,Cincinnati Bengals,57,182.88,113.4,7th season,vincentrey/2507843
+"McEvoy, Tanner",24.0,"Pomona , NJ",Wisconsin,Seattle Seahawks,19,198.12,104.33,2nd season,tannermcevoy/2556612
+"Yeldon, T.J.",23.0,"Daphne , AL",Alabama,Jacksonville Jaguars,24,185.42,101.15,3rd season,t.j.yeldon/2552471
+"Britt, Justin",26.0,"Fort Campbell , KY",Missouri,Seattle Seahawks,68,198.12,142.88,4th season,justinbritt/2550135
+"Bryant, Desmond",31.0,"Shorewood , IL",Harvard,Cleveland Browns,92,198.12,140.61,8th season,desmondbryant/2507568
+"Gilberry, Wallace",32.0,"Spanish Fort , AL",Alabama,Cincinnati Bengals,95,187.96,122.47,10th season,wallacegilberry/1332
+"O'Shaughnessy, James",25.0,"Naperville , IL",Illinois State,New England Patriots,88,193.04,111.13,3rd season,jameso'shaughnessy/2553318
+"Alexander, Vadal",23.0,"New Orleans , LA",LSU,Oakland Raiders,74,195.58,147.87,2nd season,vadalalexander/2555146
+"Davis, Vontae",29.0,"Washington , DC",Illinois,Indianapolis Colts,21,180.34,93.89,9th season,vontaedavis/79901
+"Jackson, Branden",24.0,"McKeesport , PA",Texas Tech,Oakland Raiders,98,193.04,121.56,1st season,brandenjackson/2556880
+"Goodson, B.J.",24.0,"Lamar , SC",Clemson,New York Giants,93,182.88,109.77,2nd season,b.j.goodson/2555522
+"Wheeler, Philip",32.0,"Columbus , GA",Georgia Tech,Atlanta Falcons,41,187.96,111.13,10th season,philipwheeler/330
+"Donnell, Larry",28.0,"Midland City , AL",Grambling State,New York Giants,84,198.12,120.2,5th season,larrydonnell/2537933
+"Bitonio, Joel",25.0,"San Pedro , CA",Nevada,Cleveland Browns,75,193.04,138.35,4th season,joelbitonio/2543737
+"Sims, Eugene",31.0,"Mt. Olive , MS",West Texas A&M,Los Angeles Rams,97,198.12,122.02,8th season,eugenesims/1037852
+"Driskel, Jeff",24.0,"Oviedo , FL",Louisiana Tech,Cincinnati Bengals,6,193.04,104.78,2nd season,jeffdriskel/2555262
+"Kirkpatrick, Dre",27.0,"Gadsden , AL",Alabama,Cincinnati Bengals,27,187.96,83.91,6th season,drekirkpatrick/2533060
+"Brothers, Kentrell",24.0,"Guthrie , OK",Missouri,Minnesota Vikings,40,185.42,109.77,2nd season,kentrellbrothers/2555168
+"Hill, Tyreek",23.0,"Lauderhill , FL",West Alabama,Kansas City Chiefs,10,177.8,83.91,2nd season,tyreekhill/2556214
+"Jones, Chris",27.0,"Rome , GA",Carson-Newman,Dallas Cowboys,6,182.88,92.99,6th season,chrisjones/2539987
+"Short, Kawann",28.0,"East Chicago , IN",Purdue,Carolina Panthers,99,190.5,142.88,5th season,kawannshort/2539296
+"Tate, Golden",28.0,"Nashville , TN",Notre Dame,Detroit Lions,15,177.8,89.36,8th season,goldentate/497326
+"Douglas, Harry",32.0,"Tampa , FL",Louisville,Tennessee Titans,83,182.88,83.01,10th season,harrydouglas/222
+"White, Kevin",24.0,"Plainfield , NJ",West Virginia,Chicago Bears,13,190.5,97.98,3rd season,kevinwhite/2553432
+"Apple, Eli",21.0,"Philadelphia , PA",Ohio State,New York Giants,24,185.42,90.26,2nd season,eliapple/2555277
+"Kelce, Jason",29.0,"Cleveland , OH",Cincinnati,Philadelphia Eagles,62,190.5,133.81,7th season,jasonkelce/2495298
+"Byard, Kevin",23.0,"Philadephia , PA",Middle Tennessee State,Tennessee Titans,31,180.34,96.16,2nd season,kevinbyard/2555158
+"Adams, Tyrell",25.0,"Atlanta , GA",West Georgia,Oakland Raiders,58,187.96,103.42,2nd season,tyrelladams/2553898
+"McKelvin, Leodis",31.0,"Waycross , GA",Troy,Philadelphia Eagles,21,177.8,83.91,10th season,leodismckelvin/1298
+"Anderson, Henry",25.0,"Atlanta , GA",Stanford,Indianapolis Colts,96,198.12,136.08,3rd season,henryanderson/2552272
+"Collins, Jalen",24.0,"Kansas City , MO",LSU,Atlanta Falcons,32,185.42,92.08,3rd season,jalencollins/2552573
+"Talib, Aqib",31.0,"Cleveland , OH",Kansas,Denver Broncos,21,185.42,92.99,10th season,aqibtalib/1302
+"Unger, Max",31.0,"Kailua Kona , HI",Oregon,New Orleans Saints,60,195.58,138.35,9th season,maxunger/71493
+"Wilds, Brandon",23.0,"Chapin , SC",South Carolina,New York Jets,34,182.88,99.79,1st season,brandonwilds/2556454
+"Hoomanawanui, Michael",28.0,"Normal , IL",Illinois,New Orleans Saints,84,193.04,120.2,8th season,michaelhoomanawanui/497246
+"Anderson, Stephen",24.0,"San Jose , CA",California,Houston Texans,89,187.96,104.33,2nd season,stephenanderson/2556463
+"Mallett, Ryan",29.0,"Batesville , AR",Arkansas,Baltimore Ravens,15,198.12,113.4,7th season,ryanmallett/2495443
+"Trufant, Desmond",26.0,"Tacoma , WA",Washington,Atlanta Falcons,21,182.88,86.18,5th season,desmondtrufant/2539334
+"Randolph, Brian",24.0,"Marietta , GA",Tennessee,Los Angeles Rams,43,182.88,89.81,2nd season,brianrandolph/2556659
+"Irving, David",23.0,"San Diego , CA",Iowa State,Dallas Cowboys,95,200.66,123.83,3rd season,davidirving/2553805
+"Christian, Marqui",22.0,"Houston , TX",Midwestern State,Los Angeles Rams,41,180.34,88.9,2nd season,marquichristian/2556277
+"Pleasant, Eddie",28.0,"Compton , CA",Oregon,Houston Texans,35,177.8,90.72,5th season,eddiepleasant/2532928
+"Kerley, Jeremy",28.0,"Austin , TX",Texas Christian,San Francisco 49ers,17,175.26,85.28,7th season,jeremykerley/2495189
+"Pruitt, MyCole",25.0,"South Bend , IN",Southern Illinois,Chicago Bears,80,187.96,117.03,3rd season,mycolepruitt/2552401
+"Wilson, Albert",24.0,"Fort Pierce , FL",Georgia State,Kansas City Chiefs,12,175.26,90.72,4th season,albertwilson/2550272
+"Vereen, Shane",28.0,"Valencia , CA",California,New York Giants,34,177.8,92.99,7th season,shanevereen/2495473
+"Kennard, Devon",25.0,"Tempe , AZ",USC,New York Giants,59,190.5,113.85,4th season,devonkennard/2543869
+"Misi, Koa",30.0,"Santa Rosa , CA",Utah,Miami Dolphins,55,190.5,116.12,8th season,koamisi/496820
+"Bates, Houston",26.0,"Pineville , LA",Louisiana Tech,Washington Redskins,96,190.5,114.31,3rd season,houstonbates/2553915
+"Johnson, Josh",31.0,"Oakland , CA",San Diego,New York Giants,8,190.5,97.52,7th season,joshjohnson/264
+"Greco, John",32.0,"Ravenna , OH",Toledo,Cleveland Browns,77,193.04,144.24,10th season,johngreco/238
+"Gotsis, Adam",24.0,"Melbourne , Victoria",Georgia Tech,Denver Broncos,99,193.04,130.18,2nd season,adamgotsis/2555502
+"Jones, Landry",28.0,"Artesia , NM",Oklahoma,Pittsburgh Steelers,3,193.04,102.06,5th season,landryjones/2539287
+"Goff, Jared",22.0,"San Rafael , CA",California,Los Angeles Rams,16,193.04,97.52,2nd season,jaredgoff/2555334
+"Peterson, Patrick",26.0,"Fort Lauderdale , FL",LSU,Arizona Cardinals,21,185.42,92.08,7th season,patrickpeterson/2495504
+"Conte, Chris",28.0,"Los Angeles , CA",California,Tampa Bay Buccaneers,23,187.96,92.08,7th season,chrisconte/2495272
+"LaDouceur, L.P.",36.0,"Montreal , Quebec",California,Dallas Cowboys,91,195.58,116.12,13th season,l.p.ladouceur/2506282
+"Huff, Josh",25.0,"Port Aransas , TX",Oregon,Tampa Bay Buccaneers,15,180.34,93.44,4th season,joshhuff/2543746
+"Smallwood, Wendell",23.0,"Wilmington , DE",West Virginia,Philadelphia Eagles,28,177.8,94.35,2nd season,wendellsmallwood/2555461
+"Donald, Aaron",26.0,"Pittsburgh , PA",Pittsburgh,Los Angeles Rams,99,185.42,129.27,4th season,aarondonald/2543485
+"Meeks, Jonathan",27.0,"Rock Hill , SC",Clemson,Buffalo Bills,36,182.88,94.8,4th season,jonathanmeeks/2541309
+"Odighizuwa, Owa",25.0,"Columbus , OH",UCLA,New York Giants,58,190.5,122.47,3rd season,owaodighizuwa/2552275
+"Louis, Ricardo",23.0,"Miami , FL",Auburn,Cleveland Browns,80,187.96,97.52,2nd season,ricardolouis/2555473
+"Day, Sheldon",22.0,"Indianapolis , IN",Notre Dame,Jacksonville Jaguars,92,185.42,129.27,2nd season,sheldonday/2555241
+"Whitner, Donte",31.0,"Cleveland , OH",Ohio State,Washington Redskins,39,177.8,94.35,12th season,dontewhitner/2495988
+"Boyle, Nick",24.0,"Sussex , NJ",Delaware,Baltimore Ravens,86,193.04,117.93,3rd season,nickboyle/2552402
+"Smith, Tevaun",24.0,"Toronto , Ontario",Iowa,Indianapolis Colts,17,187.96,92.99,1st season,tevaunsmith/2556399
+"Heath, Jeff",26.0,"Warren , MI",Saginaw Valley State,Dallas Cowboys,38,185.42,96.16,5th season,jeffheath/2541832
+"Marshall, Jalin",21.0,"Middletown , OH",Ohio State,New York Jets,89,177.8,90.72,2nd season,jalinmarshall/2556606
+"McCarron, AJ",26.0,"Mobile , AL",Alabama,Cincinnati Bengals,5,190.5,99.79,3rd season,ajmccarron/2543497
+"Braverman, Daniel",23.0,"Miami , FL",Western Michigan,Chicago Bears,83,177.8,83.91,1st season,danielbraverman/2556144
+"Murphy, Pace",23.0,"Houston , TX",Northwestern State-Louisiana,Los Angeles Rams,72,198.12,133.81,2nd season,pacemurphy/2556627
+"Reid, Caraun",25.0,"Bronx , NY",Princeton,Los Angeles Chargers,91,187.96,135.17,4th season,caraunreid/2543748
+"Donnal, Andrew",25.0,"Monclova , OH",Iowa,Los Angeles Rams,64,198.12,143.34,3rd season,andrewdonnal/2552352
+"Brate, Cameron",25.0,"Naperville , IL",Harvard,Tampa Bay Buccaneers,84,195.58,106.59,3rd season,cameronbrate/2550656
+"McDermott, Conor",24.0,"Nashville , TN",UCLA,New England Patriots,67,203.2,139.25,Rookie,conormcdermott/2557868
+"Blackson, Angelo",24.0,"Townsend , DE",Auburn,Tennessee Titans,95,193.04,144.24,3rd season,angeloblackson/2552670
+"Heath, Joel",23.0,"Cincinnati , OH",Michigan State,Houston Texans,93,195.58,136.08,2nd season,joelheath/2556551
+"Zuerlein, Greg",29.0,"Lincoln , NE",Missouri Western State,Los Angeles Rams,4,182.88,88.9,6th season,gregzuerlein/2534797
+"Rhodes, Luke",24.0,"Hollidaysburg , PA",William & Mary,Indianapolis Colts,46,187.96,109.77,1st season,lukerhodes/2556664
+"Henne, Chad",31.0,"Wyomissing , PA",Michigan,Jacksonville Jaguars,7,190.5,99.34,10th season,chadhenne/252
+"Ninkovich, Rob",33.0,"New Lenox , IL",Purdue,New England Patriots,50,187.96,117.93,12th season,robninkovich/2495920
+"Thomas, Michael",27.0,"Houston , TX",Stanford,Miami Dolphins,31,180.34,87.54,5th season,michaelthomas/2535687
+"Barrett, Shaquil",24.0,"Baltimore , MD",Colorado State,Denver Broncos,48,187.96,113.4,4th season,shaquilbarrett/2550541
+"Houston, Lamarr",29.0,"San Francisco , CA",Texas,Chicago Bears,99,190.5,124.28,8th season,lamarrhouston/496794
+"Long, Kyle",28.0,"Santa Monica , CA",Oregon,Chicago Bears,75,198.12,145.15,5th season,kylelong/2539933
+"Bray, Quan",24.0,"La Grange , GA",Auburn,Indianapolis Colts,11,177.8,84.37,3rd season,quanbray/2553467
+"Parks, Will",22.0,"Philadelphia , PA",Arizona,Denver Broncos,34,182.88,90.72,2nd season,willparks/2556278
+"Garoppolo, Jimmy",25.0,"Franklin Park , IL",Eastern Illinois,New England Patriots,10,187.96,102.06,4th season,jimmygaroppolo/2543801
+"Ivory, Chris",29.0,"Longview , TX",Tiffin University,Jacksonville Jaguars,33,182.88,101.6,8th season,chrisivory/2507999
+"Middleton, Doug",23.0,"Beaufort , SC",Appalachian State,New York Jets,36,182.88,95.25,1st season,dougmiddleton/2556617
+"Denney, John",38.0,"Denver , CO",Brigham Young,Miami Dolphins,92,195.58,109.77,13th season,johndenney/2506220
+"McGrath, Sean",29.0,"Mundelein , IL",Henderson State,Los Angeles Chargers,84,195.58,117.48,3rd season,seanmcgrath/2535943
+"Barr, Anthony",25.0,"South Bend , IN",UCLA,Minnesota Vikings,55,195.58,115.67,4th season,anthonybarr/2543459
+"Green, Chaz",25.0,"Tampa , FL",Florida,Dallas Cowboys,79,195.58,136.08,3rd season,chazgreen/2552666
+"Richburg, Weston",25.0,"Louisville , KY",Colorado State,New York Giants,70,190.5,135.17,4th season,westonrichburg/2543705
+"Nicolas, Dadi",24.0,Port au Prince Haiti,Virginia Tech,Kansas City Chiefs,52,190.5,106.59,2nd season,dadinicolas/2555254
+"Allen, Ryan",27.0,"Salem , OR",Louisiana Tech,New England Patriots,6,187.96,99.79,5th season,ryanallen/2539640
+"Callahan, Joe",24.0,"Absecon , NJ",Wesley College,Green Bay Packers,6,185.42,97.98,2nd season,joecallahan/2556492
+"Watt, Derek",24.0,"Waukesha , WI",Wisconsin,Los Angeles Chargers,34,187.96,106.14,2nd season,derekwatt/2555220
+"Cameron, Jordan",28.0,"Los Angeles Co. , CA",USC,Miami Dolphins,84,195.58,120.2,7th season,jordancameron/2495267
+"Clayborn, Adrian",28.0,"St. Louis , MO",Iowa,Atlanta Falcons,99,190.5,127.01,7th season,adrianclayborn/2495140
+"Reyes, Kendall",27.0,USA,Connecticut,Kansas City Chiefs,98,193.04,136.08,6th season,kendallreyes/2532937
+"Weeks, Jon",31.0,"Bethpage , NY",Baylor,Houston Texans,46,177.8,113.4,8th season,jonweeks/2507831
+"Perry, Nick",27.0,"Detroit , MI",USC,Green Bay Packers,53,190.5,120.2,6th season,nickperry/2533048
+"Reed, Jarran",24.0,"Goldsboro , NC",Alabama,Seattle Seahawks,90,190.5,141.07,2nd season,jarranreed/2555238
+"Peters, Corey",28.0,"Pittsburgh , PA",Kentucky,Arizona Cardinals,98,190.5,138.35,8th season,coreypeters/496841
+"Decker, Taylor",23.0,"Vandalia , OH",Ohio State,Detroit Lions,68,200.66,141.07,2nd season,taylordecker/2555206
+"Melvin, Rashaan",27.0,"Waukegan , IL",Northern Illinois,Indianapolis Colts,30,187.96,87.54,5th season,rashaanmelvin/2541200
+"Cobb, Randall",26.0,"Maryville , TN",Kentucky,Green Bay Packers,18,177.8,87.09,7th season,randallcobb/2495448
+"Madden, Tre",23.0,", TX",USC,Seattle Seahawks,38,182.88,101.15,2nd season,tremadden/2556603
+"Ebron, Eric",24.0,"Newark , NJ",North Carolina,Detroit Lions,85,193.04,114.76,4th season,ericebron/2543466
+"Rodgers, Jacquizz",27.0,"Richmond , TX",Oregon State,Tampa Bay Buccaneers,32,167.64,92.99,7th season,jacquizzrodgers/2495471
+"Santos, Cairo",25.0,Sao Paulo Brazil,Tulane,Kansas City Chiefs,5,172.72,72.57,4th season,cairosantos/2550636
+"Rodgers, Aaron",33.0,"Chico , CA",California,Green Bay Packers,12,187.96,102.06,13th season,aaronrodgers/2506363
+"Kerridge, Joe",24.0,"Traverse City , MI",Michigan,Green Bay Packers,40,180.34,109.77,2nd season,joekerridge/2556415
+"Pitta, Dennis",31.0,"Fresno , CA",Brigham Young,Baltimore Ravens,88,193.04,107.95,8th season,dennispitta/497254
+"Calhoun, Taveze",24.0,"Brandon , MS",Mississippi State,New Orleans Saints,39,185.42,85.28,1st season,tavezecalhoun/2556491
+"Bishop, Freddie",27.0,"Detroit , MI",Western Michigan,New York Jets,56,190.5,115.67,1st season,freddiebishop/2542053
