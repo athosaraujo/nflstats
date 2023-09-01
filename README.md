@@ -6,7 +6,7 @@ Para a montagem desse Dashboard se foi utilizado um banco de dados obtidos no se
 Tal banco de dados consiste em informações sobre jogadores que já passaram e jogam atualmente na NFL, como idade, numero da camisa, time, experiencia, cidade natal e faculdade de escolha.
 
 ## Tratamento de dados
-No arquivo dataTreat.py é extraido as informações do arquivo "Basic_Stats.csv", obtido no repositório do Kaggle, transcrevendo as mesmas para um arquivo "processedData.csv"   
+No arquivo dataTreat.py é extraido as informações do arquivo "Basic_Stats.csv", obtido no repositório do Kaggle, transcrevendo as mesmas para um arquivo "processedData.csv", onde se é retirado todos os jogadores aposentados e com informações incompletas.
 
 ## Ferramentas utilizadas
 Neste trabalho foi-se utilizado as bibliotecas **plotly**, **dash**, e **pandas** do Python, tendo as duas primeiras como ferramentas de plotagem de gráficos e a implementação de tais gráficos em uma aplicação no localhost::1251.
