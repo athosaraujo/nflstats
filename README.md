@@ -5,10 +5,13 @@ Trabalho da matéria de Estatística e Probablidiade do 4 semestre de Engenharia
 Para a montagem desse Dashboard se foi utilizado um banco de dados obtidos no seguinte link: https://www.kaggle.com/datasets/kendallgillies/nflstatistics
 Tal banco de dados consiste em informações sobre jogadores que já passaram e jogam atualmente na NFL, como idade, numero da camisa, time, experiencia, cidade natal e faculdade de escolha.
 
-## Ferramentas utilizadas
-Neste trabalho se foi utilizado as bibliotecas **plotly**, **dash**, e **pandas** do Python, tendo as duas primeiras como ferramentas de plotagem de gráficos e a implementação de tais gráficos em uma aplicação no localhost::1251.
+## Tratamento de dados
+No arquivo dataTreat.py é extraido as informações do arquivo "Basic_Stats.csv", obtido no repositório do Kaggle, transcrevendo as mesmas para um arquivo "processedData.csv"   
 
-O pandas em si é uma biblioteca voltada ao manuseio e montagem de DataFrames que podem ser manipulados e visualizados pelo usuário, importando informações de arquivos externos feito o arquivo "Basic_Stats.csv".
+## Ferramentas utilizadas
+Neste trabalho foi-se utilizado as bibliotecas **plotly**, **dash**, e **pandas** do Python, tendo as duas primeiras como ferramentas de plotagem de gráficos e a implementação de tais gráficos em uma aplicação no localhost::1251.
+
+O pandas em si é uma biblioteca voltada ao manuseio e montagem de DataFrames que podem ser manipulados e visualizados pelo usuário.
 
 ## Gráficos e Tabela
 O projeto do Dashboard consiste em 3 partes principais.
